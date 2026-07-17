@@ -1,0 +1,141 @@
+{
+  "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
+  "groups": [
+    {
+      "name": "United States",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_local.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_uplynk.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_firetv.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_pbs.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_stirr.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_tubi.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_wowza.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_xumo.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_abcnews.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_cbsn.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_cineversetv.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_distro.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_klowdtv.m3u"
+      ]
+    },
+    {
+      "name": "United States (Pluto TV)",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_pluto.m3u"
+      ]
+    },
+    {
+      "name": "United States (Samsung TV)",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_samsung.m3u"
+      ]
+    },
+    {
+      "name": "Canada",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ca.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ca_stingray.m3u"
+      ]
+    },
+    {
+      "name": "Canada (Pluto TV)",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ca_pluto.m3u"
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk_bbc.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk_rakuten.m3u"
+      ]
+    },
+    {
+      "name": "United Kingdom (Pluto TV)",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk_pluto.m3u"
+      ]
+    },
+    {
+      "name": "United Kingdom (Samsung TV)",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk_samsung.m3u"
+      ]
+    },
+    {
+      "name": "Brazil",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/br.m3u"
+      ]
+    },
+    {
+      "name": "Brazil (Pluto TV)",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/br_pluto.m3u"
+      ]
+    },
+    {
+      "name": "Portugal",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/pt.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/pt_samsung.m3u"
+      ]
+    },
+    {
+      "name": "Spain",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/es.m3u"
+      ]
+    },
+    {
+      "name": "Spain (Pluto TV)",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/es_pluto.m3u"
+      ]
+    },
+    {
+      "name": "Italy",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/it.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/it_rakuten.m3u"
+      ]
+    },
+    {
+      "name": "Italy (Pluto TV)",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/it_pluto.m3u"
+      ]
+    },
+    {
+      "name": "France",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/fr.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/fr_bfm.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/fr_rakuten.m3u"
+      ]
+    },
+    {
+      "name": "France (Pluto TV)",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/fr_pluto.m3u"
+      ]
+    },
+    {
+      "name": "Russia",
+      "sources": [
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru_15plusmg.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru_bonustv.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru_catcast.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru_mylifeisgood.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru_ntv.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru_televizor24.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru_tvteleport.m3u",
+        "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru_zabava.m3u"
+      ]
+    }
+  ]
+}
