@@ -1,0 +1,63 @@
+name: Build TiviMate Playlist
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "playlist_builder.py"
+      - "sources.json"
+      - "tests/**"
+      - ".github/workflows/build-playlist.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tivimate-playlist-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Fetch all 46 sources and compile playlist
+        run: python playlist_builder.py
+
+      - name: Keep scheduled workflow active
+        shell: bash
+        run: |
+          set -euo pipefail
+          date -u +"%G-W%V" > output/heartbeat.txt
+
+      - name: Commit changed output
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/
+
+          if git diff --cached --quiet; then
+            echo "No playlist changes detected."
+            exit 0
+          fi
+
+          git commit -m "Update compiled TiviMate playlist"
+          git push
