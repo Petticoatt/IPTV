@@ -7060,8 +7060,6 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cb
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="CBBC.uk@SD" group-title="United Kingdom",CBBC HD (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk@SD" group-title="United Kingdom",CBeebies Asia (720p)
-https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd
 #EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="United Kingdom",CBeebies HD (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="United Kingdom",CBeebies HD (720p) [Geo-blocked]
@@ -7232,12 +7230,8 @@ https://hls.iranfarda.live/hls/stream.m3u8
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="IslamChannelUrdu.uk@SD" group-title="United Kingdom",Islam Channel Urdu (576p)
 https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="ITV1.uk@London" group-title="United Kingdom",ITV1 (1080p)
-http://80.194.62.172:50002/stream/channelid/95929545
 #EXTINF:-1 tvg-id="ITV1.uk@LondonHD" group-title="United Kingdom",ITV1 London HD (720p)
 http://45.153.96.44:8006
-#EXTINF:-1 tvg-id="ITV2.uk@SD" group-title="United Kingdom",ITV2 (1080p)
-http://80.194.62.172:50002/stream/channelid/404728797
 #EXTINF:-1 tvg-id="ITV2.uk@HD" group-title="United Kingdom",ITV2 HD (1080p)
 http://45.153.96.44:8007
 #EXTINF:-1 tvg-id="ITV3.uk@Plus1" group-title="United Kingdom",ITV3 +1 (720p)
