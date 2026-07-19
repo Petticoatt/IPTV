@@ -3484,6 +3484,9 @@ https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.28
 https://amg00145-letsplayinc-thepriceisright-xumo-eqq6a.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheQIndia.us@SD" group-title="United States",The Q India (576p)
 https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
+#EXTINF:-1 tvg-id="TheQIndia.us@SD" group-title="United States",The Q India (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/25/25_0.m3u8
 #EXTINF:-1 tvg-id="TSC.ca@SD" group-title="United States",The Shopping Channel (720p)
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-id="TheWalkTV.us@SD" group-title="United States",The Walk TV (720p)
@@ -4003,6 +4006,8 @@ http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us@SD" group-title="United States",Willow Sports (1080p) [Geo-blocked]
 https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WillowSports.us@SD" group-title="United States",Willow Sports (1080p) [Geo-blocked]
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us@SD" group-title="United States",Willow Sports (1080p) [Geo-blocked]
 https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="WindowTV.us@SD" group-title="United States",Window TV (720p)
@@ -9860,7 +9865,8 @@ https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="IntercomarcalTV.es@SD" group-title="Spain",Intercomarcal TV (576p) [Not 24/7]
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 #EXTINF:-1 tvg-id="KinoKazka.es@SD" group-title="Spain",KinoKazka (1080p)
-http://176.122.125.10:8080/KinoKazka/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/167/index.m3u8
 #EXTINF:-1 tvg-id="La1.es@SD" group-title="Spain",La 1 (720p)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La1.es@SD" group-title="Spain",La 1 (720p) [Geo-blocked]
