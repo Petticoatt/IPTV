@@ -115,3 +115,11 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01
 http://187.62.68.32:8080/GLOBO/index.m3u8
 #EXTINF:-1 tvg-id="TVECultura.br@SD",BR| TVE Cultura
 http://45.190.28.50/TVE/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us@SD",US| CNN
+http://206.212.244.63/43/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us@SD",US| Comedy Central
+http://206.212.244.63/44/index.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us@SD",US| Cooking Channel
+http://206.212.244.63/47/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us@SD",US| Paramount Network
+http://206.212.244.63/137/index.m3u8
