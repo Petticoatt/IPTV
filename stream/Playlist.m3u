@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SBTNacional.br@SD",BR| SBT
+http://45.190.28.50/SBT_HD/index.m3u8
+#EXTINF:-1 tvg-id="SBTNovaMutum.br@SD",BR| SBT (Nova Mutum)
+https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTSinop.br@SD",BR| SBT (Sinop)
+https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTNews.br@SD",BR| SBT News
+http://45.190.156.152/SBT_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="SBTNews.br@SD",BR| SBT News
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 tvg-id="GloboNews.br@SD",BR| Globo News
+http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD",BR| Globo
+http://45.190.156.152/GLOBO_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br@SD",BR| Globo (RJ)
+http://45.190.28.50/GLOBO_HD/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD",BR| RedeTV!
+http://45.190.28.50/REDE_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD",BR| RedeTV!
+http://45.162.64.114/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTVES.br@SD",BR| RedeTV! (ES)
+https://streaming.cloudecast.com/hls/redetves/index.m3u8
+#EXTINF:-1 tvg-id="RedeTVMais.br@SD",BR| RedeTV! Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD",BR| Rede Vida
+http://45.190.28.50/REDE_VIDA_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band.br@SD",BR| Band
+http://45.190.28.50/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD",BR| Band Sports
+http://45.162.64.114/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD",BR| Band Sports
+http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD",BR| Band News
+http://45.162.64.114/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD",BR| Band News
+http://45.190.28.50/BAND_NEWS_HD/index.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD",BR| Rede Vida
+http://45.190.28.50/REDE_VIDA_HD/index.m3u8
+#EXTINF:-1 tvg-id="Record.br@SD",BR| Record
+http://45.190.28.50/RECORD/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p)
+http://45.162.64.114/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD",BR| Record News
+http://45.190.28.50/RECORD_NEWS_HD/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD",BR| Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="Record.br@SD",BR| Record
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="RecordTVInteriorSP.br@SD",BR| Record
+http://200.77.176.130:8000/udp/224.0.0.4:49152
+#EXTINF:-1 tvg-id="Record.br@SD",BR| Record (Satellite)
+https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br@SD",BR| Gazeta
+http://45.162.64.114/TV_GAZETA/index.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br@SD",BR| Gazeta
+http://45.190.28.50/GAZETA_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD",BR| Cultura
+http://45.162.64.114/TV_CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD",BR| Cultura
+http://45.190.28.50/TV_CULTURA_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br@SD",BR| Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-id="TimesBrasil.br@SD",BR| Times Brasil
+http://45.190.28.50/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="TimesBrasil.br@SD",BR| Times Brasil
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
