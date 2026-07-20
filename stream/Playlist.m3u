@@ -13,7 +13,7 @@ https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD",BR| Globo
 http://45.190.156.152/GLOBO_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br@SD",BR| Globo (RJ)
+#EXTINF:-1 tvg-id="GloboSP.br@SD",BR| Globo (SP)
 http://45.190.28.50/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD",BR| RedeTV!
 http://45.190.28.50/REDE_TV_HD/index.m3u8
@@ -65,3 +65,53 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 http://45.190.28.50/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="TimesBrasil.br@SD",BR| Times Brasil
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@West",US| Disney Channel West
+http://206.212.244.63/3146/index.m3u8
+#EXTINF:-1 tvg-id="AWE.us@SD",US| AWE
+http://206.212.244.63/11/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.us@US",US| BabyTV
+http://206.212.244.63/641/index.m3u8
+#EXTINF:-1 tvg-id="BETHerPacific.us@West",US| BET Her West
+http://206.212.244.63/19/index.m3u8
+#EXTINF:-1 tvg-id="BETPacific.us@West",US| BET West
+http://206.212.244.63/16/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJuniorPacific.us@SD",US| Disney Junior West
+http://185.102.171.218/DisneyJunior/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicPacific.us@SD",US| Nat Geo West
+http://206.212.244.63/122/index.m3u8
+#EXTINF:-1 tvg-id="NBCSportsChicago4K.us@SD",US| NBC Sports (Chicago)
+http://206.212.244.63/6141/index.m3u8
+#EXTINF:-1 tvg-id="NickToonsPacific.us@SD",US| Nicktoons West
+http://206.212.244.63/3152/index.m3u8
+#EXTINF:-1 tvg-id="CBSWCBS.us@SD",US| CBS (NY)
+http://206.212.244.63/32/index.m3u8
+#EXTINF:-1 tvg-id="FOXKTBC.us@SD",US| Fox (Austin)
+http://stream.cammonitorplus.net/1833/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",US| Fox News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCKVUE.us@SD",US| ABC (Austin)
+http://stream.cammonitorplus.net/1831/index.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us@SD",US| ABC News (Austin)
+https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+#EXTINF:-1 tvg-id="NBCKXAN.us@SD",US| NBC (Austin)
+http://stream.cammonitorplus.net/1834/index.m3u8
+#EXTINF:-1 tvg-id="CBSKEYE.us@SD",US| CBS (Austin)
+http://stream.cammonitorplus.net/1832/index.m3u8
+#EXTINF:-1 tvg-id="FOXKDFW.us@SD",US| NBC (Dallas)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a
+#EXTINF:-1 tvg-id="ABCWFAA.us@SD",US| ABC (Dallas)
+http://stream.cammonitorplus.net/1762/index.m3u8
+#EXTINF:-1 tvg-id="CBSKTVT.us@SD",US| CBS (Dallas)
+http://stream.cammonitorplus.net/1763/index.m3u8
+#EXTINF:-1 tvg-id="CBSKHOU.us@SD",US| CBS (Houston)
+http://stream.cammonitorplus.net/1779/index.m3u8
+#EXTINF:-1 tvg-id="ABCKTRK.us@SD",US| ABC (Houston)
+http://stream.cammonitorplus.net/1778/index.m3u8
+#EXTINF:-1 tvg-id="PBSWGBH.us@SD",US| PBS (Boston)
+http://1tv41.icu:8080/live/sm@synergyplangroup.ca/I0RfrFOHo5/149621.m3u8
+#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD",US| CNBC Prime (India)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="GloboSP.br@SD",BR| Globo (SP)
+http://187.62.68.32:8080/GLOBO/index.m3u8
+#EXTINF:-1 tvg-id="TVECultura.br@SD",BR| TVE Cultura
+http://45.190.28.50/TVE/index.m3u8
