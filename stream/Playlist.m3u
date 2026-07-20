@@ -51,19 +51,20 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 tvg-id="Record.br@SD",BR| Record (Satellite)
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD",BR| Gazeta
+#EXTINF:-1 tvg-id="TVGazeta.br",BR| Gazeta
 http://45.162.64.114/TV_GAZETA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD",BR| Gazeta
+#EXTINF:-1 tvg-id="TVGazeta.br",BR| Gazeta
 http://45.190.28.50/GAZETA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD",BR| Cultura
+#EXTINF:-1 tvg-id="TVCultura.br",BR| Cultura
 http://45.162.64.114/TV_CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD",BR| Cultura
+#EXTINF:-1 tvg-id="TVCultura.br",BR| Cultura
 http://45.190.28.50/TV_CULTURA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br@SD",BR| Aparecida
+#EXTINF:-1 tvg-id="TVAparecida.br",BR| Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="TimesBrasil.br@SD",BR| Times Brasil
 http://45.190.28.50/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="TimesBrasil.br@SD",BR| Times Brasil
+#EXTINF:-1 tvg-id="TimesBrasil.br
+",BR| Times Brasil
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@West",US| Disney Channel West
 http://206.212.244.63/3146/index.m3u8
