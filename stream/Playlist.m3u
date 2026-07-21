@@ -1,74 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SBTNacional.br@SD",BR| SBT
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="http://51.158.145.100/picons/logos/SBT-TV-BR.jpeg" group-title="IPTV"BR| SBT
 http://45.190.28.50/SBT_HD/index.m3u8
-#EXTINF:-1 tvg-id="SBTNovaMutum.br@SD",BR| SBT (Nova Mutum)
+#EXTINF:-1 tvg-id="SBTNovaMutum.br" tvg-logo="http://51.158.145.100/picons/logos/SBT-TV-BR.jpeg" group-title="IPTV"BR| SBT (Nova Mutum)
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTSinop.br@SD",BR| SBT (Sinop)
+#EXTINF:-1 tvg-id="SBTSinop.br" tvg-logo="http://51.158.145.100/picons/logos/SBT-TV-BR.jpeg" group-title="IPTV"BR| SBT (Sinop)
 https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTNews.br@SD",BR| SBT News
+#EXTINF:-1 tvg-id="SBTNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="IPTV"BR| SBT News
 http://45.190.156.152/SBT_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="SBTNews.br@SD",BR| SBT News
+#EXTINF:-1 tvg-id="SBTNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="IPTV"BR| SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
-#EXTINF:-1 tvg-id="GloboNews.br@SD",BR| Globo News
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="IPTV"BR| Globo News
 http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD",BR| Globo
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-logo="http://51.158.145.100/picons/logos/GLOBO-TV-BR.png" group-title="IPTV"BR| Globo
 http://45.190.156.152/GLOBO_HD/index.m3u8
-#EXTINF:-1 tvg-id="GloboSP.br@SD",BR| Globo (SP)
+#EXTINF:-1 tvg-id="GloboSP.br" tvg-logo="http://51.158.145.100/picons/logos/GLOBO-TV-BR.png" group-title="IPTV"BR| Globo (SP)
 http://45.190.28.50/GLOBO_HD/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD",BR| RedeTV!
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://51.158.145.100/picons/logos/RedeTV.png" group-title="IPTV"BR| RedeTV!
 http://45.190.28.50/REDE_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD",BR| RedeTV!
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://51.158.145.100/picons/logos/RedeTV.png" group-title="IPTV"BR| RedeTV!
 http://45.162.64.114/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="RedeTVES.br@SD",BR| RedeTV! (ES)
+#EXTINF:-1 tvg-id="RedeTVES.br" tvg-logo="http://51.158.145.100/picons/logos/RedeTV.png" group-title="IPTV"BR| RedeTV! (ES)
 https://streaming.cloudecast.com/hls/redetves/index.m3u8
-#EXTINF:-1 tvg-id="RedeTVMais.br@SD",BR| RedeTV! Mais
+#EXTINF:-1 tvg-id="RedeTVMais.br" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" group-title="IPTV"BR| RedeTV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br@SD",BR| Rede Vida
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="http://51.158.145.100/picons/logos/redevida.png" group-title="IPTV"BR| Rede Vida
 http://45.190.28.50/REDE_VIDA_HD/index.m3u8
-#EXTINF:-1 tvg-id="Band.br@SD",BR| Band
+#EXTINF:-1 tvg-id="Band.br" tvg-logo="http://51.158.145.100/picons/logos/bandsp.jpg" group-title="IPTV"BR| Band
 http://45.190.28.50/BAND_HD/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD",BR| Band Sports
+#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="http://51.158.145.100/picons/logos/BandSports.jpg" group-title="IPTV"BR| Band Sports
 http://45.162.64.114/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD",BR| Band Sports
+#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="http://51.158.145.100/picons/logos/BandSports.jpg" group-title="IPTV"BR| Band Sports
 http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD",BR| Band News
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg" group-title="IPTV"BR| Band News
 http://45.162.64.114/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD",BR| Band News
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg" group-title="IPTV"BR| Band News
 http://45.190.28.50/BAND_NEWS_HD/index.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br@SD",BR| Rede Vida
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="http://51.158.145.100/picons/logos/redevida.png" group-title="IPTV"BR| Rede Vida
 http://45.190.28.50/REDE_VIDA_HD/index.m3u8
-#EXTINF:-1 tvg-id="Record.br@SD",BR| Record
+#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/960px-Logotipo_da_Record.png" group-title="IPTV"BR| Record
 http://45.190.28.50/RECORD/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p)
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="http://51.158.145.100/picons/logos/recordnews.png" group-title="IPTV"Record News (720p)
 http://45.162.64.114/RECORD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD",BR| Record News
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="http://51.158.145.100/picons/logos/recordnews.png" group-title="IPTV"BR| Record News
 http://45.190.28.50/RECORD_NEWS_HD/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD",BR| Record News
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="http://51.158.145.100/picons/logos/recordnews.png" group-title="IPTV"BR| Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-id="Record.br@SD",BR| Record
+#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/960px-Logotipo_da_Record.png" group-title="IPTV"BR| Record
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="RecordTVInteriorSP.br@SD",BR| Record
+#EXTINF:-1 tvg-id="RecordTVInteriorSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/960px-Logotipo_da_Record.png" group-title="IPTV"BR| Record
 http://200.77.176.130:8000/udp/224.0.0.4:49152
-#EXTINF:-1 tvg-id="Record.br@SD",BR| Record (Satellite)
+#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/960px-Logotipo_da_Record.png" group-title="IPTV"BR| Record (Satellite)
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br",BR| Gazeta
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="" group-title="IPTV"BR| Gazeta
 http://45.162.64.114/TV_GAZETA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br",BR| Gazeta
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="" group-title="IPTV"BR| Gazeta
 http://45.190.28.50/GAZETA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br",BR| Cultura
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-logo="" group-title="IPTV"BR| Cultura
 http://45.162.64.114/TV_CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br",BR| Cultura
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-logo="" group-title="IPTV"BR| Cultura
 http://45.190.28.50/TV_CULTURA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br",BR| Aparecida
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="" group-title="IPTV"BR| Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="TimesBrasil.br@SD",BR| Times Brasil
+#EXTINF:-1 tvg-id="TimesBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Times_Brasil_CNBC_logo_2025.svg" group-title="IPTV"BR| Times Brasil
 http://45.190.28.50/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="TimesBrasil.br
-",BR| Times Brasil
+#EXTINF:-1 tvg-id="TimesBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Times_Brasil_CNBC_logo_2025.svg" group-title="IPTV"BR| Times Brasil
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@West",US| Disney Channel West
 http://206.212.244.63/3146/index.m3u8
-#EXTINF:-1 tvg-id="AWE.us@SD",US| AWE
+#EXTINF:-1 tvg-id="AWE.us" tvg-logo="" group-title="IPTV"US| AWE
 http://206.212.244.63/11/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.us@US",US| BabyTV
 http://206.212.244.63/641/index.m3u8
@@ -76,51 +75,59 @@ http://206.212.244.63/641/index.m3u8
 http://206.212.244.63/19/index.m3u8
 #EXTINF:-1 tvg-id="BETPacific.us@West",US| BET West
 http://206.212.244.63/16/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJuniorPacific.us@SD",US| Disney Junior West
+#EXTINF:-1 tvg-id="DisneyJuniorPacific.us" tvg-logo="" group-title="IPTV"US| Disney Junior West
 http://185.102.171.218/DisneyJunior/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicPacific.us@SD",US| Nat Geo West
+#EXTINF:-1 tvg-id="NationalGeographicPacific.us" tvg-logo="" group-title="IPTV"US| Nat Geo West
 http://206.212.244.63/122/index.m3u8
-#EXTINF:-1 tvg-id="NBCSportsChicago4K.us@SD",US| NBC Sports (Chicago)
+#EXTINF:-1 tvg-id="NBCSportsChicago4K.us" tvg-logo="" group-title="IPTV"US| NBC Sports (Chicago)
 http://206.212.244.63/6141/index.m3u8
-#EXTINF:-1 tvg-id="NickToonsPacific.us@SD",US| Nicktoons West
+#EXTINF:-1 tvg-id="NickToonsPacific.us" tvg-logo="" group-title="IPTV"US| Nicktoons West
 http://206.212.244.63/3152/index.m3u8
-#EXTINF:-1 tvg-id="CBSWCBS.us@SD",US| CBS (NY)
+#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-logo="" group-title="IPTV"US| CBS (NY)
 http://206.212.244.63/32/index.m3u8
-#EXTINF:-1 tvg-id="FOXKTBC.us@SD",US| Fox (Austin)
+#EXTINF:-1 tvg-id="FOXKTBC.us" tvg-logo="" group-title="IPTV"US| Fox (Austin)
 http://stream.cammonitorplus.net/1833/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",US| Fox News
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="" group-title="IPTV"US| Fox News
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCKVUE.us@SD",US| ABC (Austin)
+#EXTINF:-1 tvg-id="ABCKVUE.us" tvg-logo="" group-title="IPTV"US| ABC (Austin)
 http://stream.cammonitorplus.net/1831/index.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us@SD",US| ABC News (Austin)
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="" group-title="IPTV"US| ABC News (Austin)
 https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
-#EXTINF:-1 tvg-id="NBCKXAN.us@SD",US| NBC (Austin)
+#EXTINF:-1 tvg-id="NBCKXAN.us" tvg-logo="" group-title="IPTV"US| NBC (Austin)
 http://stream.cammonitorplus.net/1834/index.m3u8
-#EXTINF:-1 tvg-id="CBSKEYE.us@SD",US| CBS (Austin)
+#EXTINF:-1 tvg-id="CBSKEYE.us" tvg-logo="" group-title="IPTV"US| CBS (Austin)
 http://stream.cammonitorplus.net/1832/index.m3u8
-#EXTINF:-1 tvg-id="FOXKDFW.us@SD",US| NBC (Dallas)
+#EXTINF:-1 tvg-id="FOXKDFW.us" tvg-logo="" group-title="IPTV"US| NBC (Dallas)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a
-#EXTINF:-1 tvg-id="ABCWFAA.us@SD",US| ABC (Dallas)
+#EXTINF:-1 tvg-id="ABCWFAA.us" tvg-logo="" group-title="IPTV"US| ABC (Dallas)
 http://stream.cammonitorplus.net/1762/index.m3u8
-#EXTINF:-1 tvg-id="CBSKTVT.us@SD",US| CBS (Dallas)
+#EXTINF:-1 tvg-id="CBSKTVT.us" tvg-logo="" group-title="IPTV"US| CBS (Dallas)
 http://stream.cammonitorplus.net/1763/index.m3u8
-#EXTINF:-1 tvg-id="CBSKHOU.us@SD",US| CBS (Houston)
+#EXTINF:-1 tvg-id="CBSKHOU.us" tvg-logo="" group-title="IPTV"US| CBS (Houston)
 http://stream.cammonitorplus.net/1779/index.m3u8
-#EXTINF:-1 tvg-id="ABCKTRK.us@SD",US| ABC (Houston)
+#EXTINF:-1 tvg-id="ABCKTRK.us" tvg-logo="" group-title="IPTV"US| ABC (Houston)
 http://stream.cammonitorplus.net/1778/index.m3u8
-#EXTINF:-1 tvg-id="PBSWGBH.us@SD",US| PBS (Boston)
+#EXTINF:-1 tvg-id="PBSWGBH.us" tvg-logo="" group-title="IPTV"US| PBS (Boston)
 http://1tv41.icu:8080/live/sm@synergyplangroup.ca/I0RfrFOHo5/149621.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD",US| CNBC Prime (India)
+#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in" tvg-logo="https://www.cnbctv18.com/static/images/cnbc-new-logo/cnbc-prime-livetv.svg" group-title="IPTV"US| CNBC Prime (India)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="GloboSP.br@SD",BR| Globo (SP)
+#EXTINF:-1 tvg-id="GloboSP.br" tvg-logo="http://51.158.145.100/picons/logos/GLOBO-TV-BR.png" group-title="IPTV"BR| Globo (SP)
 http://187.62.68.32:8080/GLOBO/index.m3u8
-#EXTINF:-1 tvg-id="TVECultura.br@SD",BR| TVE Cultura
+#EXTINF:-1 tvg-id="TVECultura.br" tvg-logo="" group-title="IPTV"BR| TVE Cultura
 http://45.190.28.50/TVE/index.m3u8
-#EXTINF:-1 tvg-id="CNN.us@SD",US| CNN
-http://206.212.244.63/43/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us@SD",US| Comedy Central
-http://206.212.244.63/44/index.m3u8
-#EXTINF:-1 tvg-id="CookingChannel.us@SD",US| Cooking Channel
-http://206.212.244.63/47/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.us@SD",US| Paramount Network
-http://206.212.244.63/137/index.m3u8
+#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" group-title="IPTV"US CNBC (UK)
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" group-title="IPTV"|US CNBC (UK)
+https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" group-title="IPTV"US| CNBC (Spain)
+https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCEUROPE.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" group-title="IPTV"US| CNBC (France)
+https://amg01079-nbcuuk-amg01079c1-lg-fr-2032.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgfr/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" group-title="IPTV"US| CNBC
+http://206.212.244.63/41/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CNBC_World_2025.svg" group-title="IPTV"US| CNBC World
+http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/CNBC_Indonesia_2025.svg" group-title="IPTV"US| CNBC (Indonesia)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us@HD",US| NBC News Now (UK)
+http://206.212.244.63/127/index.m3u8
