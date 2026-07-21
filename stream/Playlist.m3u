@@ -115,9 +115,9 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01
 http://187.62.68.32:8080/GLOBO/index.m3u8
 #EXTINF:-1 tvg-id="TVECultura.br" tvg-logo="" group-title="IPTV",BR| TVE Cultura
 http://45.190.28.50/TVE/index.m3u8
-#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="" group-title="IPTV",US CNBC (UK)
+#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="" group-title="IPTV",US| CNBC (UK)
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="" group-title="IPTV",|US CNBC (UK)
+#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="" group-title="IPTV",US| CNBC (UK)
 https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBC.es" tvg-logo="" group-title="IPTV",US| CNBC (Spain)
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
