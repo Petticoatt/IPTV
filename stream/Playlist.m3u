@@ -77,6 +77,8 @@ http://45.190.28.50/CNBC/index.m3u8
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-logo="https://images.open-epg.com/14358983.png" group-title="IPTV",US| Fox Business
 http://206.212.244.63/66/index.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="IPTV",US| Yahoo Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="History.us" tvg-logo="https://images.open-epg.com/14359006.png" group-title="IPTV",US| History
 http://206.212.244.63/91/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicPacific.us" tvg-logo="https://images.open-epg.com/9411869.png" group-title="IPTV",US| Nat Geo
