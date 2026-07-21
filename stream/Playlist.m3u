@@ -39,7 +39,7 @@ http://45.190.28.50/BAND_NEWS_HD/index.m3u8
 http://45.190.28.50/REDE_VIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="Record.br" tvg-logo="" group-title="IPTV",BR| Record
 http://45.190.28.50/RECORD/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="" group-title="IPTV",Record News (720p)
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="" group-title="IPTV",Record News
 http://45.162.64.114/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="" group-title="IPTV",BR| Record News
 http://45.190.28.50/RECORD_NEWS_HD/index.m3u8
@@ -61,9 +61,9 @@ http://45.162.64.114/TV_CULTURA/index.m3u8
 http://45.190.28.50/TV_CULTURA_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="" group-title="IPTV",BR| Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="TimesBrasil.br" tvg-logo="" group-title="IPTV",BR| Times Brasil
+#EXTINF:-1 tvg-id="TimesBrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0uVXkA3yyIPaNlnEn-jLzbhmwkmJFYrDP4b5qkx0LHw&s=10.png" group-title="IPTV",BR| Times Brasil (CNBC)
 http://45.190.28.50/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="TimesBrasil.br" tvg-logo="" group-title="IPTV",BR| Times Brasil
+#EXTINF:-1 tvg-id="TimesBrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0uVXkA3yyIPaNlnEn-jLzbhmwkmJFYrDP4b5qkx0LHw&s=10.png" group-title="IPTV",BR| Times Brasil (CNBC)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelPacific.us" tvg-logo="" group-title="IPTV",US| Disney Channel West
 http://206.212.244.63/3146/index.m3u8
@@ -124,7 +124,7 @@ https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlis
 #EXTINF:-1 tvg-id="CNBCEUROPE.fr" tvg-logo="" group-title="IPTV",US| CNBC (France)
 https://amg01079-nbcuuk-amg01079c1-lg-fr-2032.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgfr/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBC.us" tvg-logo="" group-title="IPTV",US| CNBC
-http://nok.haititivi.net/CNBC/index.m3u8
+https://gpuserver3.tier1streams.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNBCWorld.us" tvg-logo="" group-title="IPTV",US| CNBC World
 http://206.212.244.63/42/index.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="" group-title="IPTV",US| CNBC (Indonesia)
