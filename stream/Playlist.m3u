@@ -65,15 +65,15 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 http://45.190.28.50/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="TimesBrasil.br" tvg-logo="" group-title="IPTV",BR| Times Brasil
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@West",US| Disney Channel West
+#EXTINF:-1 tvg-id="DisneyChannelPacific.us" tvg-logo="" group-title="IPTV",US| Disney Channel West
 http://206.212.244.63/3146/index.m3u8
 #EXTINF:-1 tvg-id="AWE.us" tvg-logo="" group-title="IPTV",US| AWE
 http://206.212.244.63/11/index.m3u8
-#EXTINF:-1 tvg-id="BabyTV.us@US",US| BabyTV
+#EXTINF:-1 tvg-id="BabyTV.us" tvg-logo="" group-title="IPTV",US| BabyTV
 http://206.212.244.63/641/index.m3u8
-#EXTINF:-1 tvg-id="BETHerPacific.us@West",US| BET Her West
+#EXTINF:-1 tvg-id="BETHerPacific.us" tvg-logo="" group-title="IPTV",US| BET Her West
 http://206.212.244.63/19/index.m3u8
-#EXTINF:-1 tvg-id="BETPacific.us@West",US| BET West
+#EXTINF:-1 tvg-id="BETPacific.us" tvg-logo="" group-title="IPTV",US| BET West
 http://206.212.244.63/16/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJuniorPacific.us" tvg-logo="" group-title="IPTV",US| Disney Junior West
 http://185.102.171.218/DisneyJunior/index.m3u8
@@ -129,5 +129,5 @@ http://206.212.244.63/41/index.m3u8
 http://206.212.244.63/42/index.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="" group-title="IPTV",US| CNBC (Indonesia)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us@HD",US| NBC News Now (UK)
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="" group-title="IPTV",US| NBC News Now (UK)
 http://206.212.244.63/127/index.m3u8
