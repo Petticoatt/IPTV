@@ -239,6 +239,16 @@ http://45.190.28.50/REDE_VIDA_HD/index.m3u8
 http://45.190.28.50/REDE_VIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="Curta.br" tvg-logo="https://images.open-epg.com/9242692.png" group-title="IPTV",BR| Curta!
 http://45.190.156.152/CURTA!/index.m3u8
+#EXTINF:-1 tvg-id="AandE.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="IPTV",BR| A&E
+http://45.190.28.50/AE_HD/index.m3u8
+#EXTINF:-1 tvg-id="AMC.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="IPTV",BR| AMC
+http://45.190.156.152/AMC/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="IPTV",BR| Sony Channel
+http://45.190.28.50/SONY_HD/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="IPTV",BR| Studio Universal
+http://45.190.156.152/STUDIO_UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-id="Universal.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="IPTV",BR| Universal TV
+http://45.190.156.152/UNIVERSAL_TV/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNetmovies.br" tvg-logo="https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoSVG.svg" group-title="IPTV",BR| NetMovies
 https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="IPTV",BR| TNT Novelas
@@ -263,6 +273,16 @@ https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/720p.m3u8?token=Mw3YKkujzIi9h
 http://45.162.64.114/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://images.open-epg.com/13873.png" group-title="IPTV",BR| Band News
 http://45.190.28.50/BAND_NEWS_HD/index.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="IPTV",BR| History Channel
+http://45.190.28.50/HISTORY_HD/index.m3u8
+#EXTINF:-1 tvg-id="BoxKids.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="IPTV",BR| Box Kids TV
+http://45.190.28.50/BOX_KIDS_HD/index.m3u8
+#EXTINF:-1 tvg-id="dumdum.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="IPTV",BR| DumDum
+http://45.190.156.152/ZOOMOO/index.m3u8
+#EXTINF:-1 tvg-id="ChefTV.br" tvg-logo="https://i.imgur.com/UYksTee.png" group-title="IPTV",BR| Chef TV
+http://45.190.28.50/CHEF_TV/index.m3u8
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-logo="https://images.open-epg.com/21218.png" group-title="IPTV",BR| Travel Box
+http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://images.open-epg.com/13873.png" group-title="IPTV",BR| Band Sports
 http://45.162.64.114/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-logo="" group-title="IPTV",BR| Band Sports
