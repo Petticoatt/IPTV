@@ -33,10 +33,14 @@ http://stream.cammonitorplus.net/1764/index.m3u8
 http://41.205.93.154/FOX49/index.m3u8
 #EXTINF:-1 tvg-id="FOXKTTV.us" tvg-logo="https://images.open-epg.com/42643.png" group-title="IPTV",US| Fox (LA)
 http://206.212.244.63/63/index.m3u8
-#EXTINF:-1 tvg-id="KCWX.us" tvg-logo="https://static.wixstatic.com/media/043262_c52b6992004241c1a4141822afedba8d~mv2.png/v1/fill/w_157,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/New_KCWX_Logos_2024-01.png" group-title="IPTV",US| MyNetworkTV (Austin)
+#EXTINF:-1 tvg-id="KX.us" tvg-logo="https://static.wixstatic.com/media/043262_c52b6992004241c1a4141822afedba8d~mv2.png/v1/fill/w_157,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/New_KX_Logos_2024-01.png" group-title="IPTV",US| MyNetworkTV (Austin)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CWKSTW.us" tvg-logo="https://images.open-epg.com/12930.png" group-title="IPTV",US| The CW (Seattle)
 https://gpuserver3.tier1streams.com/CW/index.m3u8
+#EXTINF:-1 tvg-id="CWForever.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/CW_Forever_%282024%29_%28better_version%29.png/revision/latest?cb=20250718132251.png" group-title="IPTV",US| The CW Forever
+https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="CWGold.us" tvg-logo="logos.fandom.com/wiki/CW_Gold?file=CW_Gold_(2024).jpg" group-title="IPTV",US| The CW Gold
+https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSWGBX.us" tvg-logo="https://images.open-epg.com/42816.png" group-title="IPTV",US| PBS (Boston)
 http://1tv41.icu:8080/live/sm@synergyplangroup.ca/I0RfrFOHo5/149621.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://images.open-epg.com/42589.png" group-title="IPTV",US| CNN
