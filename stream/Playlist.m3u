@@ -188,9 +188,9 @@ http://206.212.244.63/641/index.m3u8
 #EXTINF:-1 tvg-id="NBCSportsChicago4K.us" tvg-logo="https://images.open-epg.com/42778.png" group-title="IPTV",US| NBC Sports (Chicago)
 http://206.212.244.63/6141/index.m3u8
 #EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://images.open-epg.com/13938.png" group-title="IPTV",BR| Cultura
-http://45.162.64.114/TV_CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://images.open-epg.com/13938.png" group-title="IPTV",BR| Cultura
 http://45.190.28.50/TV_CULTURA_HD/index.m3u8
+#EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://images.open-epg.com/13938.png" group-title="IPTV",BR| Cultura
+http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="SBTBrasil.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="IPTV",BR| SBT
 http://45.190.28.50/SBT_HD/index.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="IPTV",BR| SBT (Interior)
