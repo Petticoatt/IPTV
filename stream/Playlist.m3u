@@ -163,8 +163,10 @@ http://206.212.244.63/144/index.m3u8
 http://206.212.244.63/145/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.us" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="IPTV",US| SyFy
 http://206.212.244.63/152/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://images.open-epg.com/23256424.png" group-title="IPTV",US| TNT
-http://206.212.244.63/161/index.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://images.open-epg.com/23256424.png" group-title="IPTV",US| TNT (East)
+http://40.160.24.55/TNT_EAST/index.m3u8
+#EXTINF:-1 tvg-id="TNTPacific.us" tvg-logo="https://images.open-epg.com/23256424.png" group-title="IPTV",US| TNT (West)
+http://40.160.24.55/TNT_WEST/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://images.open-epg.com/28740.png" group-title="IPTV",US| USA Network
 http://206.212.244.63/168/index.m3u8
 #EXTINF:-1 tvg-id="WeTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/3840px-Wetv-july-2024-logo.svg.png" group-title="IPTV",US| We TV
