@@ -29,10 +29,10 @@ http://stream.cammonitorplus.net/1800/index.m3u8
 http://stream.cammonitorplus.net/1833/index.m3u8
 #EXTINF:-1 tvg-id="FOXKDFW.us" tvg-logo="https://images.open-epg.com/42643.png" group-title="IPTV",US| Fox (Dallas)
 http://stream.cammonitorplus.net/1764/index.m3u8
-#EXTINF:-1 tvg-id="FOXKTTV.us" tvg-logo="https://images.open-epg.com/42643.png" group-title="IPTV",US| Fox (LA)
-http://206.212.244.63/63/index.m3u8
 #EXTINF:-1 tvg-id="FOXWNYW.us" tvg-logo="https://images.open-epg.com/42643.png" group-title="IPTV",US| Fox (NY)
 http://41.205.93.154/FOX49/index.m3u8
+#EXTINF:-1 tvg-id="FOXKTTV.us" tvg-logo="https://images.open-epg.com/42643.png" group-title="IPTV",US| Fox (LA)
+http://206.212.244.63/63/index.m3u8
 #EXTINF:-1 tvg-id="CWKNVA.us" tvg-logo="https://images.open-epg.com/12930.png" group-title="IPTV",US| The CW (Austin)
 http://1tv41.icu:8080/live/sm@synergyplangroup.ca/I0RfrFOHo5/17777.m3u8
 #EXTINF:-1 tvg-id="PBSWGBX.us" tvg-logo="https://images.open-epg.com/42816.png" group-title="IPTV",US| PBS (Boston)
