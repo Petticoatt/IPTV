@@ -17,14 +17,14 @@ http://stream.cammonitorplus.net/1779/index.m3u8
 http://206.212.244.63/32/index.m3u8
 #EXTINF:-1 tvg-id="CBSKCBS.us" tvg-logo="https://images.open-epg.com/42569.png" group-title="IPTV",US| CBS (LA)
 http://stream.cammonitorplus.net/1798/index.m3u8
-#EXTINF:-1 tvg-id="NBCKNBC.us" tvg-logo="https://images.open-epg.com/42769.png" group-title="IPTV",US| NBC (LA)
-http://stream.cammonitorplus.net/1800/index.m3u8
 #EXTINF:-1 tvg-id="NBCKXAN.us" tvg-logo="https://images.open-epg.com/42769.png" group-title="IPTV",US| NBC (Austin)
 http://stream.cammonitorplus.net/1834/index.m3u8
 #EXTINF:-1 tvg-id="NBCKXAS.us" tvg-logo="https://images.open-epg.com/42769.png" group-title="IPTV",US| NBC (Dallas)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a"
 #EXTINF:-1 tvg-id="NBCEast_WNBC.us" tvg-logo="https://images.open-epg.com/42769.png" group-title="IPTV",US| NBC (NY)
 http://206.212.244.63/125/index.m3u8
+#EXTINF:-1 tvg-id="NBCKNBC.us" tvg-logo="https://images.open-epg.com/42769.png" group-title="IPTV",US| NBC (LA)
+http://stream.cammonitorplus.net/1800/index.m3u8
 #EXTINF:-1 tvg-id="FOXKTBC.us" tvg-logo="https://images.open-epg.com/42643.png" group-title="IPTV",US| Fox (Austin)
 http://stream.cammonitorplus.net/1833/index.m3u8
 #EXTINF:-1 tvg-id="FOXKDFW.us" tvg-logo="https://images.open-epg.com/42643.png" group-title="IPTV",US| Fox (Dallas)
