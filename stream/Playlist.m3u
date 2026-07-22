@@ -90,7 +90,7 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd749
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="IPTV",US| Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="SchwabNetwork.us" tvg-logo="https://i.imgur.com/zmQnKV6.png" group-title="IPTV",US| Schwab Network
-https://tdameritrade-distro.amagi.tv/playlist.m3u8
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-logo="https://images.open-epg.com/14358983.png" group-title="IPTV",US| Fox Business
 http://206.212.244.63/66/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-logo="https://images.open-epg.com/14358983.png" group-title="IPTV",US| Fox Business
