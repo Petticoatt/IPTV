@@ -153,10 +153,10 @@ http://206.212.244.63/1/index.m3u8
 http://206.212.244.63/11/index.m3u8
 #EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://images.open-epg.com/23256088.png" group-title="IPTV",US| HLN
 http://206.212.244.63/92/index.m3u8
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-logo="https://images.open-epg.com/9411863.png" group-title="IPTV",US| MTVLive
-http://206.212.244.63/118/index.m3u8
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-logo="https://images.open-epg.com/14358967.png" group-title="IPTV",US| Destination America
 http://206.212.244.63/50/index.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-logo="https://images.open-epg.com/9411863.png" group-title="IPTV",US| MTVLive
+http://206.212.244.63/118/index.m3u8
 #EXTINF:-1 tvg-id="MTV2.us" tvg-logo="https://images.open-epg.com/14359022.png" group-title="IPTV",US| MTV 2
 http://206.212.244.63/116/index.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.us" tvg-logo="https://images.open-epg.com/9411965.png" group-title="IPTV",US| Travel Channel
