@@ -167,8 +167,10 @@ http://206.212.244.63/152/index.m3u8
 http://40.160.24.55/TNT_EAST/index.m3u8
 #EXTINF:-1 tvg-id="TNTPacific.us" tvg-logo="https://images.open-epg.com/23256424.png" group-title="IPTV",US| TNT (West)
 http://40.160.24.55/TNT_WEST/index.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://images.open-epg.com/28740.png" group-title="IPTV",US| USA Network
-http://206.212.244.63/168/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://images.open-epg.com/28740.png" group-title="IPTV",US| USA Network (East)
+http://40.160.24.55/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkPacific.us" tvg-logo="https://images.open-epg.com/28740.png" group-title="IPTV",US| USA Network (West)
+http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
 #EXTINF:-1 tvg-id="WeTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/3840px-Wetv-july-2024-logo.svg.png" group-title="IPTV",US| We TV
 http://206.212.244.63/172/index.m3u8
 #EXTINF:-1 tvg-id="BETPacific.us" tvg-logo="https://images.open-epg.com/42557.png" group-title="IPTV",US| BET West
@@ -213,8 +215,10 @@ http://206.212.244.63/61/index.m3u8
 https://ifood-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-logo="https://images.open-epg.com/14358964.png" group-title="IPTV",US| Cooking Channel
 http://206.212.244.63/47/index.m3u8
-#EXTINF:-1 tvg-id="VH1.us" tvg-logo="https://images.open-epg.com/14359083.png" group-title="IPTV",US| VH1
-http://206.212.244.63/169/index.m3u8
+#EXTINF:-1 tvg-id="VH1.us" tvg-logo="https://images.open-epg.com/14359083.png" group-title="IPTV",US| VH1 (East)
+http://40.160.24.55/VH1/index.m3u8
+#EXTINF:-1 tvg-id="VH1Pacific.us" tvg-logo="https://images.open-epg.com/14359083.png" group-title="IPTV",US| VH1 (West)
+http://40.160.24.55/VH1_WEST/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-logo="https://images.open-epg.com/9411725.png" group-title="IPTV",US|Cartoon Network 
 http://206.212.244.63/646/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://images.open-epg.com/201611.png" group-title="IPTV",US| Disney Channel
@@ -235,6 +239,16 @@ http://206.212.244.63/3152/index.m3u8
 http://206.212.244.63/641/index.m3u8
 #EXTINF:-1 tvg-id="NBCSportsChicago4K.us" tvg-logo="https://images.open-epg.com/42778.png" group-title="IPTV",US| NBC Sports (Chicago)
 http://206.212.244.63/6141/index.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="IPTV",US| TSN 1
+http://40.160.24.55/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png" group-title="IPTV",US| TSN 2
+http://40.160.24.55/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="IPTV",US| TSN 3
+http://40.160.24.55/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="IPTV",US| TSN 4
+http://40.160.24.55/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="IPTV",US| TSN 5
+http://40.160.24.55/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="TVBRICSEnglish.in@SD" tvg-logo="https://i.imgur.com/8rKNuS6.png" group-title="IPTV",US| TV BRICS
 https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://images.open-epg.com/13938.png" group-title="IPTV",BR| Cultura
