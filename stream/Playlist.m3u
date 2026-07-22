@@ -202,8 +202,6 @@ https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
 #EXTINF:-1 tvg-id="GloboBrasil.br" tvg-logo="https://images.open-epg.com/14009.png" group-title="IPTV",BR| Globo
 http://45.190.156.152/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-logo="https://images.open-epg.com/14009.png" group-title="IPTV",BR| Globo (SP)
-http://187.62.68.32:8080/GLOBO/index.m3u8
-#EXTINF:-1 tvg-id="GloboSP.br" tvg-logo="https://images.open-epg.com/14009.png" group-title="IPTV",BR| Globo (SP)
 http://45.190.28.50/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="Record.br" tvg-logo="https://images.open-epg.com/14154.png" group-title="IPTV",BR| Record (Satellite)
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
