@@ -257,7 +257,7 @@ http://45.190.156.152/SBT_NEWS/index.m3u8
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.open-epg.com/14152.png" group-title="IPTV",BR| Record News
 http://45.190.28.50/RECORD_NEWS_HD/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.open-epg.com/14152.png" group-title="IPTV",Record News
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.open-epg.com/14152.png" group-title="IPTV",BR| Record News
 http://45.162.64.114/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.open-epg.com/14152.png" group-title="IPTV",BR| Record News
 https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/720p.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq"
