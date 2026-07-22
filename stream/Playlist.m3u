@@ -95,6 +95,8 @@ https://tdameritrade-distro.amagi.tv/playlist.m3u8
 http://206.212.244.63/66/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-logo="https://images.open-epg.com/14358983.png" group-title="IPTV",US| Fox Business
 http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="BizTV.us" tvg-logo="https://i.imgur.com/yaNXOnO.png" group-title="IPTV",US| Biz TV
+https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
 #EXTINF:-1 tvg-id="History.us" tvg-logo="https://images.open-epg.com/14359006.png" group-title="IPTV",US| History
 http://206.212.244.63/91/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicPacific.us" tvg-logo="https://images.open-epg.com/9411869.png" group-title="IPTV",US| Nat Geo
