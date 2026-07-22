@@ -54,6 +54,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://images.open-epg.com/9411877.png" group-title="IPTV",US| Newsmax
 http://206.212.244.63/128/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://images.open-epg.com/9411718.png" group-title="IPTV",US| Bloomberg
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://images.open-epg.com/9411718.png" group-title="IPTV",US| Bloomberg
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://images.open-epg.com/9411718.png" group-title="IPTV",US| Bloomberg
 http://206.212.244.63/22/index.m3u8
