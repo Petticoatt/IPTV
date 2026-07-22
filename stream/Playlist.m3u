@@ -20,7 +20,7 @@ http://stream.cammonitorplus.net/1798/index.m3u8
 #EXTINF:-1 tvg-id="NBCKXAN.us" tvg-logo="https://images.open-epg.com/42769.png" group-title="IPTV",US| NBC (Austin)
 http://stream.cammonitorplus.net/1834/index.m3u8
 #EXTINF:-1 tvg-id="NBCKXAS.us" tvg-logo="https://images.open-epg.com/42769.png" group-title="IPTV",US| NBC (Dallas)
-https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a"
+https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a
 #EXTINF:-1 tvg-id="NBCEast_WNBC.us" tvg-logo="https://images.open-epg.com/42769.png" group-title="IPTV",US| NBC (NY)
 http://206.212.244.63/125/index.m3u8
 #EXTINF:-1 tvg-id="NBCKNBC.us" tvg-logo="https://images.open-epg.com/42769.png" group-title="IPTV",US| NBC (LA)
