@@ -43,6 +43,8 @@ http://206.212.244.63/43/index.m3u8
 http://206.212.244.63/712/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://images.open-epg.com/14358944.png" group-title="IPTV",US| BBC America
 http://206.212.244.63/13/index.m3u8
+#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://i.imgur.com/tuP9GW8.png" group-title="IPTV",US| Cheddar News
+https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="" group-title="IPTV",US| ABC News (Austin)
 https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NBC_News_Now_2023.svg" group-title="IPTV",US| NBC News Now
@@ -53,6 +55,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist
 http://206.212.244.63/128/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://images.open-epg.com/9411718.png" group-title="IPTV",US| Bloomberg
 http://206.212.244.63/22/index.m3u8
+#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://images.open-epg.com/9411731.png" group-title="IPTV",US| Cheddar Business
+https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://images.open-epg.com/9411731.png" group-title="IPTV",US| Cheddar Business
 http://206.212.244.63/35/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://images.open-epg.com/10891126.png" group-title="IPTV",US| CNBC
