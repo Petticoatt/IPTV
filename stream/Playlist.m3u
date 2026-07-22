@@ -277,6 +277,8 @@ http://45.190.156.152/CURTA!/index.m3u8
 http://45.190.28.50/AE_HD/index.m3u8
 #EXTINF:-1 tvg-id="AMC.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="IPTV",BR| AMC
 http://45.190.156.152/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="IPTV",BR| AXN
+http://45.190.28.50/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="IPTV",BR| Sony Channel
 http://45.190.28.50/SONY_HD/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="IPTV",BR| Studio Universal
