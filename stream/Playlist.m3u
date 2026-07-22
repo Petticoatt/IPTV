@@ -299,6 +299,8 @@ http://45.190.156.152/UNIVERSAL_TV/index.m3u8
 https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="IPTV",BR| MyTime Movie Network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-logo="https://i.imgur.com/1MusQ5K.png" group-title="IPTV",BR| Canal Brasil
+http://45.190.156.152/CANAL_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="IPTV",BR| TNT Novelas
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://images.open-epg.com/14013.png" group-title="IPTV",BR| Globo News
@@ -325,6 +327,8 @@ http://45.190.28.50/BAND_NEWS_HD/index.m3u8
 http://45.162.64.114/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="IPTV",BR| History Channel
 http://45.190.28.50/HISTORY_HD/index.m3u8
+#EXTINF:-1 tvg-id="BIS.br" tvg-logo="https://i.imgur.com/VUt1lmH.png" group-title="IPTV",BR| BIS
+http://45.190.156.152/BIS/index.m3u8
 #EXTINF:-1 tvg-id="Arte1.br" tvg-logo="https://i.imgur.com/Ivnk7A6.png" group-title="IPTV",BR| Arte 1
 http://45.190.28.50/ARTE_1/index.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br" tvg-logo="https://x1colegal.com/logo.png" group-title="IPTV",BR| NickOnline
