@@ -265,6 +265,8 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 http://45.162.64.114/TV_GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://images.open-epg.com/21224.png" group-title="IPTV",BR| Gazeta
 http://45.190.28.50/GAZETA_HD/index.m3u8
+#EXTINF:-1 tvg-id="BandBrasil.br" tvg-logo="https://images.open-epg.com/21142.png" group-title="IPTV",BR| Band (Satellite)
+https://media.cdntvms.com.br/band_sat/index.m3u8
 #EXTINF:-1 tvg-id="BandBrasil.br" tvg-logo="https://images.open-epg.com/21142.png" group-title="IPTV",BR| Band
 http://45.190.28.50/BAND_HD/index.m3u8
 #EXTINF:-1 tvg-id="MasterChef.br" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="IPTV",BR| MasterChef
@@ -316,26 +318,32 @@ http://45.190.28.50/RECORD_NEWS_HD/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.open-epg.com/14152.png" group-title="IPTV",BR| Record News
 http://45.162.64.114/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.open-epg.com/14152.png" group-title="IPTV",BR| Record News
-https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/720p.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq"
-#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://images.open-epg.com/13873.png" group-title="IPTV",BR| Band News
-http://45.162.64.114/BAND_NEWS/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/720p.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://images.open-epg.com/13873.png" group-title="IPTV",BR| Band News
 http://45.190.28.50/BAND_NEWS_HD/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://images.open-epg.com/13873.png" group-title="IPTV",BR| Band News
+http://45.162.64.114/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="IPTV",BR| History Channel
 http://45.190.28.50/HISTORY_HD/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-logo="https://i.imgur.com/Ivnk7A6.png" group-title="IPTV",BR| Arte 1
+http://45.190.28.50/ARTE_1/index.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br" tvg-logo="https://x1colegal.com/logo.png" group-title="IPTV",BR| NickOnline
 https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BoxKids.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="IPTV",BR| Box Kids TV
 http://45.190.28.50/BOX_KIDS_HD/index.m3u8
 #EXTINF:-1 tvg-id="dumdum.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="IPTV",BR| DumDum
 http://45.190.156.152/ZOOMOO/index.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-logo="https://i.imgur.com/JIQwz0w.png" group-title="IPTV",BR| TV Ra Tim Bum
+http://45.190.28.50/RATIMBUM/index.m3u8
 #EXTINF:-1 tvg-id="ChefTV.br" tvg-logo="https://i.imgur.com/UYksTee.png" group-title="IPTV",BR| Chef TV
 http://45.190.28.50/CHEF_TV/index.m3u8
 #EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-logo="https://images.open-epg.com/21218.png" group-title="IPTV",BR| Travel Box
 http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="IPTV",BR| TV Senado
+http://45.190.28.50/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://images.open-epg.com/13873.png" group-title="IPTV",BR| Band Sports
+http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://images.open-epg.com/13873.png" group-title="IPTV",BR| Band Sports
 http://45.162.64.114/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="" group-title="IPTV",BR| Band Sports
-http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="IPTV",BR| TV BRICS
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
