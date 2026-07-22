@@ -43,6 +43,8 @@ http://206.212.244.63/43/index.m3u8
 http://206.212.244.63/712/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://images.open-epg.com/14358944.png" group-title="IPTV",US| BBC America
 http://206.212.244.63/13/index.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.us" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="IPTVS",US| BBC Earth
+https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://i.imgur.com/tuP9GW8.png" group-title="IPTV",US| Cheddar News
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="" group-title="IPTV",US| ABC News (Austin)
@@ -181,6 +183,8 @@ http://206.212.244.63/116/index.m3u8
 http://206.212.244.63/162/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://images.open-epg.com/14358982.png" group-title="IPTV",US| Food Network
 http://206.212.244.63/61/index.m3u8
+#EXTINF:-1 tvg-id="iFoodTV.us" tvg-logo="https://i.imgur.com/cBOkQtS.png" group-title="IPTV",US| iFood
+https://ifood-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-logo="https://images.open-epg.com/14358964.png" group-title="IPTV",US| Cooking Channel
 http://206.212.244.63/47/index.m3u8
 #EXTINF:-1 tvg-id="VH1.us" tvg-logo="https://images.open-epg.com/14359083.png" group-title="IPTV",US| VH1
