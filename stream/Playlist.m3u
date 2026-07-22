@@ -221,6 +221,8 @@ http://206.212.244.63/6141/index.m3u8
 http://45.190.28.50/TV_CULTURA_HD/index.m3u8
 #EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://images.open-epg.com/13938.png" group-title="IPTV",BR| Cultura
 http://45.162.64.114/TV_CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="CulturaFast.br" tvg-logo="https://eitv6.cdn.broadpeak.io/account351-i1438/channel/53/quadrada_-3-_pequeno-1723832301.png" group-title="IPTV",BR| Cultura Fast
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 #EXTINF:-1 tvg-id="SBTBrasil.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="IPTV",BR| SBT
 http://45.190.28.50/SBT_HD/index.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="IPTV",BR| SBT (Interior)
@@ -271,6 +273,8 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 http://45.190.28.50/REDE_VIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://images.open-epg.com/14199.png" group-title="IPTV",BR| Rede Vida
 http://45.190.28.50/REDE_VIDA_HD/index.m3u8
+#EXTINF:-1 tvg-id="DespertarTV.br" tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png" group-title="IPTV",BR| Despertar TV
+https://br.conectmy.com.br/DespertarTV/index.m3u8
 #EXTINF:-1 tvg-id="Curta.br" tvg-logo="https://images.open-epg.com/9242692.png" group-title="IPTV",BR| Curta!
 http://45.190.156.152/CURTA!/index.m3u8
 #EXTINF:-1 tvg-id="AandE.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="IPTV",BR| A&E
@@ -293,6 +297,8 @@ http://45.162.64.114/TNT_NOVELAS/index.m3u8
 http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
 #EXTINF:-1 tvg-id="VEJAPlusTV.br" tvg-logo="https://i.imgur.com/n0pxHo4.png" group-title="IPTV",BR| Veja Plus TV
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 tvg-id="UOL.br" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" group-title="IPTV",BR| Canal UOL
+https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://images.open-epg.com/9242750.png" group-title="IPTV",BR| Jovem Pan News
 http://45.190.28.50/JP_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="SBTNews.br" tvg-logo="https://images.open-epg.com/10723919.png" group-title="IPTV",BR| SBT News
