@@ -59,9 +59,9 @@ http://206.212.244.63/35/index.m3u8
 https://gpuserver3.tier1streams.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNBCWorld.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CNBC_World_2025.svg" group-title="IPTV",US| CNBC World
 http://206.212.244.63/42/index.m3u8
-#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="https://images.open-epg.com/10891126.png" group-title="IPTV",US| CNBC (United Kingdom)
+#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="https://images.open-epg.com/10891126.png" group-title="IPTV",US| CNBC (UK)
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="https://images.open-epg.com/10891126.png" group-title="IPTV",US| CNBC (United Kingdom)
+#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="https://images.open-epg.com/10891126.png" group-title="IPTV",US| CNBC (UK)
 https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBC.es" tvg-logo="https://images.open-epg.com/10891126.png" group-title="IPTV",US| CNBC (Spain)
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
