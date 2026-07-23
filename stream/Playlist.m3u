@@ -175,7 +175,7 @@ http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
 http://206.212.244.63/172/index.m3u8
 #EXTINF:-1 tvg-id="BET.us" tvg-logo="https://images.open-epg.com/42557.png" group-title="IPTV",US| BET
 http://206.212.244.63/16/index.m3u8
-#EXTINF:-1 tvg-id="BETHerPacific.us" tvg-logo="https://images.open-epg.com/13521.png" group-title="IPTV",US| BET Her West
+#EXTINF:-1 tvg-id="BETHerPacific.us" tvg-logo="https://images.open-epg.com/13521.png" group-title="IPTV",US| BET Her (West)
 http://206.212.244.63/19/index.m3u8
 #EXTINF:-1 tvg-id="Bravo.us" tvg-logo="https://images.open-epg.com/23255918.png" group-title="IPTV",US| Bravo
 http://206.212.244.63/26/index.m3u8
@@ -185,7 +185,7 @@ http://206.212.244.63/23/index.m3u8
 http://206.212.244.63/34/index.m3u8
 #EXTINF:-1 tvg-id="CleoTV.us" tvg-logo="https://images.open-epg.com/9411734.png" group-title="IPTV",US| Cleo TV
 http://206.212.244.63/38/index.m3u8
-#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://images.open-epg.com/28617.png" group-title="IPTV",US| Freeform East
+#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://images.open-epg.com/28617.png" group-title="IPTV",US| Freeform (East)
 http://206.212.244.63/69/index.m3u8
 #EXTINF:-1 tvg-id="IonTV.us" tvg-logo="https://images.open-epg.com/9411832.png" group-title="IPTV",US| Ion Television
 http://206.212.244.63/99/index.m3u8
@@ -221,19 +221,19 @@ http://40.160.24.55/VH1/index.m3u8
 http://40.160.24.55/VH1_WEST/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-logo="https://images.open-epg.com/9411725.png" group-title="IPTV",US|Cartoon Network 
 http://206.212.244.63/646/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://images.open-epg.com/201611.png" group-title="IPTV",US| Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://images.open-epg.com/201611.png" group-title="IPTV",US| Disney Channel (East)
 http://206.212.244.63/650/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelPacific.ca" tvg-logo="https://images.open-epg.com/201611.png" group-title="IPTV",US| Disney Channel West
+#EXTINF:-1 tvg-id="DisneyChannelPacific.ca" tvg-logo="https://images.open-epg.com/201611.png" group-title="IPTV",US| Disney Channel (West)
 http://206.212.244.63/3146/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-logo="https://images.open-epg.com/42616.png" group-title="IPTV",US| Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-logo="https://images.open-epg.com/42616.png" group-title="IPTV",US| Disney Jr (East)
 http://206.212.244.63/3147/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJuniorPacific.us" tvg-logo="https://images.open-epg.com/42616.png" group-title="IPTV",US| Disney Junior West
+#EXTINF:-1 tvg-id="DisneyJuniorPacific.us" tvg-logo="https://images.open-epg.com/42616.png" group-title="IPTV",US| Disney Jr (West)
 http://185.102.171.218/DisneyJunior/index.m3u8
 #EXTINF:-1 tvg-id="MeTvToons.us" tvg-logo="https://images.open-epg.com/9411846.png" group-title="IPTV",US| MeTv Toons
 http://206.212.244.63/112/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://images.open-epg.com/16160.png" group-title="IPTV",US| Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://images.open-epg.com/16160.png" group-title="IPTV",US| Nickelodeon (East)
 http://206.212.244.63/666/index.m3u8
-#EXTINF:-1 tvg-id="NickToonsPacific.us" tvg-logo="https://images.open-epg.com/16163.png" group-title="IPTV",US| Nicktoons West
+#EXTINF:-1 tvg-id="NickToonsPacific.us" tvg-logo="https://images.open-epg.com/16163.png" group-title="IPTV",US| Nicktoons (West)
 http://206.212.244.63/3152/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.us" tvg-logo="https://images.open-epg.com/42531.png" group-title="IPTV",US| BabyTV
 http://206.212.244.63/641/index.m3u8
