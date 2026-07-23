@@ -67,8 +67,8 @@ http://206.212.244.63/13/index.m3u8
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://i.imgur.com/tuP9GW8.png" group-title="IPTV",US| Cheddar News
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="" group-title="IPTV",US| ABC News (Austin)
-https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+#EXTINF:-1 tvg-id="KVUE.us" tvg-logo="https://images.open-epg.com/42519.png" group-title="IPTV",US| ABC News (Austin)
+https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NBC_News_Now_2023.svg" group-title="IPTV",US| NBC News Now
 http://206.212.244.63/127/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://images.open-epg.com/42648.png" group-title="IPTV",US| Fox News
