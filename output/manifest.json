@@ -3,8 +3,8 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 46,
-  "channel_count": 7208,
-  "playlist_sha256": "6ff92c57e89851d456c2eb82e2c85cc06ad43bdbaea3209e17e4926c6f41bd14",
+  "channel_count": 7234,
+  "playlist_sha256": "9ea9e7a0745a9a02067b2bb8de62f935b1ccf0e90ada34c90c85f73482d6d188",
   "groups": [
     {
       "position": 1,
@@ -28,7 +28,7 @@
       "position": 4,
       "name": "Canada",
       "source_count": 2,
-      "channel_count": 191
+      "channel_count": 217
     },
     {
       "position": 5,
@@ -238,9 +238,9 @@
     {
       "group": "Canada",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ca_stingray.m3u",
-      "sha256": "ecbd94753eb860db499fa3be846437e0d209d7446f8c892dca79709bf65b1be9",
-      "bytes": 4518,
-      "channels": 29
+      "sha256": "da5c8883de91b606853e88092297e3f662f3408d86d338a8ecd4e6d776f8a5ea",
+      "bytes": 8189,
+      "channels": 55
     },
     {
       "group": "Canada (Pluto TV)",
