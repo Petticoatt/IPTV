@@ -1291,6 +1291,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2226
 https://amg00461-eone-amg00461c3-firetv-us-5211.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="E.us@East" group-title="United States",E! (720p)
 http://108.181.20.255:27347/livehttpplay?channel_id=23113
+#EXTINF:-1 tvg-id="E.us@Greece" group-title="United States",E! (720p)
+http://185.102.171.218/Entertainment/index.m3u8
 #EXTINF:-1 tvg-id="E.us@East" group-title="United States",E! (1080p)
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-id="E.us@East" group-title="United States",E! (1080p)
@@ -3361,8 +3363,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://40.160.24.55/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-id="Showtime.us@East" group-title="United States",Showtime (1080p)
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.us@East" group-title="United States",Showtime (1080p)
-http://41.205.93.154/SHOWTIMES/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeExtreme.us@East" group-title="United States",Showtime Extreme (1080p)
 http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeFamilyZone.us@East" group-title="United States",Showtime Family Zone (720p)
@@ -7364,10 +7364,8 @@ https://xemzi.short.gy/1000030
 http://193.46.58.239:8080/Channel5/index.m3u8
 #EXTINF:-1 tvg-id="ChannelS.uk@SD" group-title="United Kingdom",Channel S (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ClublandTV.uk@SD" group-title="United Kingdom",Clubland TV (720p)
-http://bore.pub:14073/live.m3u8
-#EXTINF:-1 tvg-id="ClublandTV.uk@SD" group-title="United Kingdom",Clubland TV (720p)
-http://bore.pub:40823/live.m3u8
+#EXTINF:-1 tvg-id="ClublandTV.uk@SD" group-title="United Kingdom",Clubland TV (576i)
+http://109.157.194.186:4040/clublandhls/now.m3u8
 #EXTINF:-1 tvg-id="CNBCUK.uk@SD" group-title="United Kingdom",CNBC UK (1080p) [Geo-blocked]
 https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cops.us@SD" group-title="United Kingdom",Cops (720p)
@@ -9171,6 +9169,8 @@ http://45.177.114.115:80/REDE_GOSPEL/index.m3u8
 http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br@SD" group-title="Brazil",Rede Gospel (1080p)
 https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RedeGospel.br@SD" group-title="Brazil",Rede Gospel (1080p)
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMeioNorte.br@SD" group-title="Brazil",Rede Meio Norte (720p)
 https://maystreaming.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="RedeMetropole.br@SD" group-title="Brazil",Rede Metropole (720p)
@@ -12769,6 +12769,8 @@ http://5.9.121.178/tv5monde/index.m3u8
 http://103.190.232.129/stream/tvb/asie/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France",TV5Monde Asia
 http://103.190.232.129/stream/tvb/asie?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France",TV5Monde Asia (576p)
+http://27.131.164.187:8080/TV5_Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France",TV5Monde Asia (720p)
 https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France",TV5Monde Asia (1080p)
@@ -12779,6 +12781,8 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 http://45.14.84.37/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France",TV5Monde Europe (1080p)
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France",TV5Monde Europe (1080p)
+http://5.180.164.197:8080/TV5MONDE/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France",TV5Monde Europe (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" group-title="France",TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
@@ -13320,6 +13324,8 @@ http://stream.mcquack.net/108/index.m3u8
 http://94.230.129.31:8080/Domashnii/index.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru@SD" group-title="Russia",Domashniy SD (576p)
 http://stream.mcquack.net/227/index.m3u8
+#EXTINF:-1 tvg-id="Dorama.ru@SD" group-title="Russia",Dorama
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dorama.ru@HD" group-title="Russia",Dorama HD (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/412/index.m3u8
@@ -13544,6 +13550,8 @@ https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" group-title="Russia",Moya Planeta (576p)
 http://stream.mcquack.net/124/index.m3u8
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" group-title="Russia",Moya Planeta (1080p)
+http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Moyastikhiya.ru@HD" group-title="Russia",Moya stikhiya HD (1080p)
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 tvg-id="Mult.ru@SD" group-title="Russia",Mult (576p)
