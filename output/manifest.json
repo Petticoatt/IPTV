@@ -3,14 +3,14 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 46,
-  "channel_count": 7238,
-  "playlist_sha256": "4e91168d4f50c924145d2e10fbf0f670cfcc515db9c4fd64122e4d953a2b32e4",
+  "channel_count": 7243,
+  "playlist_sha256": "3c65e1b66d14b4715bd2421e8c9b906eedfc4cab604bbb9db2267e4dbe57d41f",
   "groups": [
     {
       "position": 1,
       "name": "United States",
       "source_count": 14,
-      "channel_count": 2184
+      "channel_count": 2190
     },
     {
       "position": 2,
@@ -88,7 +88,7 @@
       "position": 14,
       "name": "Italy",
       "source_count": 2,
-      "channel_count": 356
+      "channel_count": 355
     },
     {
       "position": 15,
@@ -119,9 +119,9 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "d1ecb6e1b6815972eeff4b1cb52449c37e55e993dec889e352428222e9dc152f",
-      "bytes": 163939,
-      "channels": 1281
+      "sha256": "4a082ac2f213dbf428f71b00a17b6e8b3a9651dde873f7b162dc7d472a53d31a",
+      "bytes": 164648,
+      "channels": 1287
     },
     {
       "group": "United States",
@@ -315,8 +315,8 @@
     {
       "group": "Spain",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/es.m3u",
-      "sha256": "ced149d33037a3ddad932ff09622207458c63e69531ddfab97981033fecbd329",
-      "bytes": 43577,
+      "sha256": "d579f0b1d8a3b258c62c4ce13251f2778c740ac6ddb1e93e7b029736b65d97f0",
+      "bytes": 43535,
       "channels": 285
     },
     {
@@ -329,9 +329,9 @@
     {
       "group": "Italy",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/it.m3u",
-      "sha256": "e75b86c2daf504deabdf790eae0357190f2fe18458c3442460db11146dde87ca",
-      "bytes": 47362,
-      "channels": 326
+      "sha256": "b43c38e8ce224ee510064d8a83d814288ed5b8cdb034a0ecb14ba53ff794f5bf",
+      "bytes": 47110,
+      "channels": 325
     },
     {
       "group": "Italy",
@@ -378,8 +378,8 @@
     {
       "group": "Russia",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru.m3u",
-      "sha256": "b309ad83dbf118240496770e59bf5738675c94a2bee0725258bae3f3cafff6b6",
-      "bytes": 57100,
+      "sha256": "7e460ba8d9d30141987cedb97b97432e9cb5a3e19526139e78bae772f085840b",
+      "bytes": 57124,
       "channels": 515
     },
     {
