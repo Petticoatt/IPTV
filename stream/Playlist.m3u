@@ -51,8 +51,10 @@ https://gpuserver3.tier1streams.com/CW/index.m3u8
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSWGBX.us" tvg-logo="https://images.open-epg.com/42816.png" group-title="USA: Broadcast TV",USA: PBS (Boston)
 http://1tv41.icu:8080/live/sm@synergyplangroup.ca/I0RfrFOHo5/149621.m3u8
-#EXTINF:-1 tvg-id="IonTV.us" tvg-logo="https://images.open-epg.com/9411832.png" group-title="USA: Broadcast TV",USA: Ion Television
+#EXTINF:-1 tvg-id="IonTV.us" tvg-logo="https://images.open-epg.com/9411832.png" group-title="USA: Broadcast TV",USA: ION Television
 http://206.212.244.63/99/index.m3u8
+#EXTINF:-1 tvg-id="IONPlus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Ion_Plus_2024.svg" group-title="USA: Broadcast TV",USA: ION Plus
+http://40.160.24.53/ION_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://images.open-epg.com/28740.png" group-title="USA: Entertainment",USA: USA Network (East)
 http://40.160.24.55/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkPacific.us" tvg-logo="https://images.open-epg.com/28740.png" group-title="USA: Entertainment",USA: USA Network (West)
@@ -161,10 +163,18 @@ http://206.212.244.63/50/index.m3u8
 https://jmp2.uk/plu-62ea45010d0611000839868c.m3u8
 #EXTINF:-1 tvg-id="iFoodTV.us" tvg-logo="https://i.imgur.com/cBOkQtS.png" group-title="USA: Entertainment",USA: iFood
 https://ifood-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/cBOkQtS.png" group-title="USA: Entertainment",USA: Estrella TV
+https://estrellatv-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://images.open-epg.com/42589.png" group-title="USA: News & Business",USA: CNN
 http://206.212.244.63/43/index.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.u" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="USA: News & Business",USA: ABC News Live
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
 #EXTINF:-1 tvg-id="KVUE.us" tvg-logo="https://images.open-epg.com/42519.png" group-title="USA: News & Business",USA: ABC News (Austin)
 https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="USA: News & Business",USA: CBS News 24/7
+http://40.160.24.56/CBS_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="CBSNews24/7.pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="USA: News & Business",USA: CBS News 24/7
+https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NBC_News_Now_2023.svg" group-title="USA: News & Business",USA: NBC News Now
 http://206.212.244.63/127/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://images.open-epg.com/42648.png" group-title="USA: News & Business",USA: Fox News
@@ -239,6 +249,8 @@ http://206.212.244.63/112/index.m3u8
 http://206.212.244.63/666/index.m3u8
 #EXTINF:-1 tvg-id="NickToonsPacific.us" tvg-logo="https://images.open-epg.com/16163.png" group-title="USA: Kids",USA: Nicktoons (West)
 http://206.212.244.63/3152/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.PlutoTV.pluto" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="USA: Kids",USA: Nick Jr. Pluto TV
+https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.us" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="USA: Documentary",USA: BBC Earth
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ScienceChannel.us" tvg-logo="https://images.open-epg.com/42836.png" group-title="USA: Documentary",USA: Discovery Science
@@ -257,10 +269,34 @@ http://206.212.244.63/122/index.m3u8
 http://206.212.244.63/123/index.m3u8
 #EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-logo="https://images.open-epg.com/42862.png" group-title="USA: Documentary",USA: Smithsonian
 http://206.212.244.63/148/index.m3u8
+#EXTINF:-1 tvg-id="UnsolvedMysteries.pluto" tvg-logo="https://i.imgur.com/De3khrX.png" group-title="USA: Documentary",USA: Unsolved Mysteries
+https://jmp2.uk/plu-5b4e96a0423e067bd6df6901.m3u8
+#EXTINF:-1 tvg-id="ForensicFiles.pluto" tvg-logo="https://i.imgur.com/V5vvuLK.png" group-title="USA: Documentary",USA: Forensic Files
+https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
+#EXTINF:-1 tvg-id="PBSNature.pluto" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="USA: Documentary",USA: PBS Nature
+https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-logo="https://images.open-epg.com/7307927.png" group-title="USA: Sports",USA: ACC Network
 http://206.212.244.63/2486/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="USA: Sports",USA: CBS Sports Network
+https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="USA: Sports",USA: CBS Sports HQ
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1 tvg-id="NBCSportsChicago4K.us" tvg-logo="https://images.open-epg.com/42778.png" group-title="USA: Sports",USA: NBC Sports (Chicago)
 http://206.212.244.63/6141/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="USA: Sports",USA: NHL Network
+https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
+#EXTINF:-1 tvg-id="NFLChannel.pluto" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="USA: Sports",USA: NFL Channel
+https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+#EXTINF:-1 tvg-id="MLB.pluto" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="USA: Sports",USA: MLB
+https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
+#EXTINF:-1 tvg-id="PGATour.us" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="USA: Sports",USA: PGA TOUR
+https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFA+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" group-title="USA: Sports",USA: FIFA+
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="UFC.pluto" tvg-logo="" group-title="USA: Sports",USA: UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSportsXtra.us" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="USA: Sports",USA: beIN Sports Xtra
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="USA: Sports",USA: TSN 1 (Canada)
 http://40.160.24.55/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png" group-title="USA: Sports",USA: TSN 2 (Canada)
@@ -335,6 +371,18 @@ https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a7
 https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="BR: Entretenimento",BR: MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineSucessos.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoSVG.svg" group-title="BR: Entretenimento",BR: Pluto TV Cine Sucessos
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFilmesAcao.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoSVG.svg" group-title="BR: Entretenimento",BR: Pluto TV Filmes Ação
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoSVG_1769092378954.svg" group-title="BR: Entretenimento",BR: Pluto TV Cine Comédia
+https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNovelas.us@BR" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoSVG.svg" group-title="BR: Entretenimento",BR: Pluto TV Novelas
+https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
+#EXTINF:-1 tvg-id="NCIS.us@BR" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoSVG.svg" group-title="BR: Entretenimento",BR: NCIS
+https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
+#EXTINF:-1 tvg-id="CSIMiami.us@BR" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoSVG.svg" group-title="BR: Entretenimento",BR: CSI: Miami
+https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
 #EXTINF:-1 tvg-id="MasterChef.br" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="BR: Entretenimento",BR: MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 #EXTINF:-1 tvg-id="ChefTV.br" tvg-logo="https://i.imgur.com/UYksTee.png" group-title="BR: Entretenimento",BR: Chef TV
@@ -383,10 +431,14 @@ http://45.190.28.50/ARTE_1/index.m3u8
 https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="BR: Documentários",BR: History Channel
 http://45.190.28.50/HISTORY_HD/index.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannel.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png" group-title="BR: Documentários",BR: Smithsonian Channel
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://images.open-epg.com/13873.png" group-title="BR: Esportes",BR: Band Sports
 http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://images.open-epg.com/13873.png" group-title="BR: Esportes",BR: Band Sports
 http://45.162.64.114/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="geFast.br" tvg-logo="https://i.ibb.co/WGXHDnF/logo-ge-fast.png" group-title="BR: Esportes",BR: ge Fast
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us" tvg-logo="https://images.open-epg.com/9411863.png" group-title="Music",USA: MTV Live
 http://206.212.244.63/118/index.m3u8
 #EXTINF:-1 tvg-id="BETJams.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/960px-BET_Jams_2021.png" group-title="Music",USA: BET Jams
