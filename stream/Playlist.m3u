@@ -399,7 +399,7 @@ https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8
 http://45.190.28.50/JP_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="UOL.br" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" group-title="BR: Notícias e Negócios",BR: Canal UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
-#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="USA: News & Business",BR: Euronews (Português)
+#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="BR: News & Business",BR: Euronews (Português)
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.open-epg.com/14152.png" group-title="BR: Notícias e Negócios",BR: Record News
 http://45.190.28.50/RECORD_NEWS_HD/index.m3u8
