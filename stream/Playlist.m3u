@@ -338,7 +338,7 @@ http://40.160.24.52/MOTORTREND/index.m3u8
 #EXTINF:-1 tvg-id="PBSNature.pluto" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="US| Documentary",US| PBS Nature
 https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-logo="https://images.open-epg.com/7307927.png" group-title="US| Sports",US| ACC Network
-http://206.212.244.63/2486/index.m3u8
+http://40.160.24.52/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="US| Sports",US| CBS Sports Network
 https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="US| Sports",US| CBS Sports HQ
@@ -550,6 +550,8 @@ http://45.190.28.50/JP_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="UOL.br" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" group-title="BR| Notícias e Negócios",BR| Canal UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="BR| Notícias e Negócios",BR| Euronews
+http://45.190.28.50/EURONEWS_HD/index.m3u8
+#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="BR| Notícias e Negócios",BR| Euronews
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="BR| Notícias e Negócios",BR| RTP Notícias (Portugal)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
@@ -589,6 +591,8 @@ https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-logo="https://i.imgur.com/JIQwz0w.png" group-title="BR| Infantil",BR| TV Ra Tim Bum
 http://45.190.28.50/RATIMBUM/index.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="BR| Infantil",BR| ZooMoo
+http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 #EXTINF:-1 tvg-id="Arte1.br" tvg-logo="https://i.imgur.com/Ivnk7A6.png" group-title="BR| Documentários",BR| Arte 1
 http://45.190.28.50/ARTE_1/index.m3u8
 #EXTINF:-1 tvg-id="DetetivesMedicos.us" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoSVG.svg" group-title="BR| Documentários",BR| Detetives Médicos
