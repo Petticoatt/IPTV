@@ -2143,6 +2143,8 @@ https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
 http://40.160.24.53/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us@East" group-title="United States",Lifetime (720p)
 http://206.212.244.63/103/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeAsia.us@SD" group-title="United States",Lifetime Asia (1080p)
+http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" group-title="United States",Lifetime Latin America (720p)
 http://181.209.105.115:2525/play/lifetime/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" group-title="United States",Lifetime Latin America (1080p)
@@ -3556,6 +3558,8 @@ http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 http://177.234.249.178:8888/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@South" group-title="United States",Telemundo Internacional (1080p)
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@CentralAmerica" group-title="United States",Telemundo Internacional Central America (720p)
+http://200.39.57.254:8008/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@CentralAmerica" group-title="United States",Telemundo Internacional Central America (1080p)
 http://190.60.46.156:8089/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Telemundo Noticias Ahora (1080p)
@@ -6862,6 +6866,8 @@ https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_ar
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk@SD" group-title="United Kingdom",BBC Arabic (720p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@Czechia" group-title="United Kingdom",BBC Earth Czechia
+http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Greece" group-title="United Kingdom",BBC Earth Greece (1080p)
 http://185.102.171.218/BBCEarth/index.m3u8
 #EXTINF:-1 tvg-id="BBCFirst.uk@Poland" group-title="United Kingdom",BBC First
@@ -10449,7 +10455,7 @@ http://185.81.77.4/BocairentTV/index.m3u8
 https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="RakutenViki.us@Spain" group-title="Spain",Rakuten Viki (1080p)
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RealMadridTV.es@SD" group-title="Spain",Real Madrid TV (404p)
+#EXTINF:-1 tvg-id="RealMadridTV.es@SD" group-title="Spain",Real Madrid TV (726p)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" group-title="Spain",Real Madrid TV English
 http://88.212.15.19/live/real_madrid_tv/index.m3u8
@@ -12456,6 +12462,8 @@ http://5.9.121.178/tv5monde/index.m3u8
 http://103.190.232.129/stream/tvb/asie/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France",TV5Monde Asia
 http://103.190.232.129/stream/tvb/asie?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France",TV5Monde Asia
+http://103.172.187.30:12000/stream/allchannel/tv5asie
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France",TV5Monde Asia (576p)
 http://27.131.164.187:8080/TV5_Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="France",TV5Monde Asia (720p)
@@ -12494,6 +12502,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD" group-title="France",TV5Monde Style
 http://103.190.232.129/stream/tvb/style?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD" group-title="France",TV5Monde Style
+http://103.172.187.30:12000/stream/allchannel/tv5style
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD" group-title="France",TV5Monde Style (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="TV7Colmar.fr@SD" group-title="France",TV7 Colmar (576p)
