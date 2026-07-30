@@ -91,6 +91,10 @@ http://206.212.244.63/84/index.m3u8
 http://206.212.244.63/85/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-logo="https://images.open-epg.com/42680.png" group-title="US| Entertainment",US| Hallmark Mystery
 http://206.212.244.63/86/index.m3u8
+#EXTINF:-1 tvg-id="GreatAmericanFamily.us" tvg-logo="https://images.open-epg.com/14358996.png" group-title="US| Entertainment",US| Great American Family
+http://206.212.244.63/81/index.m3u8
+#EXTINF:-1 tvg-id="GreatAmericanLiving.us" tvg-logo="https://images.open-epg.com/9411806.png" group-title="US| Entertainment",US| Great American Living
+http://206.212.244.63/82/index.m3u8
 #EXTINF:-1 tvg-id="BET.us" tvg-logo="https://images.open-epg.com/42557.png" group-title="US| Entertainment",US| BET (East)
 http://40.160.24.52/BET_EAST/index.m3u8
 #EXTINF:-1 tvg-id="BETHerPacific.us" tvg-logo="https://images.open-epg.com/42557.png" group-title="US| Entertainment",US| BET (West)
@@ -121,10 +125,6 @@ http://206.212.244.63/172/index.m3u8
 http://206.212.244.63/13/index.m3u8
 #EXTINF:-1 tvg-id="ReelzChannel.us" tvg-logo="https://images.open-epg.com/28691.png" group-title="US| Entertainment",US| Reelz
 http://206.212.244.63/144/index.m3u8
-#EXTINF:-1 tvg-id="GreatAmericanFamily.us" tvg-logo="https://images.open-epg.com/14358996.png" group-title="US| Entertainment",US| Great American Family
-http://206.212.244.63/81/index.m3u8
-#EXTINF:-1 tvg-id="GreatAmericanLiving.us" tvg-logo="https://images.open-epg.com/9411806.png" group-title="US| Entertainment",US| Great American Living
-http://206.212.244.63/82/index.m3u8
 #EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-logo="https://images.open-epg.com/23256064.png" group-title="US| Entertainment",US| Great
 http://206.212.244.63/80/index.m3u8
 #EXTINF:-1 tvg-id="MGM+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png" group-title="US| Entertainment",US| MGM+
@@ -307,18 +307,10 @@ http://40.160.24.55/TSN_3/index.m3u8
 http://40.160.24.55/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="US| Sports",US| TSN 5 (Canada)
 http://40.160.24.55/TSN_5/index.m3u8
-#EXTINF:-1 tvg-id="GloboBA.br" tvg-logo="https://images.open-epg.com/14009.png" group-title="BR| TV Aberta",BR| Globo (BA)
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-logo="https://images.open-epg.com/14009.png" group-title="BR| TV Aberta",BR| Globo (RJ)
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
-#EXTINF:-1 tvg-id="GloboSP.br" tvg-logo="https://images.open-epg.com/14009.png" group-title="BR| TV Aberta",BR| Globo (SP)
-http://45.190.28.50/GLOBO_HD/index.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://images.open-epg.com/14154.png" group-title="BR| TV Aberta",BR| Record
-http://45.190.28.50/RECORD/index.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://images.open-epg.com/14154.png" group-title="BR| TV Aberta",BR| Record
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://images.open-epg.com/14154.png" group-title="BR| TV Aberta",BR| Record (Satellite)
-https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
+#EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://images.open-epg.com/13938.png" group-title="BR| TV Aberta",BR| Cultura
+http://45.190.28.50/TV_CULTURA_HD/index.m3u8
+#EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://images.open-epg.com/13938.png" group-title="BR| TV Aberta",BR| Cultura
+http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="SBTBrasil.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="BR| TV Aberta",BR| SBT
 http://45.190.28.50/SBT_HD/index.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="BR| TV Aberta",BR| SBT (Interior)
@@ -327,10 +319,18 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTSinop.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="BR| TV Aberta",BR| SBT (Sinop)
 https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
-#EXTINF:-1 tvg-id="BandBrasil.br" tvg-logo="https://images.open-epg.com/21142.png" group-title="BR| TV Aberta",BR| Band
-http://45.190.28.50/BAND_HD/index.m3u8
-#EXTINF:-1 tvg-id="BandBrasil.br" tvg-logo="https://images.open-epg.com/21142.png" group-title="BR| TV Aberta",BR| Band (Satellite)
-https://media.cdntvms.com.br/band_sat/index.m3u8
+#EXTINF:-1 tvg-id="GloboSP.br" tvg-logo="https://images.open-epg.com/14009.png" group-title="BR| TV Aberta",BR| Globo (SP)
+http://45.190.28.50/GLOBO_HD/index.m3u8
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-logo="https://images.open-epg.com/14009.png" group-title="BR| TV Aberta",BR| Globo (RJ)
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
+#EXTINF:-1 tvg-id="GloboBA.br" tvg-logo="https://images.open-epg.com/14009.png" group-title="BR| TV Aberta",BR| Globo (BA)
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://images.open-epg.com/14154.png" group-title="BR| TV Aberta",BR| Record (Satellite)
+https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
+#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://images.open-epg.com/14154.png" group-title="BR| TV Aberta",BR| Record
+http://45.190.28.50/RECORD/index.m3u8
+#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://images.open-epg.com/14154.png" group-title="BR| TV Aberta",BR| Record
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://images.open-epg.com/14212.png" group-title="BR| TV Aberta",BR| RedeTV!
 http://45.190.28.50/REDE_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://images.open-epg.com/14212.png" group-title="BR| TV Aberta",BR| RedeTV!
@@ -341,14 +341,14 @@ https://streaming.cloudecast.com/hls/redetves/index.m3u8
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTVMais.br" tvg-logo="https://images.open-epg.com/14212.png" group-title="BR| TV Aberta",BR| RedeTV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://images.open-epg.com/13938.png" group-title="BR| TV Aberta",BR| Cultura
-http://45.190.28.50/TV_CULTURA_HD/index.m3u8
-#EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://images.open-epg.com/13938.png" group-title="BR| TV Aberta",BR| Cultura
-http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://images.open-epg.com/21224.png" group-title="BR| TV Aberta",BR| Gazeta
 http://45.162.64.114/TV_GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://images.open-epg.com/21224.png" group-title="BR| TV Aberta",BR| Gazeta
 http://45.190.28.50/GAZETA_HD/index.m3u8
+#EXTINF:-1 tvg-id="BandBrasil.br" tvg-logo="https://images.open-epg.com/21142.png" group-title="BR| TV Aberta",BR| Band
+http://45.190.28.50/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="BandBrasil.br" tvg-logo="https://images.open-epg.com/21142.png" group-title="BR| TV Aberta",BR| Band (Satellite)
+https://media.cdntvms.com.br/band_sat/index.m3u8
 #EXTINF:-1 tvg-id="TVECultura.br" tvg-logo="https://images.open-epg.com/14508.png" group-title="BR| TV Aberta",BR| TVE Cultura
 http://45.190.28.50/TVE/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://images.open-epg.com/14339.png" group-title="BR| TV Aberta",BR| Aparecida
