@@ -3,8 +3,8 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 46,
-  "channel_count": 7085,
-  "playlist_sha256": "cc4ce82b07c6669e1fb9ec89964a14dcac0415e1b4c02c1736c858e4dfa9d1ce",
+  "channel_count": 7087,
+  "playlist_sha256": "8c7f633f387cfd0093563b0fdb6fd78b71c3c1daeaa164a1b7fd0b3e49e8d24b",
   "groups": [
     {
       "position": 1,
@@ -40,7 +40,7 @@
       "position": 6,
       "name": "United Kingdom",
       "source_count": 3,
-      "channel_count": 410
+      "channel_count": 411
     },
     {
       "position": 7,
@@ -100,7 +100,7 @@
       "position": 16,
       "name": "France",
       "source_count": 3,
-      "channel_count": 311
+      "channel_count": 312
     },
     {
       "position": 17,
@@ -119,8 +119,8 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "106e3a709b899db5114362c982e8b570009254bb881c175f211af7de7106dee3",
-      "bytes": 157073,
+      "sha256": "90b5e8c22bf9c88222ccbc97d801f7d3b979442a6ca6a891926c4695b1e6856a",
+      "bytes": 157061,
       "channels": 1221
     },
     {
@@ -252,9 +252,9 @@
     {
       "group": "United Kingdom",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk.m3u",
-      "sha256": "b81c79426ffb86ca9e83be38a60eeaa84d4c76ecdee4530a70f22a4ce2f6561b",
-      "bytes": 31621,
-      "channels": 179
+      "sha256": "2185f05e357b886a78b01866dcea886b5b1be8bf37f647e670a5d7497e9d4f0a",
+      "bytes": 31742,
+      "channels": 180
     },
     {
       "group": "United Kingdom",
@@ -350,9 +350,9 @@
     {
       "group": "France",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/fr.m3u",
-      "sha256": "b1101aa35dd6773bd0504232fc3e5e64e1de4bacf18d75af351279e54dd876ab",
-      "bytes": 33295,
-      "channels": 231
+      "sha256": "03acd93f0e45369b4ea04e60c496df35856b00f92b1b6e47e0e4732af0faf25f",
+      "bytes": 33381,
+      "channels": 232
     },
     {
       "group": "France",
