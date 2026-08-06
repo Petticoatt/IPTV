@@ -458,8 +458,6 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSportsUSA.us@SD" group-title="United States",beIN Sports USA (576p)
 http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8
-#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" group-title="United States",beIN Sports USA (720p)
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsUSA.us@SD" group-title="United States",beIN Sports USA (1080p) [Geo-blocked]
 https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" group-title="United States",BeIN SPORTS XTRA (720p)
@@ -3734,6 +3732,8 @@ https://aegis-cloudfront-1.tubi.video/a0b550d8-29c6-49f5-a4f7-939d9eeec962/maste
 https://live-manifest.production-public.tubi.io/live/b78ffdc7-9b64-43b2-aa6c-1e3d5e782048/playlist.m3u8
 #EXTINF:-1 tvg-id="UpTV.us@SD" group-title="United States",Up TV (1080p)
 http://40.160.24.55/Up_TV/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East" group-title="United States",USA Network (720p)
+https://ftv.itscwd273.workers.dev/?id=USANETEAST
 #EXTINF:-1 tvg-id="USANetwork.us@East" group-title="United States",USA Network (1080p)
 http://40.160.24.55/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us@East" group-title="United States",USA Network (1080p)
@@ -3923,6 +3923,9 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="WGALDT3.us@SD" group-title="United States",WGAL-DT3 (1080p) [Geo-blocked]
 https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8
+#EXTINF:-1 tvg-id="WGBODT661.us@HD" group-title="United States",WGBO-DT 66.1 (2160p)
+#EXTVLCOPT:http-referrer=http://tv.univision.com/player/channel/univision-chicago
+https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null
 #EXTINF:-1 tvg-id="WGGSTV161.us@HD" group-title="United States",WGGS-DT1 (720p)
 https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
 #EXTINF:-1 tvg-id="WGGSTV162.us@SD" group-title="United States",WGGS-DT2 (720p)
