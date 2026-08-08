@@ -3,14 +3,14 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 46,
-  "channel_count": 6989,
-  "playlist_sha256": "b18422786866c34b62638c3efd574eee1a9a4c6baa5d8e0ac0985c8b734c935f",
+  "channel_count": 6966,
+  "playlist_sha256": "e14e4306fd34abe3b74990f00f357067f0301376c1a20e093c25dedf67dad590",
   "groups": [
     {
       "position": 1,
       "name": "United States",
       "source_count": 14,
-      "channel_count": 2014
+      "channel_count": 1992
     },
     {
       "position": 2,
@@ -112,16 +112,16 @@
       "position": 18,
       "name": "Russia",
       "source_count": 9,
-      "channel_count": 782
+      "channel_count": 781
     }
   ],
   "sources": [
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "f039b3bf02dc42451ae3d5e7c7d0e7a9a7f2cb4e67d528cb206142498e0aa143",
-      "bytes": 147528,
-      "channels": 1114
+      "sha256": "fe43b60bf11965b74ae7a3b7cd3cb9606401a37d5f56a41f3bf8652993af751e",
+      "bytes": 144582,
+      "channels": 1092
     },
     {
       "group": "United States",
@@ -252,16 +252,16 @@
     {
       "group": "United Kingdom",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk.m3u",
-      "sha256": "5bc9fd8ff6b8efc168611bdf6603bf49900198e61130306bd98584e616c180e4",
-      "bytes": 33470,
-      "channels": 189
+      "sha256": "9dbe79b1d69fe2cf24af347b5f6cd763ff4290b640264ab1a433038933472f8a",
+      "bytes": 33488,
+      "channels": 190
     },
     {
       "group": "United Kingdom",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk_bbc.m3u",
-      "sha256": "cf63c51a775b181ecfef4d53ebfa677f39cd7787d7236e38c47f8cb0c000b8b4",
-      "bytes": 30212,
-      "channels": 162
+      "sha256": "9839f06144b7699e3563d7777003d5428d761dcab04ec7f479e8e34df3979e64",
+      "bytes": 30071,
+      "channels": 161
     },
     {
       "group": "United Kingdom",
@@ -287,8 +287,8 @@
     {
       "group": "Brazil",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/br.m3u",
-      "sha256": "921ae545198eafff70052b839fbe75d31c06bfedeb8467fe75a578a0339da04f",
-      "bytes": 67651,
+      "sha256": "e4d23f333ece70ddcf218fb14b4f3a879fe40c020592ad85144977b259883992",
+      "bytes": 67654,
       "channels": 582
     },
     {
@@ -378,9 +378,9 @@
     {
       "group": "Russia",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru.m3u",
-      "sha256": "2f85c68dfb480fc90609e03aec70b52dc769e6e701cac1ad0bff5725d6d22c97",
-      "bytes": 57292,
-      "channels": 514
+      "sha256": "5c896db95fc056a4e9b063ace346b1bc4d4e5f72aea53825009b3469740b58c3",
+      "bytes": 57044,
+      "channels": 513
     },
     {
       "group": "Russia",
