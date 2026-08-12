@@ -338,9 +338,9 @@ def main() -> int:
     try:
         config = json.loads(args.config.read_text(encoding="utf-8"))
         playlist, manifest = build(config)
-        if manifest["source_count"] != 46 or manifest["group_count"] != 18:
+        if manifest["source_count"] != 45 or manifest["group_count"] != 18:
             raise BuildError(
-                "Safety check failed: expected exactly 46 sources and 18 groups, "
+                "Safety check failed: expected exactly 45 sources and 18 groups, "
                 f"got {manifest['source_count']} sources and {manifest['group_count']} groups"
             )
         atomic_write(args.output, playlist)
