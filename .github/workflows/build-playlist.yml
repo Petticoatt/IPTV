@@ -37,7 +37,7 @@ jobs:
       - name: Run tests
         run: python -m unittest discover -s tests -v
 
-      - name: Fetch all 46 sources and compile playlist
+      - name: Fetch all 45 sources and compile playlist
         run: python playlist_builder.py
 
       - name: Keep scheduled workflow active
