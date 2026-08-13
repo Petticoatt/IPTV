@@ -2681,13 +2681,13 @@ https://livestream.telvue.com/roguevalleycmttv1/f7b44cfafd5c52223d5498196c8a2e7b
 https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SafeerTV.uk@SD" group-title="United States",Safeer TV (1080p)
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="United States",Salem News Channel (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SalemNewsChannel.us@SD" group-title="United States",Salem News Channel (720p) [Geo-blocked]
 https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SalemNewsChannel.us@SD" group-title="United States",Salem News Channel (1080p)
 https://amg00732-salemmediagroup-snc-ono-ekp8j.amagi.tv/playlist/amg00732-salemmediagroup-snc-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="United States",Salem News Channel (1080p)
+#EXTINF:-1 tvg-id="SalemNewsChannel.us@SD" group-title="United States",Salem News Channel (1080p)
 https://amg00732-amg00732c2-stirr-us-8938.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="United States",Salem News Channel (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SalemNewsChannel.us@SD" group-title="United States",Salem News Channel (1080p) [Geo-blocked]
 https://amg00732-salemnewsfast-amg00732c2-xumo-us-1316.playouts.now.amagi.tv/snc-xm/playlist.m3u8
 #EXTINF:-1 tvg-id="SMCTVChannel24.us@SD" group-title="United States",Santa Maria Community Television Education Channel (720p)
 https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -4297,7 +4297,7 @@ https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
 https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States (Pluto TV)",Sala de Emergencias: Historias Inéditas
 https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8
-#EXTINF:-1 tvg-id="" group-title="United States (Pluto TV)",Salem News Channel
+#EXTINF:-1 tvg-id="SalemNewsChannel.us@SD" group-title="United States (Pluto TV)",Salem News Channel
 https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8
 #EXTINF:-1 tvg-id="ScrippsNews.us@SD" group-title="United States (Pluto TV)",Scripps News (720p)
 https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8
@@ -5073,7 +5073,7 @@ https://pb-vbv1er6nemjg9.akamaized.net/Rovr_Pets.m3u8
 https://dt1kh32hg3tft.cloudfront.net/v1/world_rugby_rugbypasstv_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="RyanandFriends.us@SD" group-title="United States (Samsung TV)",Ryan and Friends (1080p)
 https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8
-#EXTINF:-1 tvg-id="" group-title="United States (Samsung TV)",Salem News Channel (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SalemNewsChannel.us@SD" group-title="United States (Samsung TV)",Salem News Channel (1080p) [Geo-blocked]
 https://pb-v4mil672yaqlk.akamaized.net/Salem_News_Channel.m3u8
 #EXTINF:-1 tvg-id="SamsungWildlife.us@SD" group-title="United States (Samsung TV)",Samsung Wild Life (720p) [Geo-blocked]
 https://pb-olm46bexcljjf.akamaized.net/Samsung_Wild_Life.m3u8
