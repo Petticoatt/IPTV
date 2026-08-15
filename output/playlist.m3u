@@ -395,6 +395,8 @@ http://23.239.31.26:8989/axstv/index.m3u8
 http://40.160.24.56/AXS_TV_SD/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@US" group-title="United States",BabyFirst (720p)
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us@Spanish" group-title="United States",BabyFirst Spanish (720p)
+http://168.228.44.241:9997/play/a07u/index.m3u8
 #EXTINF:-1 tvg-id="Backstage.us@SD" group-title="United States",Backstage (1080p) [Geo-blocked]
 https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Bad Girls Club (1080p)
@@ -1002,10 +1004,10 @@ https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" group-title="United States",Discovering China (1080p)
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@East" group-title="United States",Disney Channel (720p)
-http://190.14.10.19:16000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" group-title="United States",Disney Channel (720p) [Geo-blocked]
 http://212.5.144.156/disney/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" group-title="United States",Disney Channel Latin America (720p)
+http://190.14.10.19:16000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@North" group-title="United States",Disney Jr. Latin America (1080p)
 http://190.14.10.19:16000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us@East" group-title="United States",Disney Junior (480p)
@@ -3021,6 +3023,8 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 http://181.119.108.43:9001/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@West" group-title="United States",Telemundo West (720p)
 https://streamer.metronethn.com/Telemundo/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@West" group-title="United States",Telemundo West (2160p)
+http://168.228.44.241:9997/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="TemeculaTV.us@SD" group-title="United States",Temecula TV (Temecula CA) (1080p)
 https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="Tempe11.us@SD" group-title="United States",Tempe Channel 11
@@ -3586,6 +3590,8 @@ https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
 http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="WLTVDT231.us@HD" group-title="United States",WLTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+#EXTINF:-1 tvg-id="WLTVDT231.us@HD" group-title="United States",WLTV-DT 23.1 (720p)
+http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="WMBCTV631.us@HD" group-title="United States",WMBC-DT1
 http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/1098/index.m3u8
 #EXTINF:-1 tvg-id="WMBCTV631.us@HD" group-title="United States",WMBC-DT1 (720p)
@@ -6167,6 +6173,9 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Czechia" group-title="United Kingdom",BBC Earth Czechia
 http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@Turkiye" group-title="United Kingdom",BBC Earth Turkiye
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Turkiye" group-title="United Kingdom",BBC Earth Turkiye (720p)
 http://194.156.236.23:8004/play/a018
 #EXTINF:-1 tvg-id="BBCFirst.uk@Turkiye" group-title="United Kingdom",BBC First Turkiye
@@ -9124,10 +9133,16 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 https://sic.live.impresa.pt/sic.m3u8
 #EXTINF:-1 tvg-id="SICAltaDefinicao.pt@SD" group-title="Portugal",SIC Alta Definição (1080p)
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+#EXTINF:-1 tvg-id="SICMulher.pt@SD" group-title="Portugal",SIC Mulher
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://zntx.dyndns.org:8085/hls/sicm.m3u8
 #EXTINF:-1 tvg-id="SICNoticias.pt@SD" group-title="Portugal",SIC Notícias (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1 tvg-id="SICRadical.pt@SD" group-title="Portugal",SIC Radical
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/sicr.m3u8
 #EXTINF:-1 tvg-id="SICReplay.pt@SD" group-title="Portugal",SIC Replay (1080p)
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 #EXTINF:-1 tvg-id="SportTV1.pt@SD" group-title="Portugal",Sport TV1
@@ -9175,6 +9190,9 @@ https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
 https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVManaRusskiy.pt@SD" group-title="Portugal",TV Maná Russkiy (1080p)
 https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI.pt@SD" group-title="Portugal",TVI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://zntx.dyndns.org:8085/hls/tvi.m3u8
 #EXTINF:-1 tvg-id="TVI.pt@SD" group-title="Portugal",TVI (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 #EXTINF:-1 tvg-id="TVIFiccao.pt@SD" group-title="Portugal",TVI Ficção (720p)

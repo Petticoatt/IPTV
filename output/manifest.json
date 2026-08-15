@@ -3,14 +3,14 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 45,
-  "channel_count": 6519,
-  "playlist_sha256": "54cd4bc995ce6da29729101b25b889b15e80840a538934ee1c1e5873d190de5c",
+  "channel_count": 6526,
+  "playlist_sha256": "2da95a9dbd4bec9a3a4fec0e1500c98df315080949170cb9255aba34347845a0",
   "groups": [
     {
       "position": 1,
       "name": "United States",
       "source_count": 14,
-      "channel_count": 1837
+      "channel_count": 1840
     },
     {
       "position": 2,
@@ -40,7 +40,7 @@
       "position": 6,
       "name": "United Kingdom",
       "source_count": 3,
-      "channel_count": 398
+      "channel_count": 399
     },
     {
       "position": 7,
@@ -70,7 +70,7 @@
       "position": 11,
       "name": "Portugal",
       "source_count": 2,
-      "channel_count": 58
+      "channel_count": 61
     },
     {
       "position": 12,
@@ -119,9 +119,9 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "0ad33015b67d4cdd71a1f2a3e2d7d9aaa1c63eccd7edc2d14e575000557cb5dc",
-      "bytes": 134380,
-      "channels": 1013
+      "sha256": "35eada3a74f5508b2dd54cf620afafa2af604cadbaff179ab5ec7e2c47c5f236",
+      "bytes": 134746,
+      "channels": 1016
     },
     {
       "group": "United States",
@@ -252,9 +252,9 @@
     {
       "group": "United Kingdom",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk.m3u",
-      "sha256": "9f5af1df9dd9b6aad9fe99b8d30001e24a3ebde117071d68555999f6240ca491",
-      "bytes": 31690,
-      "channels": 171
+      "sha256": "4ae20667ea1d7b3df18bcce3b613df26ac1238a610cb191d71eccd6cb201f04c",
+      "bytes": 31936,
+      "channels": 172
     },
     {
       "group": "United Kingdom",
@@ -301,9 +301,9 @@
     {
       "group": "Portugal",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/pt.m3u",
-      "sha256": "28fc743a2c4f832d442a839665c404075b3377917353fad8d282b4f495c6c9be",
-      "bytes": 10491,
-      "channels": 55
+      "sha256": "eb36b514fe1656e8660502e175a017f1b0e43acb4ea7dd00da87199dcb461224",
+      "bytes": 11172,
+      "channels": 58
     },
     {
       "group": "Portugal",
