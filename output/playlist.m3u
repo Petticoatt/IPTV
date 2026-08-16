@@ -5,9 +5,6 @@ https://live.enhdtv.com:8081/8150/index.m3u8
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-id="24HourFreeMovies.us@SD" group-title="United States",24 Hour Free Movies (720p)
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
-#EXTINF:-1 tvg-id="24HourFreeMovies.us@SD" group-title="United States",24 Hour Free Movies (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
 #EXTINF:-1 tvg-id="48Hours.us@US" group-title="United States",48 Hours (1080p)
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 #EXTINF:-1 tvg-id="AE.us@East" group-title="United States",A&E (720p)
@@ -1112,11 +1109,11 @@ https://d2gwqf8gdwq1zs.cloudfront.net/scheduler/scheduleMaster/426.m3u8
 https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" group-title="United States",ESPN Deportes (720p)
 http://40.160.24.58/ESPN_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="ESPNDeportes.us@SD" group-title="United States",ESPN Deportes (720p)
+#EXTINF:-1 tvg-id="ESPNDeportes.us@HD" group-title="United States",ESPN Deportes HD (720p)
 https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us@SD" group-title="United States",ESPNU (720p)
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us@SD" group-title="United States",ESPNU (720p)
+#EXTINF:-1 tvg-id="ESPNU.us@HD" group-title="United States",ESPNU HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us@SD" group-title="United States",Estrella Games (1080p)
 https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8
@@ -1268,10 +1265,6 @@ http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="United States",Fox News Channel (144p)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="United States",Fox News Channel (576p)
-https://tvsen6.aynaott.com/foxnews/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="United States",Fox News Channel (720p)
-http://40.160.24.56/FOX_NEWS_SD/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="United States",Fox News Channel (720p)
 http://45.190.28.50/FOX_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="United States",Fox News Channel (720p)
@@ -1360,6 +1353,8 @@ http://72.1.184.5:8089/play/a05i/index.m3u8
 https://streamer.metronethn.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXMovieChannel.us@SD" group-title="United States",FX Movie Channel (720p)
 http://40.160.24.56/FXM_SD/index.m3u8
+#EXTINF:-1 tvg-id="FXMovieChannel.us@HD" group-title="United States",FX Movie Channel HD (1080p)
+https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
 #EXTINF:-1 tvg-id="FXX.us@East" group-title="United States",FXX (720p)
 http://40.160.24.56/FXX_SD/index.m3u8
 #EXTINF:-1 tvg-id="FXX.us@East" group-title="United States",FXX (1080p)
@@ -2291,6 +2286,8 @@ http://212.5.144.156:8080/nickjr/index.m3u8
 https://gpuserver5.tier1streams.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us@East" group-title="United States",Nick Jr. (1080p)
 http://40.160.24.55/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East" group-title="United States",Nick Jr. (1080p)
+https://sra72yz.s.gy/NICK_JR_US.m3u8
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" group-title="United States",Nick Jr. Latin America (720p)
 https://streamer.metronethn.com/NickJr/index.m3u8
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" group-title="United States",Nick Jr. Latin America (1080p)
@@ -2305,6 +2302,8 @@ http://198.58.104.90:8989/nickelodeon/index.m3u8
 https://gpuserver5.tier1streams.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="United States",Nickelodeon (1080p)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="United States",Nickelodeon (1080p)
+https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (720p)
 https://streamer.metronethn.com/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (1080p)
@@ -2319,6 +2318,8 @@ http://190.93.224.42/NICK/index.m3u8
 http://40.160.24.55/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="United States",Nicktoons (720p)
 http://41.205.93.154/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="United States",Nicktoons (1080p)
+https://sra72yz.s.gy/NICKTOONS_US.m3u8
 #EXTINF:-1 tvg-id="NinjaKidzTV.us@SD" group-title="United States",Ninja Kidz TV
 https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NollyAfrica.uk@SD" group-title="United States",Nolly Africa [Geo-blocked]
@@ -3122,8 +3123,6 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76
 https://hls.tmtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TMZ.us@SD" group-title="United States",TMZ (720p)
 https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index.m3u8
-#EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" group-title="United States",TNT Novelas (1080p)
-http://15.204.246.24:8080/TNTNovelasHD/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" group-title="United States",TNT Novelas (1080p)
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" group-title="United States",TNT Novelas Brazil (720p)
@@ -9691,6 +9690,8 @@ https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 #EXTINF:-1 tvg-id="TelevisionCanaria.es@SD" group-title="Spain",Television Canaria (576p)
 https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
+#EXTINF:-1 tvg-id="TelevisionCanaria.es@SD" group-title="Spain",Television Canaria (1080p)
+https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionConsciente.es@SD" group-title="Spain",Televisión Consciente (1080p)
 https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
 #EXTINF:-1 tvg-id="TitoTV.es@HD" group-title="Spain",Tito TV (720p)
@@ -11283,13 +11284,9 @@ http://145.239.5.177/320/index.m3u8
 http://89.33.29.118/MCM/index.m3u8
 #EXTINF:-1 tvg-id="MDL.fr@SD" group-title="France",MDL (720p)
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Mezzo.fr@SD" group-title="France",Mezzo (576p)
-http://tmptv.sunduk.tv/CH97/index.m3u8
-#EXTINF:-1 tvg-id="Mezzo.fr@SD" group-title="France",Mezzo (576p)
+#EXTINF:-1 tvg-id="Mezzo.fr@SD" group-title="France",Mezzo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/mezzo/index.m3u8
-#EXTINF:-1 tvg-id="Mezzo.fr@SD" group-title="France",Mezzo (1080p)
-https://live-3.otcnet.ru/Mezzo/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=mezzo
 #EXTINF:-1 tvg-id="MezzoLive.fr@SD" group-title="France",Mezzo Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://45.84.187.172:3001/udp/239.10.10.76:5000
@@ -12404,6 +12401,12 @@ https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 http://77.232.131.211/Sapfir/manifest.m3u8
 #EXTINF:-1 tvg-id="Sarafan.ru@SD" group-title="Russia",Sarafan (576p)
 http://stream.mcquack.net/81/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports1.ru@SD" group-title="Russia",Setanta Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 tvg-id="SetantaSports2.ru@SD" group-title="Russia",Setanta Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="Russia",Shanson TV (576p)
 http://catchup.videoline.ru/shanson/index.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="Russia",Shanson TV (576p)
