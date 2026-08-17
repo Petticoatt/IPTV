@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABCWKBW.us" tvg-logo="https://images.open-epg.com/42519.png" group-title="US| Broadcast TV",US| ABC (East)
-http://40.160.24.56/ABC_SD/index.m3u8
-#EXTINF:-1 tvg-id="ABCWKBW.us" tvg-logo="https://images.open-epg.com/42519.png" group-title="US| Broadcast TV",US| ABC (East)
 http://stream.cammonitorplus.net/1746/index.m3u8
 #EXTINF:-1 tvg-id="ABCKABC.us" tvg-logo="https://images.open-epg.com/42519.png" group-title="US| Broadcast TV",US| ABC (West)
 http://stream.cammonitorplus.net/1797/index.m3u8
@@ -214,9 +212,9 @@ https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-logo="https://images.open-epg.com/14358983.png" group-title="US| News & Business",US| Fox Business
 https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-logo="https://images.open-epg.com/14358983.png" group-title="US| News & Business",US| Fox Business
-http://40.160.24.56/FOX_BUSINESS_SD/index.m3u8
+https://t.freetv.fun/live/us-fox-business-network.m3u8
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-logo="https://images.open-epg.com/14358983.png" group-title="US| News & Business",US| Fox Business
-http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
+https://t.freetv.fun/live/fox-business-network-1.m3u8
 #EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://images.open-epg.com/10891126.png" group-title="US| News & Business",US| CNBC
 http://4.30.180.36:8420/cnbc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="CNBCWorld.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CNBC_World_2025.svg" group-title="US| News & Business",US| CNBC World
