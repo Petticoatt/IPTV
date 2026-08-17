@@ -4,7 +4,7 @@
   "group_count": 18,
   "source_count": 45,
   "channel_count": 6495,
-  "playlist_sha256": "dc45b4be3943040dabce76f809c4ec2cb232547f068f0a5121b6244fa3b24b3d",
+  "playlist_sha256": "845be6361af9bd37bcdb134697c01683527bdfb02db62d52e553aef127159122",
   "groups": [
     {
       "position": 1,
@@ -154,8 +154,8 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_stirr.m3u",
-      "sha256": "c0c0bba32bed710417a3747f4056a9759beff16a895e6752990f815c31c094f7",
-      "bytes": 12294,
+      "sha256": "60362aa3ce9e5053a754b4bf3f1a7c764b3e191b7f7bea2b519dd2a651bd2cc4",
+      "bytes": 12350,
       "channels": 91
     },
     {

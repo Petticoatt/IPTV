@@ -1043,7 +1043,7 @@ http://190.61.90.17:40000/play/a025/index.m3u8
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElectricNow.us@SD" group-title="United States",Electric Now (720p)
 https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="United States",Elevation Church (1080p)
+#EXTINF:-1 tvg-id="ElevationChurchNetwork.us@HD" group-title="United States",Elevation Church (1080p)
 https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="EntertainmentTonight.us@SD" group-title="United States",Entertainment Tonight (1080p)
 https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
@@ -1525,7 +1525,7 @@ http://23.237.104.106:8080/USA_IFC/index.m3u8
 https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8
 #EXTINF:-1 tvg-id="IntheKitchen.us@SD" group-title="United States",In the kitchen (720p)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="United States",In Touch+ (1080p)
+#EXTINF:-1 tvg-id="InTouchPlus.us" group-title="United States",In Touch+ (1080p) [Geo-blocked]
 https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INFAST.nl@SD" group-title="United States",InFast (1080p) [Geo-blocked]
 https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8
