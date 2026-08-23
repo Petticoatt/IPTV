@@ -3,14 +3,14 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 45,
-  "channel_count": 6481,
-  "playlist_sha256": "7df5e3e3678f7b054aeecff0ebdf7ccc94b818d426ec704fcfd1c3a43ee8c76a",
+  "channel_count": 6484,
+  "playlist_sha256": "92df7fa277742b536c9d719588ce99d39e6b8b72769b14f99c54ad402051e0f1",
   "groups": [
     {
       "position": 1,
       "name": "United States",
       "source_count": 14,
-      "channel_count": 1776
+      "channel_count": 1779
     },
     {
       "position": 2,
@@ -119,9 +119,9 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "7d49626d29f79f96cf53c79dd671db94eb7f956dbf57c948323bed8d8c0a5c3f",
-      "bytes": 129582,
-      "channels": 953
+      "sha256": "64cd2688c0154ee59cbd1e5d40b7f101d324f4de470e35a00732b3b187a6f801",
+      "bytes": 129918,
+      "channels": 956
     },
     {
       "group": "United States",
@@ -252,8 +252,8 @@
     {
       "group": "United Kingdom",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk.m3u",
-      "sha256": "b99c5be868fe04b6936d9debecb1245edd1e98d685840855422029e9254004ae",
-      "bytes": 33600,
+      "sha256": "ea6bbe1e8ec87c86cd28abfa3e85789dda5213f28a6b176b64b60e66a5d974ad",
+      "bytes": 33622,
       "channels": 185
     },
     {
