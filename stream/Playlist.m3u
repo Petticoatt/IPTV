@@ -43,6 +43,8 @@ http://1tv41.icu:8080/live/sm@synergyplangroup.ca/I0RfrFOHo5/149621.m3u8
 http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1 tvg-id="IONPlus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Ion_Plus_2024.svg" group-title="US| Broadcast TV",US| ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="US| Entertainment",US| 24 Hour Free Movies
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://images.open-epg.com/28740.png" group-title="US| Entertainment",US| USA Network (East)
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="US| Entertainment",US| FX
@@ -61,6 +63,8 @@ https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playl
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-logo="https://images.open-epg.com/14358997.png" group-title="US| Entertainment",US| Hallmark
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesandMore.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" group-title="US| Entertainment",US| Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-id="BounceTV.us" tvg-logo="https://images.open-epg.com/8652689.png" group-title="US| Entertainment",US| Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-id="BounceXL.us" tvg-logo="https://i.imgur.com/GzxgSkc.png" group-title="US| Entertainment",US| Bounce XL
