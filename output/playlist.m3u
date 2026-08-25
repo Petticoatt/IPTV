@@ -111,6 +111,8 @@ https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8
 http://stream.cammonitorplus.net/1797/index.m3u8
 #EXTINF:-1 tvg-id="WWAY31.us@HD" group-title="United States",ABC WWAY 3
 https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
+#EXTINF:-1 tvg-id="ABHPTV.us@HD" group-title="United States",ABHP TV (480p)
+https://vietprocast.app/hls/abhp/index.m3u8
 #EXTINF:-1 tvg-id="ABNAfghanistan.us@SD" group-title="United States",ABN Afghanistan (540p)
 https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 #EXTINF:-1 tvg-id="ABNAfrica.us@SD" group-title="United States",ABN Africa (480p)
@@ -1007,6 +1009,8 @@ http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us@SD" group-title="United States",District of Columbia Network (DCN) (1080p)
 https://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 tvg-id="DiyaTV.us@SD" group-title="United States",Diya TV (1080p)
+https://stream.diyatvinc.com/diya.m3u8
 #EXTINF:-1 tvg-id="DNews.us@SD" group-title="United States",DNews (720p)
 http://38.19.16.151:8000/play/a0a3
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us@US" group-title="United States",Doctor Who Classic
@@ -2832,9 +2836,9 @@ https://aegis-cloudfront-1.tubi.video/4541ec70-497a-4a92-87cf-50258fbab999/playl
 https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Surfing+ (1080p)
 https://dr4jwhk0sty71.cloudfront.net/scheduler/scheduleMaster/444.m3u8
-#EXTINF:-1 tvg-id="" group-title="United States",Swerve Combat (720p)
+#EXTINF:-1 tvg-id="SwerveCombat.us@SD" group-title="United States",Swerve Combat (720p)
 https://a-cdn.klowdtv.com/live3/swervecombat_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SwerveSports.us@SD" group-title="United States",Swerve Combat (1080p)
+#EXTINF:-1 tvg-id="SwerveCombat.us@SD" group-title="United States",Swerve Combat (1080p)
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SwerveSports.us@SD" group-title="United States",Swerve Sports (720p)
 https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8
@@ -6010,6 +6014,10 @@ http://88.212.15.19/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk@Hungary" group-title="United Kingdom",AMC Europe Hungary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/amc_hun/index.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk@Romania" group-title="United Kingdom",AMC Europe Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
 #EXTINF:-1 tvg-id="AnandTV.uk@SD" group-title="United Kingdom",Anand TV (720p) [Not 24/7]
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 tvg-id="ATNBanglaUK.uk@SD" group-title="United Kingdom",ATN Bangla UK (576p)
