@@ -133,6 +133,9 @@ https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us@SD" group-title="United States",ACC Network (720p)
 http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us@HD" group-title="United States",ACC Network HD (720p)
+#EXTVLCOPT:http-referrer=https://directv-iptv-player.vercel.app/
+https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F23.239.31.26%3A8989%2Faccnetwork%2Findex.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD" group-title="United States",ACCDN (1080p)
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD" group-title="United States",ACCDN (1080p)
@@ -1043,6 +1046,8 @@ https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" group-title="United States",DreamWorks Channel Asia (1080p)
 https://cdn12.178.indevs.in/163189/dreamworks
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" group-title="United States",DreamWorks Channel Asia (1080p)
+http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" group-title="United States",DreamWorks Channel Latin America (576p)
 https://cdn-5.nxplay.com.br/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" group-title="United States",DreamWorks Channel Latin America (1080p)
@@ -1373,6 +1378,8 @@ https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m
 https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 #EXTINF:-1 tvg-id="GemShoppingNetwork.us@SD" group-title="United States",Gem Shopping Network (720p)
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GenesisScienceNetwork.us@SD" group-title="United States",Genesis Science Network (720p)
+https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8
 #EXTINF:-1 tvg-id="GiggleMug.us@SD" group-title="United States",Giggle Mug (576p)
 https://tvsen6.aynaott.com/ytv/index.m3u8
 #EXTINF:-1 tvg-id="GiggleMug.us@SD" group-title="United States",Giggle Mug (576p)
@@ -1463,6 +1470,8 @@ http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-id="HamaikaTelebista.es@SD" group-title="United States",Hamaika Telebista (1080p)
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HarmonyGospelMusicTV.us@SD" group-title="United States",Harmony Gospel Music TV (1080p)
+https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
 #EXTINF:-1 tvg-id="HasbroLegends.us@SD" group-title="United States",Hasbro Legends (1080p) [Geo-blocked]
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
 #EXTINF:-1 tvg-id="HauntTV.ca@SD" group-title="United States",Haunt TV (720p)
@@ -2250,6 +2259,9 @@ http://198.58.104.90:8989/nickelodeon/index.m3u8
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="United States",Nickelodeon (1080p)
 https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@EastHD" group-title="United States",Nickelodeon East HD (720p)
+#EXTVLCOPT:http-referrer=https://directv-iptv-player.vercel.app/
+https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F198.58.104.90%3A8989%2Fnickelodeon%2Findex.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (720p)
 https://streamer.metronethn.com/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (1080p)
@@ -2978,12 +2990,16 @@ https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",The Lone Ranger (1080p)
 https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="TheLoop.us@SD" group-title="United States",The Loop (1080p)
+https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",The Masked Singer (720p)
 https://aegis-cloudfront-1.tubi.video/af138c2c-c4f2-49f7-88d7-64eeabbad414/index.m3u8
 #EXTINF:-1 tvg-id="TheNest.us@SD" group-title="United States",The Nest (1080p)
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-id="TheNowNetwork.us@SD" group-title="United States",The Now Network (480p) [Not 24/7]
 https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
+#EXTINF:-1 tvg-id="ThePointTelevsionNetwork.us@SD" group-title="United States",The Point Televsion Network (1080p)
+https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8
 #EXTINF:-1 tvg-id="ThePriceIsRightTheBarkerEra.us@SD" group-title="United States",The Price is Right: The Barker Era (1080p) [Geo-blocked]
 https://amg00145-letsplayinc-thepriceisright-xumo-eqq6a.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheQIndia.us@SD" group-title="United States",The Q India (576p)
@@ -3280,12 +3296,6 @@ https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 #EXTINF:-1 tvg-id="WantedDeadorAlive.us@SD" group-title="United States",Wanted: Dead or Alive (720p)
 https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="United States",WATC Harmony Gospel Music TV (1080p)
-https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
-#EXTINF:-1 tvg-id="WATCDT573.us@SD" group-title="United States",WATC The Loop (1080p)
-https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
-#EXTINF:-1 tvg-id="WATCDT572.us@HD" group-title="United States",WATC The POINT Network (1080p)
-https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8
 #EXTINF:-1 tvg-id="WATCDT571.us@HD" group-title="United States",WATC TV57 (1080p)
 https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8
 #EXTINF:-1 tvg-id="WatchitKID.us@SD" group-title="United States",Watch it KID! (720p)
@@ -6415,10 +6425,6 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cb
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="United Kingdom",CBeebies HD (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="Channel5.uk@SD" group-title="United Kingdom",Channel 5 (1080p)
-https://xemzi.short.gy/1000030
-#EXTINF:-1 tvg-id="Channel5.uk@HD" group-title="United Kingdom",Channel 5 HD (720p)
-http://193.46.58.239:8080/Channel5/index.m3u8
 #EXTINF:-1 tvg-id="ChannelS.uk@SD" group-title="United Kingdom",Channel S (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCUK.uk@SD" group-title="United Kingdom",CNBC UK (1080p) [Geo-blocked]
@@ -6573,8 +6579,6 @@ https://live.playstop.me/LS-63503-4/index.m3u8
 https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
 #EXTINF:-1 tvg-id="IslamChannel.uk@SD" group-title="United Kingdom",Islam Channel (576p) [Not 24/7]
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="ITV1.uk@London" group-title="United Kingdom",ITV1 (1080p)
-https://xemzi.short.gy/1000011
 #EXTINF:-1 tvg-id="ITV2.uk@HD" group-title="United Kingdom",ITV2 HD (1080p)
 https://xemzi.short.gy/1000012
 #EXTINF:-1 tvg-id="" group-title="United Kingdom",Jail (720p)
@@ -11120,6 +11124,8 @@ https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@English" group-title="France",France 24 English (1080p)
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@EnglishHD" group-title="France",France 24 English HD (1080p)
+http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France",France 24 Español (360p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France",France 24 Español (360p)
