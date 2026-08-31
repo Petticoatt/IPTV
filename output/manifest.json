@@ -3,14 +3,14 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 45,
-  "channel_count": 6506,
-  "playlist_sha256": "5b8ba839c50186d646767d9831c9bb34906f61c860f81b35597075222deb477a",
+  "channel_count": 6502,
+  "playlist_sha256": "15bf85810f82792d9ec0edefd6a70f47184480c880fa480fd3c1d8bcf9ad8793",
   "groups": [
     {
       "position": 1,
       "name": "United States",
       "source_count": 14,
-      "channel_count": 1785
+      "channel_count": 1787
     },
     {
       "position": 2,
@@ -40,7 +40,7 @@
       "position": 6,
       "name": "United Kingdom",
       "source_count": 3,
-      "channel_count": 415
+      "channel_count": 410
     },
     {
       "position": 7,
@@ -88,7 +88,7 @@
       "position": 14,
       "name": "Italy",
       "source_count": 2,
-      "channel_count": 331
+      "channel_count": 330
     },
     {
       "position": 15,
@@ -119,9 +119,9 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "86982026e4543e6112d714cb534e71854c4e8a3a6c8d626de152529ab598d9b7",
-      "bytes": 131325,
-      "channels": 963
+      "sha256": "959248c321cc5081d29d52318a28bf20a6480c61cfff8bbaefeec02ebe02460d",
+      "bytes": 131602,
+      "channels": 965
     },
     {
       "group": "United States",
@@ -252,9 +252,9 @@
     {
       "group": "United Kingdom",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk.m3u",
-      "sha256": "5e8fb15d52194d7e02398fbce10538d03d16f9a387d0b3d7004f7bc60fb7eede",
-      "bytes": 34905,
-      "channels": 188
+      "sha256": "d917287d59a443dba2e25c03d74fa165c05b2727635690ad11ceafbe4d316d2b",
+      "bytes": 33840,
+      "channels": 183
     },
     {
       "group": "United Kingdom",
@@ -329,9 +329,9 @@
     {
       "group": "Italy",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/it.m3u",
-      "sha256": "ad8d42572910e51470d6bd9d678d63c25647e5218201264102a3caecef405e9b",
-      "bytes": 43057,
-      "channels": 302
+      "sha256": "58a442aa6c55bff203383a5c83f56af3daa7aedc0c6f8eb127d650fab5d5f76c",
+      "bytes": 42775,
+      "channels": 301
     },
     {
       "group": "Italy",
