@@ -3,14 +3,14 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 45,
-  "channel_count": 6503,
-  "playlist_sha256": "4a957a03212e100240e637fc50aecfdbb48ac2456b0cdb9f972904ecaf69ded2",
+  "channel_count": 6505,
+  "playlist_sha256": "faffe8809d822557528eadad6cee4060f7af23134926eec50da6c1078bc8b891",
   "groups": [
     {
       "position": 1,
       "name": "United States",
       "source_count": 14,
-      "channel_count": 1787
+      "channel_count": 1789
     },
     {
       "position": 2,
@@ -119,9 +119,9 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "959248c321cc5081d29d52318a28bf20a6480c61cfff8bbaefeec02ebe02460d",
-      "bytes": 131602,
-      "channels": 965
+      "sha256": "4c628cfe0a9dd7647535e9b9eb1f7f4bab2ffb6cdd02698b1107a45fbbf641ed",
+      "bytes": 131791,
+      "channels": 967
     },
     {
       "group": "United States",
@@ -280,8 +280,8 @@
     {
       "group": "United Kingdom (Samsung TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk_samsung.m3u",
-      "sha256": "0a2cb443c36cbbbe044309041007ff71e153c74b820caf71dfe9fda7e5c3a1f5",
-      "bytes": 26315,
+      "sha256": "f7a32ad96b9630c7dce5d485633f2857150e1fa9e4ada73eed911c8e5d0180f1",
+      "bytes": 26373,
       "channels": 177
     },
     {
