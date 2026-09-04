@@ -3,14 +3,14 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 45,
-  "channel_count": 6674,
-  "playlist_sha256": "80971a5295b7b31ce407e7239234b5b6b30cdbc66d1a7d859c0405709269c863",
+  "channel_count": 6672,
+  "playlist_sha256": "025123ae2f6324fb63489b464dc48ccc3d8ed59d2464b4a5c0a7ae5d1e6a786b",
   "groups": [
     {
       "position": 1,
       "name": "United States",
       "source_count": 14,
-      "channel_count": 1800
+      "channel_count": 1798
     },
     {
       "position": 2,
@@ -119,22 +119,22 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "8d5aa96937f39d9a8ad04db11007c0efcd36509158ca3f6d6ff77ef9efcfa29f",
-      "bytes": 133104,
-      "channels": 979
+      "sha256": "cbb07ff32991fdb39c3d093521c1dac76d87b935f20df9cadc15c7e599894e31",
+      "bytes": 132957,
+      "channels": 977
     },
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_local.m3u",
-      "sha256": "72afe9e943292680aacec6da2c8b9dfe117ceaea7b23a950c7c2153790ae8a2d",
-      "bytes": 27134,
+      "sha256": "653fb1e10646f72ba0f009798444e2e0531869104352b37bc026ff50fdc93f71",
+      "bytes": 27143,
       "channels": 178
     },
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_uplynk.m3u",
-      "sha256": "8791c88b298b7e02207e770eaee41685478f1c480508c643e40cb391341611ce",
-      "bytes": 3227,
+      "sha256": "b487b78e12ac9cef6318d61e02b65f759e4a027e60e3ab6c2dbdea0e02ebea19",
+      "bytes": 3204,
       "channels": 23
     },
     {
@@ -147,22 +147,22 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_pbs.m3u",
-      "sha256": "f5f561ac16444a35f00cda507fdc2f8396027b8aed3825011ad548d8e825ac26",
-      "bytes": 2284,
+      "sha256": "73252f253be0f76116f89c88b1207fd7b9645761f904be75c4ec5e02b2aedade",
+      "bytes": 2322,
       "channels": 16
     },
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_stirr.m3u",
-      "sha256": "ad7005f1b671c00a391af8ab7f960b7483e254c4bc3efae33775499e9e59dd55",
-      "bytes": 12350,
+      "sha256": "0fae2e3959df91a75ccf1b09eb9632dfaa9dfc6d528a88f439988adc542321a8",
+      "bytes": 12302,
       "channels": 91
     },
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_tubi.m3u",
-      "sha256": "4f9c9b48940b668b965fc6dc79165f490f30c43f102acda5c5b8449d5566ff03",
-      "bytes": 24096,
+      "sha256": "7a8418c17955bb0d4d14858d1bb255f07fe5a7f4ade4abc407b9cdef80786ccd",
+      "bytes": 24063,
       "channels": 157
     },
     {
@@ -224,15 +224,15 @@
     {
       "group": "United States (Samsung TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_samsung.m3u",
-      "sha256": "8b708065cab17d4baaa0da4ecf3c50cbe53c2f3a2e058d612cb2eec8efea7d36",
-      "bytes": 49961,
+      "sha256": "2b5c14884dbb458e285d482eb6ffcb270c4638197e9310f823b79f3bfc3cac75",
+      "bytes": 49960,
       "channels": 407
     },
     {
       "group": "Canada",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ca.m3u",
-      "sha256": "2d5ca6c92eb69c62d01c3e2cf078550622a61a9d62c6b0082c8d8256f062bd18",
-      "bytes": 18483,
+      "sha256": "3881e0f4a2e4f9c056a91644df78ccda2e7f93e40a0c2e7c22e0d5df9b378f83",
+      "bytes": 18873,
       "channels": 128
     },
     {
