@@ -435,6 +435,8 @@ http://45.190.28.50/CNBC/index.m3u8
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 tvg-id="TimesBrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0uVXkA3yyIPaNlnEn-jLzbhmwkmJFYrDP4b5qkx0LHw&s=10.png" group-title="BR| Notícias e Negócios",BR| Times Brasil (CNBC)
 https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
+#EXTINF:-1 tvg-id="TimesBrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0uVXkA3yyIPaNlnEn-jLzbhmwkmJFYrDP4b5qkx0LHw&s=10.png" group-title="BR| Notícias e Negócios",BR| Times Brasil (CNBC)
+https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/wnYsE3O.png" group-title="BR| Notícias e Negócios",BR| Terra Viva
 http://45.190.28.50/TERRA_VIVA_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="BR| Notícias e Negócios",BR| TV Senado
