@@ -3,14 +3,14 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 45,
-  "channel_count": 6689,
-  "playlist_sha256": "55d75206d1c8e1d64b5ec2abdc2f751ee890c8eb196ad150996f7d49557946c9",
+  "channel_count": 6690,
+  "playlist_sha256": "6d9a5f85bda24e90821dbbd08f3debb7fd8d51a57d94218922d139e4e8142d42",
   "groups": [
     {
       "position": 1,
       "name": "United States",
       "source_count": 14,
-      "channel_count": 1800
+      "channel_count": 1801
     },
     {
       "position": 2,
@@ -40,7 +40,7 @@
       "position": 6,
       "name": "United Kingdom",
       "source_count": 3,
-      "channel_count": 414
+      "channel_count": 413
     },
     {
       "position": 7,
@@ -58,7 +58,7 @@
       "position": 9,
       "name": "Brazil",
       "source_count": 1,
-      "channel_count": 532
+      "channel_count": 533
     },
     {
       "position": 10,
@@ -119,9 +119,9 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "447ad339fcc6a351bff9911720a18c96074d2d5b969df357a59442387a7a0255",
-      "bytes": 132997,
-      "channels": 979
+      "sha256": "a76f4574be5e030788c10834054401df6c25effe3b800a7d09f604b8ddc0d5d5",
+      "bytes": 133130,
+      "channels": 980
     },
     {
       "group": "United States",
@@ -252,9 +252,9 @@
     {
       "group": "United Kingdom",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk.m3u",
-      "sha256": "cf82a6f57e1235632f5e860311495a6bcd11bad4589f87c77b254555c32e7b66",
-      "bytes": 34279,
-      "channels": 187
+      "sha256": "e14b6e13c476b027ea984111210028eb756130c26265e092874f6f52b35a8c4f",
+      "bytes": 34047,
+      "channels": 186
     },
     {
       "group": "United Kingdom",
@@ -287,9 +287,9 @@
     {
       "group": "Brazil",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/br.m3u",
-      "sha256": "f811cfbad260bef57c1c858847edb362c01679c1f6d8d7d9ba598ced46f3e395",
-      "bytes": 61321,
-      "channels": 532
+      "sha256": "be0553efd56c81bb239eb740b8f6ce6cda0bed32b540267fa3071b31a580e184",
+      "bytes": 61432,
+      "channels": 533
     },
     {
       "group": "Brazil (Pluto TV)",
