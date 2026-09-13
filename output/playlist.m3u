@@ -1372,8 +1372,6 @@ https://cdn1tlinkgo.tlink.cl/fxhd/index.m3u8
 http://72.1.184.5:8089/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@South" group-title="United States",FX Latin America South (720p)
 https://streamer.metronethn.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="FXMovieChannel.us@HD" group-title="United States",FX Movie Channel HD (1080p)
-https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
 #EXTINF:-1 tvg-id="Gagsnetwork.us@SD" group-title="United States",Gagsnetwork (576p)
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1 tvg-id="Gagsnetwork.us@SD" group-title="United States",Gagsnetwork (576p)
@@ -2291,8 +2289,6 @@ http://tvsen7.aynascope.net/nickjr/index.m3u8
 http://4.30.180.36:8420/nickjr/index.m3u8?token=test
 #EXTINF:-1 tvg-id="NickJr.us@East" group-title="United States",Nick Jr. (720p)
 http://107.167.16.138/nickjr/index.m3u8?token=test
-#EXTINF:-1 tvg-id="NickJr.us@East" group-title="United States",Nick Jr. (1080p)
-https://sra72yz.s.gy/NICK_JR_US.m3u8
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" group-title="United States",Nick Jr. Latin America (720p)
 https://streamer.metronethn.com/NickJr/index.m3u8
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" group-title="United States",Nick Jr. Latin America (1080p)
@@ -2301,10 +2297,6 @@ http://177.234.249.178:8888/NICK-JR/index.m3u8
 http://179.60.51.134:8888/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="United States",Nickelodeon (720p)
 http://198.58.104.90:8989/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="United States",Nickelodeon (1080p)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="United States",Nickelodeon (1080p)
-https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (720p)
 https://streamer.metronethn.com/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (1080p)
@@ -2319,8 +2311,6 @@ http://190.93.224.42/NICK/index.m3u8
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="United States",Nicktoons (720p)
 http://tvsen7.aynascope.net/nicktoons/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="United States",Nicktoons (1080p)
-https://sra72yz.s.gy/NICKTOONS_US.m3u8
 #EXTINF:-1 tvg-id="NinjaKidzTV.us@SD" group-title="United States",Ninja Kidz TV
 https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NollyAfrica.uk@SD" group-title="United States",Nolly Africa [Geo-blocked]
@@ -2857,8 +2847,6 @@ http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
 https://cdn1tlinkgo.tlink.cl/starchannelhd/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@CentralAmerica" group-title="United States",Star Channel Latin America Central America (1080p)
 https://streamer.metronethn.com/StarChannel/index.m3u8
-#EXTINF:-1 tvg-id="Starz.us@East" group-title="United States",Starz (1080p)
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-id="StarzCinema.us@East" group-title="United States",Starz Cinema (720p)
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="StarzComedy.us@East" group-title="United States",Starz Comedy (1080p)
@@ -6727,6 +6715,8 @@ http://dvr2.kablova.tv/MTV/index.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12055/index.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk@SD" group-title="United Kingdom",MUTV (720p)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-id="MUTV.uk@SD" group-title="United Kingdom",MUTV (720p)
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="MysteryTV.us@UK" group-title="United Kingdom",Mystery TV (1080p)
 https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MysteryTV.us@UK" group-title="United Kingdom",Mystery TV (1080p) [Geo-blocked]
