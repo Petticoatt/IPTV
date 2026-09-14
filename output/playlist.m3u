@@ -274,8 +274,6 @@ http://15.204.246.24:8080/AMCHD/index.m3u8
 http://45.162.193.35/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" group-title="United States",AMC Latin America (1080p)
 http://45.171.108.253:8888/AMC/index.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" group-title="United States",AMC Latin America (1080p)
-http://177.234.249.178:8888/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" group-title="United States",AMC Latin America (1080p)
 https://cdn1tlinkgo.tlink.cl/amchd/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" group-title="United States",AMC Latin America (1080p)
@@ -387,8 +385,6 @@ http://138.121.15.230:9002/AXN/index.m3u8
 http://181.119.66.28:8081/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Panregional" group-title="United States",AXN Latin America (1080p)
 http://190.93.224.42/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes" group-title="United States",AXN Latin America Andes (1080p)
-http://177.234.249.178:8888/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Chile" group-title="United States",AXN Latin America Chile (1080p)
 https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Mexico" group-title="United States",AXN Latin America Mexico
@@ -795,16 +791,12 @@ http://177.234.218.66:8084/play/a001/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CineHispano.us@SD" group-title="United States",Cine Hispano (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CineMexicano.us@SD" group-title="United States",Cine Mexicano (1080p)
-http://177.234.249.178:8888/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="CinePremium.us@SD" group-title="United States",Cine Premium
 http://190.61.90.17:40000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="CinePremium.us@SD" group-title="United States",Cine Premium (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSony.us@SD" group-title="United States",Cine Sony (720p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CineSony.us@SD" group-title="United States",Cine Sony (1080p)
-http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Panregional" group-title="United States",Cinecanal (1080p)
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Panregional" group-title="United States",Cinecanal (1080p)
@@ -998,8 +990,6 @@ https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8
 https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="DetroitChannel68.us@SD" group-title="United States",Detroit Channel 68
 https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8
-#EXTINF:-1 tvg-id="DHE.us@SD" group-title="United States",DHE (720p)
-http://177.234.249.178:8888/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us@SD" group-title="United States",DHE (1080p)
 http://15.204.246.24:8080/DHEHD/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us@SD" group-title="United States",DHE (1080p)
@@ -1452,8 +1442,6 @@ http://143.14.178.35/TCM-HD/index.m3u8
 http://15.204.246.24:8080/GolfChannelHD/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" group-title="United States",Golf Channel Latin America (1080p)
 http://72.1.184.5:8089/play/a0cw/index.m3u8
-#EXTINF:-1 tvg-id="GolTVLatinAmerica.us@SD" group-title="United States",GolTV Latin America (720p)
-http://177.234.249.178:8888/GOLTV/index.m3u8
 #EXTINF:-1 tvg-id="GoodLife45.us@SD" group-title="United States",GoodLife 45 (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
 #EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD" group-title="United States",Gordon Ramsay (720p)
@@ -1535,8 +1523,6 @@ https://customer-6itfaqopbksp5p0q.cloudflarestream.com/3972e89fb79bf6d6dd2a16c75
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" group-title="United States",History 2 Latin America (1080p)
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" group-title="United States",History 2 Latin America (1080p)
-http://177.234.249.178:8888/HISTORY2/index.m3u8
-#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" group-title="United States",History 2 Latin America (1080p)
 http://181.119.66.28:8081/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" group-title="United States",History 2 Latin America (1080p)
 http://190.93.224.42/HISTORY-2/index.m3u8
@@ -1559,8 +1545,6 @@ http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" group-title="United States",History Latin America (1080p)
 http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" group-title="United States",History Latin America (1080p)
-http://177.234.249.178:8888/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" group-title="United States",History Latin America (1080p)
 http://181.119.66.28:8081/History-HD/index.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" group-title="United States",History Latin America (1080p)
 http://190.93.224.42/HISTORY/index.m3u8
@@ -1568,8 +1552,6 @@ http://190.93.224.42/HISTORY/index.m3u8
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD" group-title="United States",Hola! TV Latin America (1080p)
 http://15.204.246.24:8080/HOLATVHD/index.m3u8
-#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD" group-title="United States",Hola! TV Latin America (1080p)
-http://177.234.249.178:8888/HOLA-TV/index.m3u8
 #EXTINF:-1 tvg-id="HollyWire.us@SD" group-title="United States",HollyWire (720p)
 https://bozztv.com/hwotta/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="Homeful.ca@US" group-title="United States",Homeful (1080p)
@@ -2060,8 +2042,6 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 https://streamer.metronethn.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" group-title="United States",MTV Latin America (1080p)
 http://15.204.246.24:8080/MTVHD/index.m3u8
-#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" group-title="United States",MTV Latin America (1080p)
-http://179.60.51.134:8888/MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us@SD" group-title="United States",MTV Live (720p)
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Murder She Wrote (1080p)
@@ -2109,8 +2089,6 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
 http://45.162.193.35/NATGEO/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
-http://177.234.249.178:8888/NATGEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
 http://181.119.66.28:8081/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
@@ -2291,20 +2269,12 @@ http://4.30.180.36:8420/nickjr/index.m3u8?token=test
 http://107.167.16.138/nickjr/index.m3u8?token=test
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" group-title="United States",Nick Jr. Latin America (720p)
 https://streamer.metronethn.com/NickJr/index.m3u8
-#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" group-title="United States",Nick Jr. Latin America (1080p)
-http://177.234.249.178:8888/NICK-JR/index.m3u8
-#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" group-title="United States",Nick Jr. Latin America (1080p)
-http://179.60.51.134:8888/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="United States",Nickelodeon (720p)
 http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (720p)
 https://streamer.metronethn.com/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (1080p)
 http://15.204.246.24:8080/NickHD/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (1080p)
-http://177.234.249.178:8888/NICK/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (1080p)
-http://179.60.51.134:8888/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (1080p)
 http://190.93.224.42/NICK/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="United States",Nicktoons (720p)
@@ -2447,10 +2417,6 @@ http://15.204.246.24:8080/PasionesHD/index.m3u8
 http://45.162.193.35/PASIONESHD/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" group-title="United States",Pasiones Latin America (1080p)
 http://45.224.97.181:9999/Pasiones/index.m3u8
-#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" group-title="United States",Pasiones Latin America (1080p)
-http://177.234.249.178:8888/PASIONES/index.m3u8
-#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" group-title="United States",Pasiones Latin America (1080p)
-http://179.60.51.134:8888/PASIONES/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" group-title="United States",Pasiones Latin America (1080p)
 http://190.93.224.42/PASIONES/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" group-title="United States",Pasiones Latin America (1080p)
@@ -2792,8 +2758,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16764
 #EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" group-title="United States",Sony Channel Andes (1080p)
 http://15.204.246.24:8080/SonyHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" group-title="United States",Sony Channel Andes (1080p)
-http://177.234.249.178:8888/SONY-TV/index.m3u8
-#EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" group-title="United States",Sony Channel Andes (1080p)
 http://181.119.66.28:8081/SONY-HD/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" group-title="United States",Sony Channel Andes (1080p)
 http://190.93.224.42/SONY-CHANNEL/index.m3u8
@@ -2839,8 +2803,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" group-title="United States",Star Channel Latin America (1080p)
 http://45.162.193.35/STAR_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" group-title="United States",Star Channel Latin America (1080p)
-http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" group-title="United States",Star Channel Latin America (1080p)
 http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" group-title="United States",Star Channel Latin America (1080p)
@@ -2973,10 +2935,6 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@South" group-title="United States",Telemundo Internacional (1080p)
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" group-title="United States",Telemundo Internacional (1080p)
-http://177.234.249.178:8888/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" group-title="United States",Telemundo Internacional (1080p)
-http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@South" group-title="United States",Telemundo Internacional (1080p)
 http://190.93.224.42/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@CentralAmerica" group-title="United States",Telemundo Internacional Central America (1080p)
@@ -3273,8 +3231,6 @@ http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional" group-title="United States",Universal TV Latin America (1080p)
 http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional" group-title="United States",Universal TV Latin America (1080p)
-http://177.234.249.178:8888/UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional" group-title="United States",Universal TV Latin America (1080p)
 http://181.119.66.28:8081/Universal-HD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Universal Westerns (1080p)
 https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
@@ -3304,8 +3260,6 @@ http://4.30.180.36:8420/usa/index.m3u8?token=test
 http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional" group-title="United States",USA Network Latin America (1080p)
 http://138.121.15.230:9002/USA/index.m3u8
-#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional" group-title="United States",USA Network Latin America (1080p)
-http://177.234.249.178:8888/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional" group-title="United States",USA Network Latin America (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/SYFY.stream/playlist.m3u8
@@ -6111,8 +6065,6 @@ https://36dc2f37.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" group-title="United Kingdom",BabyTV Latin America (720p)
 http://138.121.15.230:9002/BABY-TV/index.m3u8
-#EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" group-title="United Kingdom",BabyTV Latin America (720p)
-http://179.60.51.134:8888/BABY-TV/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" group-title="United Kingdom",BabyTV Latin America (1080p)
 https://cdn1tlinkgo.tlink.cl/babytv/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@Turkiye" group-title="United Kingdom",BabyTV Turkiye (1080p) [Geo-blocked]
@@ -12408,8 +12360,6 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="Russia",RT en Espanol (1080p)
 http://15.204.246.24:8080/RTHD/index.m3u8
-#EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="Russia",RT en Espanol (1080p)
-http://179.60.51.134:8888/RT/index.m3u8
 #EXTINF:-1 tvg-id="RT.ru@HD" group-title="Russia",RT HD (1080p)
 http://31.148.48.15/RT_HD/index.m3u8
 #EXTINF:-1 tvg-id="RT.ru@HD" group-title="Russia",RT HD (1080p)
