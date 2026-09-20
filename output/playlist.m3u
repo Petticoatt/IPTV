@@ -861,8 +861,6 @@ https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playl
 https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us@East" group-title="United States",Comedy Central (576p)
 https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us@East" group-title="United States",Comedy Central (720p)
-http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" group-title="United States",Comedy Central Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://103.111.40.244:9999/play/a0i5/index.m3u8
@@ -1344,10 +1342,10 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8
 #EXTINF:-1 tvg-id="FX.us@East" group-title="United States",FX (720p)
 http://tvsen7.aynascope.net/fx/index.m3u8
-#EXTINF:-1 tvg-id="FX.us@East" group-title="United States",FX (720p)
-http://4.30.180.36:8420/fx/index.m3u8?token=test
 #EXTINF:-1 tvg-id="FX.us@East" group-title="United States",FX (1080p)
 http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@EastHD" group-title="United States",FX East HD (720p)
+http://4.30.180.36:8420/fx/index.m3u8?token=test
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" group-title="United States",FX Latin America
 https://iptv2.intersurtv.cl/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" group-title="United States",FX Latin America (1080p)
@@ -1368,11 +1366,11 @@ http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 http://stream.mcquack.net/458/index.m3u8
 #EXTINF:-1 tvg-id="Community12TV.us@SD" group-title="United States",Gainesville Community 12TV (Gainesville FL) (720p)
 https://lin10.isilive.ca/live/gainesville/live/index.m3u8
-#EXTINF:-1 tvg-id="Galavision.us@East" group-title="United States",Galavision (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Galavision.us@EastHD" group-title="United States",Galavision East HD (1080p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 #EXTINF:-1 tvg-id="Galavision.us@West" group-title="United States",Galavision West (720p)
 http://200.115.120.1:8000/play/ca128/index.m3u8
-#EXTINF:-1 tvg-id="Galavision.us@West" group-title="United States",Galavision West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Galavision.us@WestHD" group-title="United States",Galavision West HD (1080p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
 #EXTINF:-1 tvg-id="GalvestonCountyTV.us@SD" group-title="United States",Galveston County TV (720p) [Not 24/7]
 https://edge-f.swagit.com/live/galvestontx/smil:hd-16x9-1-a/playlist.m3u8
@@ -1556,6 +1554,8 @@ http://181.119.66.28:8081/History-HD/index.m3u8
 http://190.93.224.42/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="HMIPROMZNEWS.us@SD" group-title="United States",HMI PROMZ NEWS (720p)
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD" group-title="United States",Hola! TV Latin America
+https://xyktmobile00.s.gy/PPV901_HOLA_TV
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD" group-title="United States",Hola! TV Latin America (1080p)
 http://15.204.246.24:8080/HOLATVHD/index.m3u8
 #EXTINF:-1 tvg-id="HollyWire.us@SD" group-title="United States",HollyWire (720p)
@@ -5569,6 +5569,8 @@ https://lotus.stingray.com/manifest/ose-012ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-314ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayTheSpa.ca@SD" group-title="Canada",Stingray The Spa (1080p)
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTikTokRadio.ca@HD" group-title="Canada",Stingray TikTok Radio (1080p)
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
 #EXTINF:-1 tvg-id="" group-title="Canada",Stingray TikTok Radio (1080p)
 https://lotus.stingray.com/manifest/ose-185ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayTodaysKPop.ca@SD" group-title="Canada",Stingray Today's KPOP (1080p)
@@ -9180,6 +9182,8 @@ https://cloudvideo.servers10.com:8081/8024/index.m3u8
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
 #EXTINF:-1 tvg-id="Clan.es@SD" group-title="Spain",Clan (1080p)
 https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
+#EXTINF:-1 tvg-id="ClanInternacional.es@SD" group-title="Spain",Clan Internacional
+https://xyktmobile00.s.gy/PPV906_CLAN_INTE
 #EXTINF:-1 tvg-id="ClanInternacional.es@SD" group-title="Spain",Clan Internacional Americas (1080p) [Geo-blocked]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 tvg-id="Clan.es@SD" group-title="Spain",Clan TVE (1080p) [Geo-blocked]

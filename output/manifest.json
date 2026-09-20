@@ -3,8 +3,8 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 45,
-  "channel_count": 6824,
-  "playlist_sha256": "01729854dcb69375e98d25d1fba71b87fdd9e1fcf86dbf19ef8aa8cd21906b38",
+  "channel_count": 6826,
+  "playlist_sha256": "33ca21dcabe29e4c421091be4ff9df4fc0eb09ca6a25a4c90b9f2219266600e2",
   "groups": [
     {
       "position": 1,
@@ -28,7 +28,7 @@
       "position": 4,
       "name": "Canada",
       "source_count": 2,
-      "channel_count": 186
+      "channel_count": 187
     },
     {
       "position": 5,
@@ -76,7 +76,7 @@
       "position": 12,
       "name": "Spain",
       "source_count": 1,
-      "channel_count": 272
+      "channel_count": 273
     },
     {
       "position": 13,
@@ -119,8 +119,8 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "6617234ff985a472106b2056309efc5ec5ac33baf54324327cc7c2ec12f5a4c9",
-      "bytes": 132176,
+      "sha256": "986754f3cd3b5ab9ccae748db52f6ef1ae40d6f1da5eb68839f7b90793d0d633",
+      "bytes": 132186,
       "channels": 973
     },
     {
@@ -231,9 +231,9 @@
     {
       "group": "Canada",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ca.m3u",
-      "sha256": "0fc2b45fd3c2fef189a327d9639c5fc17ffd9beee4ee223ca5f61eea7da425e1",
-      "bytes": 19212,
-      "channels": 131
+      "sha256": "3ed15c1a394c07f2e093a3ea13df4bed05a5ea084a2b19d22a9fee28f561a6b3",
+      "bytes": 19387,
+      "channels": 132
     },
     {
       "group": "Canada",
@@ -280,8 +280,8 @@
     {
       "group": "United Kingdom (Samsung TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk_samsung.m3u",
-      "sha256": "f7a32ad96b9630c7dce5d485633f2857150e1fa9e4ada73eed911c8e5d0180f1",
-      "bytes": 26373,
+      "sha256": "0a2cb443c36cbbbe044309041007ff71e153c74b820caf71dfe9fda7e5c3a1f5",
+      "bytes": 26315,
       "channels": 177
     },
     {
@@ -315,9 +315,9 @@
     {
       "group": "Spain",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/es.m3u",
-      "sha256": "0e7624a5f572dc61edbf84b14c777d3c28701f33d780b8e3d345389a27b73bf5",
-      "bytes": 42300,
-      "channels": 272
+      "sha256": "fa8b65c4f3aa35c95e21834a3a2332db94c3c9918b3e2fba5666f2b6dfda19d8",
+      "bytes": 42408,
+      "channels": 273
     },
     {
       "group": "Spain (Pluto TV)",
