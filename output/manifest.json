@@ -3,8 +3,8 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 45,
-  "channel_count": 6830,
-  "playlist_sha256": "da3453396980cc8e43db97cbcf06ef60d4b1fea430e5d7a91e2a732b617e874e",
+  "channel_count": 6831,
+  "playlist_sha256": "df1467f9392992d0902c6eed1257d75c29ae0c808d0132b6ef731f130a94fc67",
   "groups": [
     {
       "position": 1,
@@ -76,7 +76,7 @@
       "position": 12,
       "name": "Spain",
       "source_count": 1,
-      "channel_count": 273
+      "channel_count": 274
     },
     {
       "position": 13,
@@ -315,9 +315,9 @@
     {
       "group": "Spain",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/es.m3u",
-      "sha256": "fa8b65c4f3aa35c95e21834a3a2332db94c3c9918b3e2fba5666f2b6dfda19d8",
-      "bytes": 42408,
-      "channels": 273
+      "sha256": "f7137cc46bf8dfc947f37f0ede38cc02297b5b949c80a4e075431553a3af69c2",
+      "bytes": 42765,
+      "channels": 274
     },
     {
       "group": "Spain (Pluto TV)",
