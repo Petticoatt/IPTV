@@ -253,7 +253,7 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="BR| TV Aberta",BR| SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-logo="https://images.open-epg.com/14009.png" group-title="BR| TV Aberta",BR| Globo (RJ)
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-logo="https://images.open-epg.com/14009.png" group-title="BR| TV Aberta",BR| Globo
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 #EXTINF:-1 tvg-id="GloboRJ.br" tvg-logo="https://images.open-epg.com/14009.png" group-title="BR| TV Aberta",BR| Globo (RJ)
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
