@@ -311,12 +311,12 @@ https://cdn-sp2.satlabscloud.com.br/BAND_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kA
 https://cdn-sp2.satlabscloud.com.br/BAND_SP/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="BandBrasil.br" tvg-logo="https://images.open-epg.com/21142.png" group-title="BR| TV Aberta",BR| Band (Satellite)
 https://media.cdntvms.com.br/band_sat/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://images.open-epg.com/14339.png" group-title="BR| TV Aberta",BR| Aparecida
-http://45.162.64.114/TV_APARECIDA/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://images.open-epg.com/14339.png" group-title="BR| TV Aberta",BR| Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://images.open-epg.com/14339.png" group-title="BR| TV Aberta",BR| TV Aparecida
 https://cdn-sp2.satlabscloud.com.br/TV_APARECIDA_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://images.open-epg.com/14339.png" group-title="BR| TV Aberta",BR| TV Aparecida
+http://45.162.64.114/TV_APARECIDA/index.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://images.open-epg.com/14339.png" group-title="BR| TV Aberta",BR| TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="BR| TV Aberta",BR| Canção Nova
 https://cdn-sp2.satlabscloud.com.br/CANCAO_NOVA_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-logo="https://i.imgur.com/iuoXchN.png" group-title="BR| TV Aberta",BR| TV Pai Eterno
