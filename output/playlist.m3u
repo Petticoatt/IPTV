@@ -207,8 +207,6 @@ https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
 https://iptv.almahditv.com/almahditv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlabamaWeatherNetwork.us@SD" group-title="United States",Alabama Weather Network (720p)
 https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbanianTVAmerica.us@SD" group-title="United States",Albanian TV America (1080p)
-http://5.254.89.106/8711/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Alfred Hitchcock Presents (1080p)
 https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Alhurra.us@SD" group-title="United States",Alhurra (720p)
@@ -257,16 +255,12 @@ http://41.205.93.154/AMC/index.m3u8
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" group-title="United States",AMC Latin America (1080p)
 http://15.204.246.24:8080/AMCHD/index.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" group-title="United States",AMC Latin America (1080p)
-http://45.162.193.35/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" group-title="United States",AMC Latin America (1080p)
 http://45.171.108.253:8888/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" group-title="United States",AMC Latin America (1080p)
 https://cdn1tlinkgo.tlink.cl/amchd/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" group-title="United States",AMC Latin America (1080p)
 http://138.121.15.230:9002/AMC/index.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" group-title="United States",AMC Latin America (1080p)
-https://iptv2.intersurtv.cl/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" group-title="United States",AMC Latin America Brazil (720p)
 http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD" group-title="United States",America's Test Kitchen (1080p) [Geo-blocked]
@@ -403,6 +397,8 @@ http://185.227.34.179:8080/axn-white/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us@Portugal" group-title="United States",AXN White Portugal (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://50.7.120.34:8080/AXN_WHITE/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us@Portugal" group-title="United States",AXN White Portugal (576p)
+http://188.115.15.121:8000/play/a01u
 #EXTINF:-1 tvg-id="AXSTV.us@SD" group-title="United States",AXS TV (576p)
 https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us@SD" group-title="United States",AXS TV (720p)
@@ -789,8 +785,6 @@ http://181.119.66.28:8081/CINECANAL-HD/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Panregional" group-title="United States",Cinecanal (1080p)
 https://cdn1tlinkgo.tlink.cl/cinecanalhd/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Panregional" group-title="United States",Cinecanal (1080p)
-https://iptv2.intersurtv.cl/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.us@Panregional" group-title="United States",Cinecanal (1080p)
 http://190.61.47.54:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Pacific" group-title="United States",Cinecanal Pacific (1080p)
 http://138.121.15.230:9002/CINECANAL/index.m3u8
@@ -834,8 +828,6 @@ https://cmc-ono.amagi.tv/playlist.m3u8
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 #EXTINF:-1 tvg-id="CMT.us@East" group-title="United States",CMT (720p)
 http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1 tvg-id="CNBC.us@SD" group-title="United States",CNBC (720p)
-http://4.30.180.36:8420/cnbc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="CNBC.us@SD" group-title="United States",CNBC (720p) [Geo-blocked]
 http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="NBC.us@WRDELD" group-title="United States",CoastTV NBC (WRDE-LD) (720p) [Not 24/7]
@@ -1111,6 +1103,8 @@ https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
 http://168.196.127.137:6001/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="ESNETV.us@SD" group-title="United States",ESNE TV (1080p)
 http://190.217.66.92:8000/play/a0fp/index.m3u8
+#EXTINF:-1 tvg-id="ESNETV.us@SD" group-title="United States",ESNE TV (1080p)
+http://132.255.210.69:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us@HD" group-title="United States",ESPN Deportes HD (720p)
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us@SD" group-title="United States",ESPNU (720p)
@@ -1267,8 +1261,6 @@ http://stream.cammonitorplus.net/1752/index.m3u8
 https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" group-title="United States",Fox Business Network (576p)
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" group-title="United States",Fox Business Network (720p)
-http://5.254.89.106/6187/index.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" group-title="United States",Fox Deportes (720p)
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="United States",Fox News Channel (144p)
@@ -1335,12 +1327,8 @@ https://www.funroads-hls1.com/funroads.m3u8
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Fuse.us@East" group-title="United States",Fuse (1080p)
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" group-title="United States",FX Latin America
-https://iptv2.intersurtv.cl/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" group-title="United States",FX Latin America (1080p)
 http://15.204.246.24:8080/FXHD/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" group-title="United States",FX Latin America (1080p)
-http://45.162.193.35/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" group-title="United States",FX Latin America (1080p)
 http://181.119.66.28:8081/FX-HD/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" group-title="United States",FX Latin America (1080p)
@@ -1349,6 +1337,8 @@ http://190.93.224.42/FX/index.m3u8
 https://cdn1tlinkgo.tlink.cl/fxhd/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" group-title="United States",FX Latin America (1080p)
 http://38.252.238.18:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" group-title="United States",FX Latin America (1080p)
+http://168.196.127.137:6001/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@South" group-title="United States",FX Latin America South (720p)
 http://72.1.184.5:8089/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="Gagsnetwork.us@SD" group-title="United States",Gagsnetwork (576p)
@@ -1471,8 +1461,6 @@ https://linear-738.frequency.stream/dist/stirr/738/hls/master/playlist.m3u8
 https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Hagerty (1080p)
 https://aegis-cloudfront-1.tubi.video/1d7878db-0fc9-45fc-afb4-1355e66738ac/playlist.m3u8
-#EXTINF:-1 tvg-id="HallmarkChannel.us@East" group-title="United States",Hallmark Channel (720p)
-http://4.30.180.36:8420/hallmark/index.m3u8?token=test
 #EXTINF:-1 tvg-id="HallmarkChannel.us@East" group-title="United States",Hallmark Channel (720p) [Geo-blocked]
 http://41.205.93.154/HALLMARK/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us@East" group-title="United States",Hallmark Channel (1080p)
@@ -1781,8 +1769,6 @@ https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
 http://tvsen7.aynascope.net/laff/index.m3u8
 #EXTINF:-1 tvg-id="Laff.us@SD" group-title="United States",Laff (576p)
 https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8
-#EXTINF:-1 tvg-id="Laff.us@WJLP" group-title="United States",Laff WJLP (576p)
-http://4.30.180.36:8420/laff/index.m3u8?token=test
 #EXTINF:-1 tvg-id="LakewoodChannel8.us@SD" group-title="United States",Lakewood Channel 8 (Lakewood CO) (720p)
 https://live8fd.lakewood.org/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="CityTVLakewood.us@SD" group-title="United States",Lakewood CityTV (720p)
@@ -1951,8 +1937,6 @@ https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
 https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.us@SD" group-title="United States",MeTV (720p)
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
-#EXTINF:-1 tvg-id="MeTV.us@SD" group-title="United States",MeTV (720p)
-http://4.30.180.36:8420/metv/index.m3u8?token=test
 #EXTINF:-1 tvg-id="MiMusicaReggaeton.us@SD" group-title="United States",Mi Musica Reggaeton (1080p)
 http://181.78.12.119:16123/play/ch53/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaRomantica.us@SD" group-title="United States",Mi Musica Romantica (1080p)
@@ -2075,15 +2059,11 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
-http://45.162.193.35/NATGEO/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
 http://181.119.66.28:8081/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
 http://190.93.224.42/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
 https://cdn1tlinkgo.tlink.cl/natgeohd/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
-https://iptv2.intersurtv.cl/NATGEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
 http://45.173.231.22:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" group-title="United States",National Geographic Wild HD East (720p)
@@ -2247,8 +2227,6 @@ http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us@East" group-title="United States",Nick Jr. (720p)
 http://tvsen7.aynascope.net/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us@EastHD" group-title="United States",Nick Jr. East HD (720p)
-http://4.30.180.36:8420/nickjr/index.m3u8?token=test
-#EXTINF:-1 tvg-id="NickJr.us@EastHD" group-title="United States",Nick Jr. East HD (720p)
 http://107.167.16.138/nickjr/index.m3u8?token=test
 #EXTINF:-1 tvg-id="NickJr.us@EastHD" group-title="United States",Nick Jr. East HD (1080p)
 https://sra72yz.s.gy/NICK_JR_HD.m3u8
@@ -2395,8 +2373,6 @@ https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" group-title="United States",Pasiones Latin America (1080p)
 http://15.204.246.24:8080/PasionesHD/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" group-title="United States",Pasiones Latin America (1080p)
-http://45.162.193.35/PASIONESHD/index.m3u8
-#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" group-title="United States",Pasiones Latin America (1080p)
 http://45.224.97.181:9999/Pasiones/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" group-title="United States",Pasiones Latin America (1080p)
 http://190.93.224.42/PASIONES/index.m3u8
@@ -2456,8 +2432,6 @@ https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 tvg-id="PBS.us@KMOSTV" group-title="United States",PBS Sedalia British Columbia MO (KMOS) (1080p) [Geo-blocked]
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-#EXTINF:-1 tvg-id="PBS.us@WNET" group-title="United States",PBS WNET (720p)
-http://4.30.180.36:8420/wnethd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="PeopleAreAwesome.us@SD" group-title="United States",People Are Awesome (1080p)
 https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8
 #EXTINF:-1 tvg-id="PGATour.us@SD" group-title="United States",PGA Tour (720p)
@@ -2691,6 +2665,8 @@ http://45.5.117.99:8000/play/a0g3/index.m3u8
 http://168.196.127.137:6001/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="SemillitasTV.us@SD" group-title="United States",Semillitas TV (1080p)
 http://38.252.238.18:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="SemillitasTV.us@SD" group-title="United States",Semillitas TV (1080p)
+http://132.255.210.69:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="SGTN49.us@SD" group-title="United States",Sent TV Global Network Atlanta (SGTN-49) (720p)
 https://rpn.bozztv.com/gusa/gusa-stgn/index.m3u8
 #EXTINF:-1 tvg-id="SFCommons29.us@SD" group-title="United States",SF Commons Channel 29 (San Francisco CA) (480p)
@@ -2804,8 +2780,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" group-title="United States",Star Channel Latin America (1080p)
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" group-title="United States",Star Channel Latin America (1080p)
-http://45.162.193.35/STAR_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" group-title="United States",Star Channel Latin America (1080p)
 http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" group-title="United States",Star Channel Latin America (1080p)
 https://cdn1tlinkgo.tlink.cl/starchannelhd/index.m3u8
@@ -2838,15 +2812,11 @@ https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" group-title="United States",Studio Universal Latin America (1080p)
 http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" group-title="United States",Studio Universal Latin America (1080p)
-http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" group-title="United States",Studio Universal Latin America (1080p)
 http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" group-title="United States",Studio Universal Latin America (1080p)
 http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" group-title="United States",Studio Universal Latin America (1080p)
 https://cdn1tlinkgo.tlink.cl/studiouniversalhd/index.m3u8
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" group-title="United States",Studio Universal Latin America (1080p)
-https://iptv2.intersurtv.cl/STUDIO-UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" group-title="United States",Studio Universal Latin America Brazil (720p)
 http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" group-title="United States",Studio Universal Latin America Brazil (720p)
@@ -2881,8 +2851,6 @@ https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.us@East" group-title="United States",SYFY (720p)
 http://tvsen7.aynascope.net/syfy/index.m3u8
-#EXTINF:-1 tvg-id="SYFY.us@East" group-title="United States",SYFY (720p)
-http://4.30.180.36:8420/syfy/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" group-title="United States",T2 Tennis Channel (1080p)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TalkinLiveClassicsTV.us@SD" group-title="United States",Talkin Live Classics TV (480p)
@@ -3226,8 +3194,6 @@ http://190.197.41.183/Unimas/mono.m3u8
 http://168.228.44.241:9997/play/a09e/index.m3u8
 #EXTINF:-1 tvg-id="UniMas.us@WAMIDT" group-title="United States",UniMas WAMI-DT (1080p)
 http://190.197.41.183/Unimas/index.m3u8
-#EXTINF:-1 tvg-id="UniMas.us@WFUTDT" group-title="United States",UniMas WFUT-DT (1080p)
-http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" group-title="United States",Universal Action (1080p)
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="UniversalCinema.us@SD" group-title="United States",Universal Cinema (1080p)
@@ -3274,6 +3240,8 @@ https://a-cdn.klowdtv.com/live3/unleashed_720p/playlist.m3u8
 https://amg26269-dogtv-amg26269c2-stirr-us-8504.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Untold Stories of the E.R. (720p)
 https://aegis-cloudfront-1.tubi.video/a0b550d8-29c6-49f5-a4f7-939d9eeec962/master.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East" group-title="United States",USA Network (720p)
+http://190.197.41.183/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional" group-title="United States",USA Network Latin America (1080p)
 http://138.121.15.230:9002/USA/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional" group-title="United States",USA Network Latin America (1080p)
@@ -6056,8 +6024,6 @@ https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
 https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AkaalChannel.uk@SD" group-title="United Kingdom",Akaal Channel (396p) [Geo-blocked]
 https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:-1 tvg-id="AlbUKTV.uk@SD" group-title="United Kingdom",Alb UK TV (1080p)
-http://5.254.89.106/8794/index.m3u8
 #EXTINF:-1 tvg-id="AlbUKTV.uk@SD" group-title="United Kingdom",AlbUK TV (1080p) [Not 24/7]
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHiwarTV.uk@SD" group-title="United Kingdom",Alhiwar TV (1080p) [Not 24/7]
@@ -8942,6 +8908,8 @@ https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u
 #EXTINF:-1 tvg-id="AXN.pt@SD" group-title="Portugal",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/axn.m3u8
+#EXTINF:-1 tvg-id="AXN.pt@SD" group-title="Portugal",AXN (1080p)
+http://188.115.15.121:8000/play/a02z
 #EXTINF:-1 tvg-id="AXNMovies.pt@SD" group-title="Portugal",AXN Movies (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
@@ -10277,6 +10245,8 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 http://178.32.140.155/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioBirikinaTV.it@SD" group-title="Italy",Radio Birikina TV (720p) [Not 24/7]
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioBrunoTV.it@SD" group-title="Italy",Radio Bruno TV (720p)
+http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioCapitalTiVu.it@HD" group-title="Italy",Radio Capital TiVu (720p)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-id="Radiofreccia.it@SD" group-title="Italy",Radio Freccia TV (1080p)
@@ -11238,6 +11208,8 @@ https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
 http://145.239.5.177/320/index.m3u8
 #EXTINF:-1 tvg-id="MCMPop.fr@SD" group-title="France",MCM Pop (576p)
 http://193.254.245.162/MCM/index.m3u8
+#EXTINF:-1 tvg-id="MCMPop.fr@SD" group-title="France",MCM Pop (580p)
+http://188.115.15.121:8000/play/a014
 #EXTINF:-1 tvg-id="MDL.fr@SD" group-title="France",MDL (720p)
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr@SD" group-title="France",Mezzo
