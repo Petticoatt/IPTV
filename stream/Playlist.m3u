@@ -447,6 +447,8 @@ https://cdn-sp2.satlabscloud.com.br/CHEF_TV/index.m3u8?token=Mw3YKkujzIi9hYQJ6kA
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png" group-title="BR| Notícias e Negócios",BR| CNN Brasil
 http://170.83.49.66:8083/CNNBRASILHD/index.m3u8
+#EXTINF:-1 tvg-id="CNN.pt" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cnn-portugal-logo-png_seeklogo-612286.png" group-title="BR| Notícias e Negócios",BR| CNN Portugal
+https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/CNN_Portugal.m3u8
 #EXTINF:-1 tvg-id="SBTNews.br" tvg-logo="https://images.open-epg.com/10723919.png" group-title="BR| Notícias e Negócios",BR| SBT News
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-id="SBTNews.br" tvg-logo="https://images.open-epg.com/10723919.png" group-title="BR| Notícias e Negócios",BR| SBT News
