@@ -263,6 +263,8 @@ https://cdn-sp2.satlabscloud.com.br/SBT_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQ
 https://media.cdntvms.com.br/sbt_sat/index.m3u8
 #EXTINF:-1 tvg-id="SBTSP.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="BR| TV Aberta",BR| SBT (SP)
 https://cdn-sp2.satlabscloud.com.br/SBT_SP/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="SBTRJ.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="BR| TV Aberta",BR| SBT (RJ)
+https://cdn-sp2.satlabscloud.com.br/SBT_RIO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="BR| TV Aberta",BR| SBT (Interior SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="GloboBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="BR| TV Aberta",BR| Globo
