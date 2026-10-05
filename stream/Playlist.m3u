@@ -353,8 +353,6 @@ http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 https://cdn-sp2.satlabscloud.com.br/TNT_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="BR| Entretenimento",BR| Syfy (Portugal)
 http://50.7.120.34:8080/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="BR| Entretenimento",BR| Megapix
-http://177.52.24.163/MEGAPIX-HD/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="BR| Entretenimento",BR| Cinemax
 https://cdn-sp2.satlabscloud.com.br/CINEMAX/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="HBO.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="BR| Entretenimento",BR| HBO
@@ -438,7 +436,7 @@ https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 #EXTINF:-1 tvg-id="SBTNews.br" tvg-logo="https://images.open-epg.com/10723919.png" group-title="BR| Notícias e Negócios",BR| SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://images.open-epg.com/14013.png" group-title="BR| Notícias e Negócios",BR| Globo News
-http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
+http://143.14.178.40:7777/GloboNews_HD/index.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://images.open-epg.com/9242750.png" group-title="BR| Notícias e Negócios",BR| Jovem Pan News
 https://cdn-sp2.satlabscloud.com.br/JP_NEWS/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="VEJAPlusTV.br" tvg-logo="https://i.imgur.com/n0pxHo4.png" group-title="BR| Notícias e Negócios",BR| Veja Plus TV
