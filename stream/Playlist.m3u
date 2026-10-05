@@ -440,6 +440,8 @@ https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png" group-title="BR| Notícias e Negócios",BR| CNN Brasil
 http://170.83.49.66:8083/CNNBRASILHD/index.m3u8
 #EXTINF:-1 tvg-id="SBTNews.br" tvg-logo="https://images.open-epg.com/10723919.png" group-title="BR| Notícias e Negócios",BR| SBT News
+https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:-1 tvg-id="SBTNews.br" tvg-logo="https://images.open-epg.com/10723919.png" group-title="BR| Notícias e Negócios",BR| SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://images.open-epg.com/14013.png" group-title="BR| Notícias e Negócios",BR| Globo News
 http://143.14.178.40:7777/GloboNews_HD/index.m3u8
