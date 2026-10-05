@@ -257,6 +257,8 @@ https://cdn-sp2.satlabscloud.com.br/TV_CULTURA_HD/index.m3u8?token=Mw3YKkujzIi9h
 http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="SBTBrasil.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="BR| TV Aberta",BR| SBT
 https://cdn-sp2.satlabscloud.com.br/SBT_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="SBTBrasil.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="BR| TV Aberta",BR| SBT
+https://media.cdntvms.com.br/sbt_sat/index.m3u8
 #EXTINF:-1 tvg-id="SBTSP.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="BR| TV Aberta",BR| SBT (SP)
 https://cdn-sp2.satlabscloud.com.br/SBT_SP/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://images.open-epg.com/14237.png" group-title="BR| TV Aberta",BR| SBT (Interior SP)
