@@ -521,6 +521,8 @@ https://x1colegal.com/hls/stream.m3u8
 https://cdn-sp2.satlabscloud.com.br/RATIMBUM/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="BoxKids.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="BR| Infantil",BR| Box Kids TV
 https://cdn-sp2.satlabscloud.com.br/BOX_KIDS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Chaves.br" tvg-logo="https://image.tmdb.org/t/p/original/dvyxVOiJb3AExM3ZVRYR4HgV1ew.png" group-title="BR| Infantil",BR| Chaves
+http://up.kiwi/351921603109/34939156/1257451
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="BR| Documentários",BR| Animal Planet
 https://cdn-sp2.satlabscloud.com.br/ANIMAL_PLANET_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png" group-title="BR| Documentários",BR| Discovery Channel
