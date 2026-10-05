@@ -409,6 +409,8 @@ http://50.7.120.34:8080/SIC_MULHER/index.m3u8
 https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="BR| Entretenimento",BR| Adult Swim Latin America
 https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="GloboplayNovelas.br" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="BR| Entretenimento",BR| GloboPlay Novelas
+http://79.127.238.228:14455/
 #EXTINF:-1 tvg-id="TNTNovelas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="BR| Entretenimento",BR| TNT Novelas
 https://cdn-sp2.satlabscloud.com.br/TNT_NOVELAS/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="TNTNovelas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="BR| Entretenimento",BR| TNT Novelas
