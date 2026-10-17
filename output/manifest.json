@@ -3,14 +3,14 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 45,
-  "channel_count": 6891,
-  "playlist_sha256": "5508a95bc51031daf826374a0fede6711db5e787edc8af7193e21567eca499f4",
+  "channel_count": 6892,
+  "playlist_sha256": "989ac9d7405abe38aeb5fa8a91b88686051f967ecce095cc62d74d6422deb058",
   "groups": [
     {
       "position": 1,
       "name": "United States",
       "source_count": 14,
-      "channel_count": 1894
+      "channel_count": 1893
     },
     {
       "position": 2,
@@ -100,7 +100,7 @@
       "position": 16,
       "name": "France",
       "source_count": 3,
-      "channel_count": 297
+      "channel_count": 299
     },
     {
       "position": 17,
@@ -119,9 +119,9 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "5b3d10d0ad932d57ed920ae5bb4528b994f3b2a39cf7c7637c0060cbf0081307",
-      "bytes": 151475,
-      "channels": 1077
+      "sha256": "9312c634d759e112ad31f7bfb80e87f2bd3f7e5a5e1f5508e8970e8eab977d7d",
+      "bytes": 151381,
+      "channels": 1076
     },
     {
       "group": "United States",
@@ -280,8 +280,8 @@
     {
       "group": "United Kingdom (Samsung TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk_samsung.m3u",
-      "sha256": "107677c121ccc065085c9c7be5c6fc6aa90871bf61e19d1a1ab55631264a1aab",
-      "bytes": 26263,
+      "sha256": "affc3c66872bb09911ab15a1b1378934e35880280771529f8c127d1da4dc34e9",
+      "bytes": 26205,
       "channels": 176
     },
     {
@@ -350,9 +350,9 @@
     {
       "group": "France",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/fr.m3u",
-      "sha256": "0b57b8c850f61b20704af4446c1c1112c81ac2cd38ded0afe56c4a57d8bb282b",
-      "bytes": 31893,
-      "channels": 221
+      "sha256": "8978852cfda816d7e3778041feacfd0d948597ce071f82f5f6ce559ead1d6b48",
+      "bytes": 32115,
+      "channels": 223
     },
     {
       "group": "France",
