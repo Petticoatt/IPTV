@@ -4,7 +4,7 @@
   "group_count": 18,
   "source_count": 45,
   "channel_count": 6862,
-  "playlist_sha256": "99ee6570fd7a7237fda3c16264e88166033d1d1634baf7b04af7d52e7d35c879",
+  "playlist_sha256": "3cef08e0ef1c764a0ad6773a5e5e08c7b265701db127e30a0dd9bfeea055f795",
   "groups": [
     {
       "position": 1,
@@ -175,8 +175,8 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_xumo.m3u",
-      "sha256": "706aa0db106e766a9ad6bc8b2bb225e1bb93175784c64adb7fa5035dcf92e1dc",
-      "bytes": 14113,
+      "sha256": "2084ddbdb357de7588cfa610524676191dd2706265c73979202fb77663174472",
+      "bytes": 14139,
       "channels": 107
     },
     {
