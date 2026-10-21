@@ -275,6 +275,10 @@ https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 #EXTINF:-1 tvg-id="AmericanHorrors.us@SD" group-title="United States",American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericanNinjaWarrior.us@SD" group-title="United States",American Ninja Warrior (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318
+#EXTINF:-1 tvg-id="AmericanNinjaWarrior.us@SD" group-title="United States",American Ninja Warrior (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.xumo_channelId=99993042&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99993042
 #EXTINF:-1 tvg-id="" group-title="United States",American Ninja Warrior (1080p)
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",American Stories (720p)
@@ -576,6 +580,10 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch1/video.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us@SD" group-title="United States",Boomerang (720p) [Geo-blocked]
 http://212.5.144.156:8080/boomerang/index.m3u8
+#EXTINF:-1 tvg-id="BotflixRadioo.us@HD" group-title="United States",Botflix Radioo (1080p)
+https://hls.botflix.tv/radioo/index.m3u8
+#EXTINF:-1 tvg-id="BotflixTV.us@HD" group-title="United States",Botflix TV (1080p)
+https://hls.botflix.tv/tv/index.m3u8
 #EXTINF:-1 tvg-id="Bounce.us@SD" group-title="United States",Bounce (720p)
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-id="BounceXL.us@SD" group-title="United States",Bounce XL (720p)
@@ -1387,8 +1395,6 @@ https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/3600d45a-dfbf-4878-9ca1-2e2bc9077fed/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us@WBFF" group-title="United States",FOX 45 Baltimore MD (WBFF) (1080p)
 https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox.us@East" group-title="United States",Fox (720p)
-http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" group-title="United States",Fox Business Network (480p)
 https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" group-title="United States",Fox Business Network (576p)
@@ -12763,8 +12769,6 @@ http://stream.mcquack.net/155/index.m3u8
 http://178.124.179.122:8080/Setanta1/index.m3u8
 #EXTINF:-1 tvg-id="OkkoPrajmSport.ru@SD" group-title="Russia",Okko Prajm Sport (1080p)
 http://stream.mcquack.net/493/index.m3u8
-#EXTINF:-1 tvg-id="Oplot2.ru@SD" group-title="Russia",Oplot 2 (720p) [Geo-blocked]
-http://iptv.mega.net.ru:8888/Oplot_2/index.m3u8
 #EXTINF:-1 tvg-id="OplotTV.ru@SD" group-title="Russia",Oplot TV (1080p) [Geo-blocked]
 http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 tvg-id="OplotTV.ru@Khartsyzsk" group-title="Russia",Oplot TV (1080p) [Geo-blocked]
