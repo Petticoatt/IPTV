@@ -3,14 +3,14 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 45,
-  "channel_count": 6868,
-  "playlist_sha256": "337c7d4f90a5cd479d37736a383ecae9f22ddb3459065856be910c7bddb87e55",
+  "channel_count": 6814,
+  "playlist_sha256": "4ea105ee913e1274fc15af939c995e655525fc53e50439df038204874d7cc372",
   "groups": [
     {
       "position": 1,
       "name": "United States",
       "source_count": 14,
-      "channel_count": 1907
+      "channel_count": 1890
     },
     {
       "position": 2,
@@ -28,7 +28,7 @@
       "position": 4,
       "name": "Canada",
       "source_count": 2,
-      "channel_count": 189
+      "channel_count": 188
     },
     {
       "position": 5,
@@ -40,7 +40,7 @@
       "position": 6,
       "name": "United Kingdom",
       "source_count": 3,
-      "channel_count": 453
+      "channel_count": 441
     },
     {
       "position": 7,
@@ -58,7 +58,7 @@
       "position": 9,
       "name": "Brazil",
       "source_count": 1,
-      "channel_count": 451
+      "channel_count": 452
     },
     {
       "position": 10,
@@ -88,7 +88,7 @@
       "position": 14,
       "name": "Italy",
       "source_count": 2,
-      "channel_count": 343
+      "channel_count": 347
     },
     {
       "position": 15,
@@ -100,7 +100,7 @@
       "position": 16,
       "name": "France",
       "source_count": 3,
-      "channel_count": 298
+      "channel_count": 280
     },
     {
       "position": 17,
@@ -112,57 +112,57 @@
       "position": 18,
       "name": "Russia",
       "source_count": 8,
-      "channel_count": 962
+      "channel_count": 951
     }
   ],
   "sources": [
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "a0c26efd35f6597a00434ab1d5c6f2516ed8d375502a9eb8a033c55d24d3f1a3",
-      "bytes": 155028,
-      "channels": 1090
+      "sha256": "44f56106905b7307863503db6a4eb72eacdfcf5676f297b1df91ffc994bb9649",
+      "bytes": 152918,
+      "channels": 1073
     },
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_local.m3u",
-      "sha256": "653fb1e10646f72ba0f009798444e2e0531869104352b37bc026ff50fdc93f71",
-      "bytes": 27143,
+      "sha256": "73fc02220b01c7284c94cd449a92b01ed1fd9d714d2f50d8796de9318c76edd2",
+      "bytes": 27192,
       "channels": 178
     },
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_uplynk.m3u",
-      "sha256": "77750bb4d55f31a30ad33e38e489daa53c366fdea04623c5e52a5a433a1dd8f3",
-      "bytes": 3061,
+      "sha256": "ac88295db0d7520b85d27f52abcab05a29c3fead175915d94ee0cc083374864c",
+      "bytes": 3110,
       "channels": 22
     },
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_firetv.m3u",
-      "sha256": "451818a5ce064eec6539e3f3e8ea524508f51c4d6a471c726c49b2517848189c",
-      "bytes": 5099,
+      "sha256": "7e61c7495d45f0a45945ef541a40ef573a5c7ac2ece5ae324513b1717729517b",
+      "bytes": 5148,
       "channels": 38
     },
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_pbs.m3u",
-      "sha256": "73252f253be0f76116f89c88b1207fd7b9645761f904be75c4ec5e02b2aedade",
-      "bytes": 2322,
+      "sha256": "c7fee3a2371b81676279f41c46fa633bb476d85b9f931abb70285e8832e29fdc",
+      "bytes": 2371,
       "channels": 16
     },
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_stirr.m3u",
-      "sha256": "612d24516f2cf37dd50d80c92d2b411b725a94740f6d16b6832b72ad5e35fb81",
-      "bytes": 12014,
+      "sha256": "aa679ee70fa295d88f5a758aa6d00b034983748125a3018c33146f583a9a3f79",
+      "bytes": 12063,
       "channels": 89
     },
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_tubi.m3u",
-      "sha256": "7a8418c17955bb0d4d14858d1bb255f07fe5a7f4ade4abc407b9cdef80786ccd",
-      "bytes": 24063,
+      "sha256": "a051431739035bf3e2308e69f4a5f38af52d2bc77927bc3dfd88eb6b13b8c4f1",
+      "bytes": 24112,
       "channels": 157
     },
     {
@@ -175,8 +175,8 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_xumo.m3u",
-      "sha256": "2084ddbdb357de7588cfa610524676191dd2706265c73979202fb77663174472",
-      "bytes": 14139,
+      "sha256": "d40140c927704b0b1388b36ce79efcb280f3dcdd32a0475d67c0ee1ff2bdfa9a",
+      "bytes": 14188,
       "channels": 107
     },
     {
@@ -189,113 +189,113 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_cbsn.m3u",
-      "sha256": "495b9a8ae804e33003de09c0be0b9b30c1354e4762d5114c1f0ecdda68465bda",
-      "bytes": 3270,
+      "sha256": "527efd63ccefa364178f3d071314c83fd63c4328e50de7b8e6ed7ccaaa4d3e18",
+      "bytes": 3319,
       "channels": 21
     },
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_cineversetv.m3u",
-      "sha256": "79d7f563501f67928036ce125069303a6098e1b01042e8dc8300edb24ebe5301",
-      "bytes": 4265,
+      "sha256": "d10175647127fc707fd3c8e6485ac72bf54487a5def221127a74a026bbb2115f",
+      "bytes": 4314,
       "channels": 23
     },
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_distro.m3u",
-      "sha256": "ef15b9e670c23dca35ffd1c0946fdfd7ef22d51fbb351d8a52efef2e70f2ea3a",
-      "bytes": 3418,
+      "sha256": "4d55249e5a750cdb7fb673174a4fe1228c4ef0aa29e04dead6d4b88267a7b776",
+      "bytes": 3467,
       "channels": 17
     },
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_klowdtv.m3u",
-      "sha256": "e5cbc7573141d63caf3c108ff72ec80d5d131e19f16d81672d2c3a69abd61c8c",
-      "bytes": 10024,
+      "sha256": "a2cd8e151260562eaf02daac46f597e078ce6036791214bd634282734f9c7623",
+      "bytes": 10073,
       "channels": 77
     },
     {
       "group": "United States (Pluto TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_pluto.m3u",
-      "sha256": "c518dfb1d02e7e9dcd571f8e1369ad541893bafdc98ebef61c3ac8e6f72a1b7f",
-      "bytes": 42443,
+      "sha256": "2108c134a98cb600f58fa7f21092d32fdd928beaba8163d110ab4e0d7d2472b0",
+      "bytes": 42492,
       "channels": 400
     },
     {
       "group": "United States (Samsung TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_samsung.m3u",
-      "sha256": "2b5c14884dbb458e285d482eb6ffcb270c4638197e9310f823b79f3bfc3cac75",
-      "bytes": 49960,
+      "sha256": "ce7c939cf98719b48706b0280fb65d92637504e23a6bc61e94d16f09de2ef3b8",
+      "bytes": 50009,
       "channels": 407
     },
     {
       "group": "Canada",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ca.m3u",
-      "sha256": "378b2b1b29c58c0c110a2ff57576e818c2dba6224c6b23540002e8021e72dfa0",
-      "bytes": 19807,
-      "channels": 134
+      "sha256": "bfcd8f49ba0bdfbf29c2ff43f1f8018aaabef9ae37d440f8ee47625605f1c25f",
+      "bytes": 19762,
+      "channels": 133
     },
     {
       "group": "Canada",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ca_stingray.m3u",
-      "sha256": "55ee5fe61ddf1cd34bd15224e4f6e4ce8b6fea98dee9e8302841371b48936448",
-      "bytes": 8188,
+      "sha256": "eb55123db265e8773ee10d50357c7ed82c04d5a97ac8a8a9db27639887f94ded",
+      "bytes": 8237,
       "channels": 55
     },
     {
       "group": "Canada (Pluto TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ca_pluto.m3u",
-      "sha256": "cdb6613443a481d2a5057d20cc9b2ebb98e9f7f908076f63800d8e7634f56877",
-      "bytes": 21431,
+      "sha256": "29d72b2626ef35489e36f2729f278b46fc72bc48b06bf968e6688eae7522a1e1",
+      "bytes": 21480,
       "channels": 205
     },
     {
       "group": "United Kingdom",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk.m3u",
-      "sha256": "d765a4778b04c073a71330e1b056c6d3ec5c3435b19b3a54d07033fbb7b0f0f1",
-      "bytes": 39725,
-      "channels": 226
+      "sha256": "f149650161dcd8fe1b825162d955217fc51757d7c8cacaf72a1b2b7851829756",
+      "bytes": 38380,
+      "channels": 214
     },
     {
       "group": "United Kingdom",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk_bbc.m3u",
-      "sha256": "9839f06144b7699e3563d7777003d5428d761dcab04ec7f479e8e34df3979e64",
-      "bytes": 30071,
+      "sha256": "6d21e90260310dcbb29b0a9784f4363527f63933f58a0506500c8051ef2742d8",
+      "bytes": 30120,
       "channels": 161
     },
     {
       "group": "United Kingdom",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk_rakuten.m3u",
-      "sha256": "603f8c54b96396903e0b596caab7aec1bf9a6b505a995f0f1317f4da74201909",
-      "bytes": 10291,
+      "sha256": "e6ca4991f4cd8d98d23e123cb90e5eb5e4baf663e9438b2eccfd2e92cb7440ad",
+      "bytes": 10340,
       "channels": 66
     },
     {
       "group": "United Kingdom (Pluto TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk_pluto.m3u",
-      "sha256": "0a10ab568058ead32e48ed24653b81bf426609d096e7b6fd92232c1ce2a85979",
-      "bytes": 18812,
+      "sha256": "3adeb199964c4d3a1e183bcad8e153ce4a505c2122c1011944608518dac036cf",
+      "bytes": 18861,
       "channels": 185
     },
     {
       "group": "United Kingdom (Samsung TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk_samsung.m3u",
-      "sha256": "affc3c66872bb09911ab15a1b1378934e35880280771529f8c127d1da4dc34e9",
-      "bytes": 26205,
+      "sha256": "1db7836e49e9f42439a8e1ee28b9e0a617e841f73072533eff61c8006d1626b1",
+      "bytes": 26254,
       "channels": 176
     },
     {
       "group": "Brazil",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/br.m3u",
-      "sha256": "4a5e5b7aac31ccafc396a5348d449ceb3915dae5e8b59d8a348270d9df031085",
-      "bytes": 53531,
-      "channels": 451
+      "sha256": "269f6e9d0836797d59ae64f0994c6c0e367e6297df3b6c4c26232710b6e08634",
+      "bytes": 53669,
+      "channels": 452
     },
     {
       "group": "Brazil (Pluto TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/br_pluto.m3u",
-      "sha256": "df97889b654ab0bd033c0d00659b65d9983136bd5e7ddac06de222a9f1d2ef4d",
-      "bytes": 18082,
+      "sha256": "982ea306480b1f0b8effc589a00a58038567630a3a75bdfd5144891acc4683bf",
+      "bytes": 18131,
       "channels": 165
     },
     {
@@ -308,79 +308,79 @@
     {
       "group": "Portugal",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/pt_samsung.m3u",
-      "sha256": "e15c93cea58a3aebd5fe25e68af3d6274567eda901a2c06065eef3ab145efe6c",
-      "bytes": 447,
+      "sha256": "c3d3343693d4165cff536d978c55a8f16a2c4a89e56404edf8f9bdebeb863e38",
+      "bytes": 496,
       "channels": 2
     },
     {
       "group": "Spain",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/es.m3u",
-      "sha256": "0abdb01041a0f769a7c5f73dadb7b2406a4717432ecec80efa29ea636922cac5",
-      "bytes": 43262,
+      "sha256": "b10d7148857d178d9e7c07565ec022a11aff09775198636b48d903168133f66e",
+      "bytes": 43309,
       "channels": 283
     },
     {
       "group": "Spain (Pluto TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/es_pluto.m3u",
-      "sha256": "7b5d0cb321c4cf535a6f4c495fbdfbaf01a4561c61e3fbcdc65b4f7eb200b6c3",
-      "bytes": 14572,
+      "sha256": "8afe2192f3233f907db608b9ab4ec1244a2076d55a0221988248889edb00d2e8",
+      "bytes": 14621,
       "channels": 137
     },
     {
       "group": "Italy",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/it.m3u",
-      "sha256": "7f885ed5839aab30db7a381fcf2efb9fbda2c247588ddbf8b2c7d36f67808891",
-      "bytes": 44263,
-      "channels": 314
+      "sha256": "82c316eeaba7b8a87c8a2c315ec45882ae0f811b19dfd235a1fd848032af27d6",
+      "bytes": 45005,
+      "channels": 318
     },
     {
       "group": "Italy",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/it_rakuten.m3u",
-      "sha256": "916703d50146eb20942024c4e8c0f3bb4ffe8c8ee3dab75cc4b0a1493a341bf8",
-      "bytes": 5039,
+      "sha256": "2d925e7c580140d89f7112d95637d076fb724cc0470d49e61bf62609b7f6b298",
+      "bytes": 5088,
       "channels": 29
     },
     {
       "group": "Italy (Pluto TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/it_pluto.m3u",
-      "sha256": "7f24db729a6aad880e213128457ef39b8e8d88fbf76b50cd4c99366d0c8b31b7",
-      "bytes": 12163,
+      "sha256": "b14d1705fa2d44a1e448084e0196d3ee0444555dba852925d7a381c90add36e3",
+      "bytes": 12212,
       "channels": 117
     },
     {
       "group": "France",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/fr.m3u",
-      "sha256": "53f93e3be9b6ed82975bd9bc43036ac90e5e87430e23d4790103b6a3b688eef4",
-      "bytes": 32014,
-      "channels": 222
+      "sha256": "4c321870a0718aae84ac1c165d3d83df719d5d3fcfb9d8672ae1e1e5bb0e40e7",
+      "bytes": 30488,
+      "channels": 204
     },
     {
       "group": "France",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/fr_bfm.m3u",
-      "sha256": "886e52a3b68290464c3f9fd40077612ef5ebfe24d5b3044385d15b30a46d4505",
-      "bytes": 4217,
+      "sha256": "b28928fd4e182ec4bbf64794f9d7292a9638452dfc16d5987db240e7e7eed4b3",
+      "bytes": 4266,
       "channels": 15
     },
     {
       "group": "France",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/fr_rakuten.m3u",
-      "sha256": "d94d18d33b262efbd0ec9b4933d491a0c5618cd503b5d6359674ac2987f9060f",
-      "bytes": 11668,
+      "sha256": "9b4a8b021b2b40f5d7cf6240895731601ac65c02f51c2e447b860f2269f583df",
+      "bytes": 11717,
       "channels": 61
     },
     {
       "group": "France (Pluto TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/fr_pluto.m3u",
-      "sha256": "9231739186825d6e2dc3ad9188e06326780f8417b1f51e22ac4bce2441bf6708",
-      "bytes": 13548,
+      "sha256": "56d514b1559c2bbf23b65b9c1f402eaea29fdc25612bbf7f218d5e4ab4f0cebc",
+      "bytes": 13597,
       "channels": 128
     },
     {
       "group": "Russia",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru.m3u",
-      "sha256": "4b34e49d48843976d8ecec31bad4029e013ff222e1e21e4f19aaa3b8cedb2455",
-      "bytes": 79484,
-      "channels": 715
+      "sha256": "3a69f7ee35e4b1daa9fd27da8c0b67fe5f8ecd619b8765332765948b8c107fd8",
+      "bytes": 78304,
+      "channels": 704
     },
     {
       "group": "Russia",
@@ -392,8 +392,8 @@
     {
       "group": "Russia",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru_bonustv.m3u",
-      "sha256": "b1b73c6aecfb255354bc57d3d8c9dd5958e52620d9e10e751c3000035fd9cadc",
-      "bytes": 3536,
+      "sha256": "0a376c00a23d2e3bbe1fb0d0c858f595ddb62a033480ddfc0ba1ce4da0ebd459",
+      "bytes": 3585,
       "channels": 28
     },
     {
@@ -420,8 +420,8 @@
     {
       "group": "Russia",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru_tvteleport.m3u",
-      "sha256": "c0477645161886b1b600e62855f0516cff69f0a9dc7686fce2767b22a480bc5b",
-      "bytes": 11140,
+      "sha256": "a2f3ac2d0c4c2dc1e4d0363faeb2b79e268a4f1c5362425ea9079e13a822df4b",
+      "bytes": 11189,
       "channels": 111
     },
     {
