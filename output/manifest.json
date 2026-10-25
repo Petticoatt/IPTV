@@ -4,7 +4,7 @@
   "group_count": 18,
   "source_count": 45,
   "channel_count": 6819,
-  "playlist_sha256": "e5c5c24950a38d9a9fe33b4cbf42c21bb7fc2812039e13e18dcfab1452a58193",
+  "playlist_sha256": "4fa0d021621f9eb4f283f86ec2ddfae15f558fb6979174197f2ebf4c387f409a",
   "groups": [
     {
       "position": 1,
@@ -119,7 +119,7 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "b31e6e2b098dca89af7cd20d6a33557dcdb7d2242389990dc4745f1c2b8325b4",
+      "sha256": "dbcedd8af20a6b9ffb400499921697c71bacb4c295a804b94367d55e34046d0d",
       "bytes": 152942,
       "channels": 1073
     },
@@ -252,8 +252,8 @@
     {
       "group": "United Kingdom",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/uk.m3u",
-      "sha256": "4ab3da00e39e9b02cbf4bdb5729ca14c68262b64a43216d2dfce29bdb57fea0f",
-      "bytes": 38297,
+      "sha256": "3b7218ea70fda4c8425131c6b3dbb87ee1ffdb444279bd998788ad8478248c77",
+      "bytes": 38288,
       "channels": 214
     },
     {
@@ -315,7 +315,7 @@
     {
       "group": "Spain",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/es.m3u",
-      "sha256": "89f15f95441295f590bf1563febf54ebbd3da1197e7332c42e1c2829cfe4b38d",
+      "sha256": "628b78ad0c37a9a89fd170ac13675aabf56791a2f93044e96bcc0f7c37771556",
       "bytes": 43260,
       "channels": 283
     },
@@ -350,8 +350,8 @@
     {
       "group": "France",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/fr.m3u",
-      "sha256": "527cffd48b640fe8e99b86257405f0a1ebb8585cafc40161fdfada193fce1d8b",
-      "bytes": 29941,
+      "sha256": "6a647336722f34165f1d5793f69a533d6cf83713cf67bb5d6a736585e6999b58",
+      "bytes": 29939,
       "channels": 205
     },
     {
@@ -378,7 +378,7 @@
     {
       "group": "Russia",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/ru.m3u",
-      "sha256": "d6291d477aceefaecab1624680aa31ecb4ae2235ccd1cf717d11af3b12dc21b1",
+      "sha256": "720614f4024aacec0d1fd0c049168b91e847d8a1343a40d2609a90f4e3bac1f5",
       "bytes": 78027,
       "channels": 702
     },
