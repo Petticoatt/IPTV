@@ -12130,6 +12130,8 @@ http://31.148.48.15/Karusel_HD/index.m3u8
 https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="Russia",Carousel SD (576p)
 http://stream.mcquack.net/120/index.m3u8
+#EXTINF:-1 tvg-id="CartoonClassics.ru@SD" group-title="Russia",Cartoon Classics
+http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 tvg-id="Channel5.ru@SD" group-title="Russia",Channel 5 (576p)
 http://31.148.5.241/kanal_5/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru@SD" group-title="Russia",Channel 5 International (576i)
