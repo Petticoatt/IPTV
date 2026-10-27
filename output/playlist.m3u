@@ -654,6 +654,8 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
 http://179.1.196.222:9000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="CityTVCarlsbad.us@SD" group-title="United States",Carlsbad City TV Channel (Carlsbad CA) (720p)
 https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CarsTV.us@SD" group-title="United States",Cars.TV (720p)
+https://a-cdn.klowdtv.com/live2/carstv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us@East" group-title="United States",Cartoon Network (720p)
 http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us@East" group-title="United States",Cartoon Network (720p) [Geo-blocked]
@@ -919,6 +921,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Comedy_Central/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyDynamics.us@SD" group-title="United States",Comedy Dynamics (1080p)
 https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.us@SD" group-title="United States",Comedy.TV (720p)
+https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ComercioTV.us@SD" group-title="United States",Comercio TV (720p)
 https://amg00082-amg00082c1-zapitv-emea-7424.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ComercioTV.us@SD" group-title="United States",Comercio TV (720p)
@@ -1189,6 +1193,8 @@ https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2506
 #EXTINF:-1 tvg-id="" group-title="United States",Equus TV (1080p)
 https://d2gwqf8gdwq1zs.cloudfront.net/scheduler/scheduleMaster/426.m3u8
+#EXTINF:-1 tvg-id="ESTV.us@SD" group-title="United States",ES.TV (720p)
+https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="EscambiaCountyTV.us@SD" group-title="United States",Escambia County TV ECTV (Escambia County FL) (720p)
 https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
 #EXTINF:-1 tvg-id="ESNETV.us@SD" group-title="United States",ESNE TV (720p)
@@ -1761,6 +1767,8 @@ https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
 https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",InfoWars War Room With Owen Shroyer (1080p)
 https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
+#EXTINF:-1 tvg-id="INSP.us@SD" group-title="United States",INSP (720p)
+https://a-cdn.klowdtv.com/live2/insp_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines" group-title="United States",INTRAVEL (1080p)
 https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines" group-title="United States",INTRAVEL (1080p) [Geo-blocked]
@@ -1833,6 +1841,8 @@ http://103.154.3.101:5001/live/961.m3u8
 http://103.154.3.101:5001/live/959.m3u8
 #EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" group-title="United States",Just for Laughs Gags (1080p)
 https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+#EXTINF:-1 tvg-id="JusticeCentralTV.us@SD" group-title="United States",Justice Central (720p)
+https://a-cdn.klowdtv.com/live2/justicecentral_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="KajouTV.us@SD" group-title="United States",Kajou TV (720p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 #EXTINF:-1 tvg-id="KaloopyTV.us@SD" group-title="United States",Kaloopy TV (1080p)
@@ -2227,6 +2237,8 @@ https://d3bqd6nz14unwy.cloudfront.net/scheduler/scheduleMaster/468.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",My Money (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://dqaj8xog66lli.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-MyMoney/468.m3u8?ads.vf=hKm4TAlnI34
+#EXTINF:-1 tvg-id="MyDestinationTV.us@SD" group-title="United States",MyDestination.TV (720p)
+https://a-cdn.klowdtv.com/live2/mydestinationtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="MST3K.us@US" group-title="United States",Mystery Science Theater 3000 (720p)
 https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8
 #EXTINF:-1 tvg-id="MST3K.us@US" group-title="United States",Mystery Science Theater 3000 (1080p) [Geo-blocked]
@@ -2644,6 +2656,8 @@ https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:-1 tvg-id="PeopleAreAwesome.us@SD" group-title="United States",People Are Awesome (1080p)
 https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8
+#EXTINF:-1 tvg-id="PetsTV.us@SD" group-title="United States",Pets.TV (720p)
+https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="PGATour.us@SD" group-title="United States",PGA Tour (720p)
 https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
 #EXTINF:-1 tvg-id="PhillyCAM.us@SD" group-title="United States",PhillyCAM (720p)
@@ -2734,6 +2748,8 @@ https://eu1.servers10.com:8081/8230/index.m3u8
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 #EXTINF:-1 tvg-id="RCTV3.us@SD" group-title="United States",Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)
 https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="RealAmericasVoice.us@SD" group-title="United States",Real America's Voice (720p)
+https://a-cdn.klowdtv.com/live2/rav_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="RealAmericasVoice.us@SD" group-title="United States",Real America's Voice (1080p)
 https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8
 #EXTINF:-1 tvg-id="RealAmericasVoice.us@KPVMLD" group-title="United States",Real America's Voice KPVM-LD
@@ -2744,6 +2760,8 @@ https://a-cdn.klowdtv.com/live3/realcrimeuncovered_720p/playlist.m3u8
 https://linear-475.frequency.stream/dist/xumo/475/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Real Housewives Vault (1080p)
 https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="RecipeTV.us@SD" group-title="United States",Recipe.TV (720p)
+https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="RedApple21.us@SD" group-title="United States",Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFirstTV.us@SD" group-title="United States",Redseat The First (720p)
@@ -3215,6 +3233,8 @@ https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="theDoveTV.us@SD" group-title="United States",theDove TV (720p)
 https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8
+#EXTINF:-1 tvg-id="TheGrioTV.us@SD" group-title="United States",TheGrio (720p)
+https://a-cdn.klowdtv.com/live2/thegrio_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Thornton8.us@SD" group-title="United States",Thornton Government Access Channel 17 (Thornton CO) (1080p)
 https://reflect-thornton.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 tvg-id="TimelessTV.us@SD" group-title="United States",Timeless TV
@@ -3628,6 +3648,8 @@ http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us@SD" group-title="United States",WeatherNation (1080p)
 https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us@SD" group-title="United States",WeatherNation TV (720p)
+https://a-cdn.klowdtv.com/live3/weathernation_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",wedotv Amor (720p)
 https://a-cdn.klowdtv.com/live3/amor_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",wedotv Big Stories (720p)
