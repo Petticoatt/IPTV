@@ -1,40 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ABCWKBW.us" tvg-logo="https://images.open-epg.com/42519.png" group-title="US| Broadcast TV",US| ABC (East)
-http://stream.cammonitorplus.net/1746/index.m3u8
-#EXTINF:-1 tvg-id="ABCKABC.us" tvg-logo="https://images.open-epg.com/42519.png" group-title="US| Broadcast TV",US| ABC (West)
-http://stream.cammonitorplus.net/1797/index.m3u8
-#EXTINF:-1 tvg-id="ABCKVUE.us" tvg-logo="https://images.open-epg.com/42519.png" group-title="US| Broadcast TV",US| ABC (Austin)
-http://stream.cammonitorplus.net/1831/index.m3u8
-#EXTINF:-1 tvg-id="ABCKTRK.us" tvg-logo="https://images.open-epg.com/42519.png" group-title="US| Broadcast TV",US| ABC (Houston)
-http://stream.cammonitorplus.net/1778/index.m3u8
-#EXTINF:-1 tvg-id="CBSEast_WCBS.us" tvg-logo="https://images.open-epg.com/42569.png" group-title="US| Broadcast TV",US| CBS (East)
-http://stream.cammonitorplus.net/1810/index.m3u8
-#EXTINF:-1 tvg-id="CBSWest_KCBS.us" tvg-logo="https://images.open-epg.com/42569.png" group-title="US| Broadcast TV",US| CBS (West)
-http://stream.cammonitorplus.net/1798/index.m3u8
-#EXTINF:-1 tvg-id="CBSKEYE.us" tvg-logo="https://images.open-epg.com/42569.png" group-title="US| Broadcast TV",US| CBS (Austin)
-http://stream.cammonitorplus.net/1832/index.m3u8
-#EXTINF:-1 tvg-id="CBSKTVT.us" tvg-logo="https://images.open-epg.com/42569.png" group-title="US| Broadcast TV",US| CBS (Dallas)
-http://stream.cammonitorplus.net/1763/index.m3u8
-#EXTINF:-1 tvg-id="CBSKHOU.us" tvg-logo="https://images.open-epg.com/42569.png" group-title="US| Broadcast TV",US| CBS (Houston)
-http://stream.cammonitorplus.net/1779/index.m3u8
-#EXTINF:-1 tvg-id="FoxEast_WNYW.us" tvg-logo="https://images.open-epg.com/42643.png" group-title="US| Broadcast TV",US| Fox (East)
-http://41.205.93.154/FOX49/index.m3u8
-#EXTINF:-1 tvg-id="FOXWest_KTTV.us" tvg-logo="https://images.open-epg.com/42643.png" group-title="US| Broadcast TV",US| Fox (West)
-http://stream.cammonitorplus.net/1799/index.m3u8
-#EXTINF:-1 tvg-id="FOXKTBC.us" tvg-logo="https://images.open-epg.com/42643.png" group-title="US| Broadcast TV",US| Fox (Austin)
-http://stream.cammonitorplus.net/1833/index.m3u8
-#EXTINF:-1 tvg-id="FOXKDFW.us" tvg-logo="https://images.open-epg.com/42643.png" group-title="US| Broadcast TV",US| Fox (Dallas)
-http://stream.cammonitorplus.net/1764/index.m3u8
-#EXTINF:-1 tvg-id="FOXWFLD.us" tvg-logo="https://images.open-epg.com/42643.png" group-title="US| Broadcast TV",US| Fox (Chicago)
-http://stream.cammonitorplus.net/1752/index.m3u8
-#EXTINF:-1 tvg-id="NBCKXAN.us" tvg-logo="https://images.open-epg.com/42769.png" group-title="US| Broadcast TV",US| NBC (Austin)
-http://stream.cammonitorplus.net/1834/index.m3u8
 #EXTINF:-1 tvg-id="NBCKXAS.us" tvg-logo="https://images.open-epg.com/42769.png" group-title="US| Broadcast TV",US| NBC (Dallas)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a
-#EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-logo="https://images.open-epg.com/42769.png" group-title="US| Broadcast TV",US| NBC (Chicago)
-http://stream.cammonitorplus.net/1753/index.m3u8
-#EXTINF:-1 tvg-id="NBCKNBC.us" tvg-logo="https://images.open-epg.com/42769.png" group-title="US| Broadcast TV",US| NBC (LA)
-http://stream.cammonitorplus.net/1800/index.m3u8
 #EXTINF:-1 tvg-id="KX.us" tvg-logo="https://static.wixstatic.com/media/043262_c52b6992004241c1a4141822afedba8d~mv2.png/v1/fill/w_157,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/New_KX_Logos_2024-01.png" group-title="US| Broadcast TV",US| MyNetworkTV (Austin)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSWGBX.us" tvg-logo="https://images.open-epg.com/42816.png" group-title="US| Broadcast TV",US| PBS (Boston)
