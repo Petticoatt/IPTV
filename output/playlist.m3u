@@ -955,6 +955,8 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us@SD" group-title="United States",Court TV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="United States",Cowboy+ Sports (720p)
+https://a-cdn.klowdtv.com/live3/cowboy_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Cox Meriden Public Access Channel 15 (Meriden CT) (720p)
 http://applevalley.coxctv.com/live-1/live/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Craftsy (1080p)
@@ -1520,6 +1522,8 @@ https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8
 https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Gardening With Monty Don (720p)
 https://aegis-cloudfront-1.tubi.video/b82a751c-18e0-417c-92c1-d476319da423/playlist.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk@SD" group-title="United States",GB News (720p)
+https://a-cdn.klowdtv.com/live3/gbnews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk@SD" group-title="United States",GB News (720p) [Geo-blocked]
 https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-klowdtvus/playlist.m3u8
 #EXTINF:-1 tvg-id="GlobalBuddhistNetwork.us@SD" group-title="United States",GBN Global Buddhist Network (1080p)
@@ -1626,6 +1630,8 @@ https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
 #EXTINF:-1 tvg-id="HauntTV.ca@SD" group-title="United States",Haunt TV (720p)
 https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8
+#EXTINF:-1 tvg-id="HBCUGOSports.us@SD" group-title="United States",HBCU-GO Sports (720p)
+https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" group-title="United States",HBO 2 Latin America HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/hbo2/chunks.m3u8
@@ -1849,7 +1855,7 @@ http://103.154.3.101:5001/live/961.m3u8
 http://103.154.3.101:5001/live/959.m3u8
 #EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" group-title="United States",Just for Laughs Gags (1080p)
 https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
-#EXTINF:-1 tvg-id="JusticeCentralTV.us@SD" group-title="United States",Justice Central (720p)
+#EXTINF:-1 tvg-id="JusticeCentralTV.us@SD" group-title="United States",Justice Central.TV (720p)
 https://a-cdn.klowdtv.com/live2/justicecentral_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="KajouTV.us@SD" group-title="United States",Kajou TV (720p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
@@ -2559,6 +2565,8 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Omstars (1080p)
 https://d1too6m5v9oyet.cloudfront.net/scheduler/scheduleMaster/281.m3u8
+#EXTINF:-1 tvg-id="" group-title="United States",On Patrol: Live (720p)
+https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD" group-title="United States",One America News Network
 #EXTVLCOPT:http-referrer=https://usnewson.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
@@ -2784,6 +2792,8 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Reelz.us@SD" group-title="United States",Reelz (720p)
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="United States",Reelz Famous & Infamous (720p)
+https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Reelz Famous & Infamous (1080p)
 https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Reelz Famous & Infamous (1080p)
@@ -2969,6 +2979,8 @@ http://190.93.224.42/SONY-CHANNEL/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/sonychannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyKALHindi.us@SD" group-title="United States",Sony KAL Hindi (1080p)
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us@SD" group-title="United States",Sony Movies (720p)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD" group-title="United States",Sony Movies Latin America (720p)
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD" group-title="United States",Sony Movies Latin America (720p)
@@ -3238,6 +3250,8 @@ https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 https://wggstv16.ddns.net:9953/hls/walk1.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us@SD" group-title="United States",The Walking Dead Universe
 https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWeatherChannel.us@SD" group-title="United States",The Weather Channel (720p)
+https://a-cdn.klowdtv.com/live2/theweatherchannel_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWeatherChannel.us@SD" group-title="United States",The Weather Channel (1080p)
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:-1 tvg-id="TheWordNetwork.us@SD" group-title="United States",The Word Network (1080p)
@@ -3677,6 +3691,8 @@ https://a-cdn.klowdtv.com/live3/cars_720p/playlist.m3u8
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 #EXTINF:-1 tvg-id="WeHoTV.us@SD" group-title="United States",West Hollywood WeHoTV (West Hollywood CA) (360p)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="United States",Western Bound (720p)
+https://a-cdn.klowdtv.com/live3/westernbound_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Western Bound (1080p)
 https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8
 #EXTINF:-1 tvg-id="Westerns4U.us@SD" group-title="United States",Westerns 4U (1080p)
