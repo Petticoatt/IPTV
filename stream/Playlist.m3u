@@ -463,6 +463,8 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/CNN_Portuga
 https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
 #EXTINF:-1 tvg-id="TimesBrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0uVXkA3yyIPaNlnEn-jLzbhmwkmJFYrDP4b5qkx0LHw&s=10.png" group-title="BR| Notícias e Negócios",BR| Times Brasil (CNBC)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=17316
+#EXTINF:-1 tvg-id="TimesBrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0uVXkA3yyIPaNlnEn-jLzbhmwkmJFYrDP4b5qkx0LHw&s=10.png" group-title="BR| Notícias e Negócios",BR| Times Brasil (CNBC)
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNBrasilMoney.br" tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2024/09/Screenshot-2024-09-23-at-15.58.18.png" group-title="BR| Notícias e Negócios",BR| CNN Brasil Money
 https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnmoneyhevc-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://images.open-epg.com/14013.png" group-title="BR| Notícias e Negócios",BR| Globo News
