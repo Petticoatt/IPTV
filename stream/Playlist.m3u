@@ -85,8 +85,20 @@ https://jmp2.uk/plu-62ea45010d0611000839868c.m3u8
 https://ifood-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/cBOkQtS.png" group-title="US| Entertainment",US| Estrella TV
 https://estrellatv-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="US| News & Business",US| AccuWeather Now
-https://accuweather-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://images.open-epg.com/10891126.png" group-title="US| News & Business",US| CNBC
+http://4.30.180.36:8420/cnbc/index.m3u8?token=test
+#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="https://images.open-epg.com/10891126.png" group-title="US| News & Business",US| CNBC (UK)
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="https://images.open-epg.com/10891126.png" group-title="US| News & Business",US| CNBC (UK)
+https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC.es" tvg-logo="https://images.open-epg.com/10891126.png" group-title="US| News & Business",US| CNBC (Spain)
+https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCEUROPE.fr" tvg-logo="https://images.open-epg.com/10891126.png" group-title="US| News & Business",US| CNBC (France)
+https://amg01079-nbcuuk-amg01079c1-lg-fr-2032.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgfr/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/CNBC_Indonesia_2025.svg" group-title="US| News & Business",US| CNBC (Indonesia)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in" tvg-logo="https://www.cnbctv18.com/static/images/cnbc-new-logo/cnbc-prime-livetv.svg" group-title="US| News & Business",US| CNBC Prime (India)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/960px-CNN.svg.png" group-title="US| News & Business",US| CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNNHEADLINES.pluto" tvg-logo="https://provider-static.plex.tv/epg/cms/production/de3851fb-9598-4d13-8e03-f421418c9b5b/CNN_Headlines_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png" group-title="US| News & Business",US| CNN Headlines
@@ -129,26 +141,14 @@ https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 http://5.254.89.106/6187/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-logo="https://images.open-epg.com/14358983.png" group-title="US| News & Business",US| Fox Business
 https://t.freetv.fun/live/us-fox-business-network.m3u8
-#EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://images.open-epg.com/10891126.png" group-title="US| News & Business",US| CNBC
-http://4.30.180.36:8420/cnbc/index.m3u8?token=test
-#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="https://images.open-epg.com/10891126.png" group-title="US| News & Business",US| CNBC (UK)
-https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="https://images.open-epg.com/10891126.png" group-title="US| News & Business",US| CNBC (UK)
-https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBC.es" tvg-logo="https://images.open-epg.com/10891126.png" group-title="US| News & Business",US| CNBC (Spain)
-https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCEUROPE.fr" tvg-logo="https://images.open-epg.com/10891126.png" group-title="US| News & Business",US| CNBC (France)
-https://amg01079-nbcuuk-amg01079c1-lg-fr-2032.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgfr/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBC.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/CNBC_Indonesia_2025.svg" group-title="US| News & Business",US| CNBC (Indonesia)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in" tvg-logo="https://www.cnbctv18.com/static/images/cnbc-new-logo/cnbc-prime-livetv.svg" group-title="US| News & Business",US| CNBC Prime (India)
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://images.open-epg.com/9411731.png" group-title="US| News & Business",US| Cheddar Business
 https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="US| News & Business",US| Yahoo Finance
 https://yahoo-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SchwabNetwork.us" tvg-logo="https://i.imgur.com/zmQnKV6.png" group-title="US| News & Business",US| Schwab Network
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="US| News & Business",US| AccuWeather Now
+https://accuweather-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSEnglish.in@SD" tvg-logo="https://i.imgur.com/8rKNuS6.png" group-title="US| News & Business",US| TV BRICS (Russia)
 https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="US| News & Business",US| Court TV
