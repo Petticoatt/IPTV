@@ -3,14 +3,14 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 45,
-  "channel_count": 6867,
-  "playlist_sha256": "f8f6bedaf8e442d078cb7d623a156c3ae80dfefc32a82729a482ccc6cdbbe0f3",
+  "channel_count": 6863,
+  "playlist_sha256": "39aee04f61c709c7d098f4733ec3fc80f73fbafe91a9b203b41e21bc4ea23ff4",
   "groups": [
     {
       "position": 1,
       "name": "United States",
       "source_count": 14,
-      "channel_count": 1929
+      "channel_count": 1924
     },
     {
       "position": 2,
@@ -100,7 +100,7 @@
       "position": 16,
       "name": "France",
       "source_count": 3,
-      "channel_count": 287
+      "channel_count": 288
     },
     {
       "position": 17,
@@ -119,8 +119,8 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "798bde1fd5271396635e1c665061e695509e14a3b60dee7038d4878d73dfcb01",
-      "bytes": 155128,
+      "sha256": "a41f5e27808e8efd61e282c448e9b2bf1df827d11af091d66031f5a35b474166",
+      "bytes": 155107,
       "channels": 1093
     },
     {
@@ -161,9 +161,9 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_tubi.m3u",
-      "sha256": "7a8418c17955bb0d4d14858d1bb255f07fe5a7f4ade4abc407b9cdef80786ccd",
-      "bytes": 24063,
-      "channels": 157
+      "sha256": "104ab6d9156e5e79f97132cf56c5fca5d90f81406054062ee635622c4b56a187",
+      "bytes": 23939,
+      "channels": 156
     },
     {
       "group": "United States",
@@ -196,16 +196,16 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_cineversetv.m3u",
-      "sha256": "79d7f563501f67928036ce125069303a6098e1b01042e8dc8300edb24ebe5301",
-      "bytes": 4265,
-      "channels": 23
+      "sha256": "07120e5e1ef7b490170d7efa914905540c0bb244f0972b3b97f6e520b58e3e75",
+      "bytes": 4110,
+      "channels": 22
     },
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_distro.m3u",
-      "sha256": "ef15b9e670c23dca35ffd1c0946fdfd7ef22d51fbb351d8a52efef2e70f2ea3a",
-      "bytes": 3418,
-      "channels": 17
+      "sha256": "f34d94b55494d9042e0d4d431533c4dd007f769cb0e0c0663c4fde9de5b364ec",
+      "bytes": 2572,
+      "channels": 14
     },
     {
       "group": "United States",
@@ -350,9 +350,9 @@
     {
       "group": "France",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/fr.m3u",
-      "sha256": "fd20d9a3ca8e50495d6d8b2e2010b775321f8dda2efb5768908a5637e0373c61",
-      "bytes": 30363,
-      "channels": 211
+      "sha256": "4d8c3741e4ac20191278705f7078f15c1994c5c3ffb4201b899e52af2d974459",
+      "bytes": 30455,
+      "channels": 212
     },
     {
       "group": "France",
