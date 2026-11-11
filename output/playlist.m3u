@@ -2534,7 +2534,7 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Omstars (1080p)
 https://d1too6m5v9oyet.cloudfront.net/scheduler/scheduleMaster/281.m3u8
-#EXTINF:-1 tvg-id="" group-title="United States",On Patrol: Live (720p)
+#EXTINF:-1 tvg-id="OnPatrolLive.us" group-title="United States",On Patrol: Live (720p)
 https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD" group-title="United States",One America News Network
 #EXTVLCOPT:http-referrer=https://usnewson.com/
@@ -2765,11 +2765,11 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Reelz.us@SD" group-title="United States",Reelz (720p)
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="United States",Reelz Famous & Infamous (720p)
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" group-title="United States",Reelz Famous & Infamous (720p)
 https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="United States",Reelz Famous & Infamous (1080p)
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" group-title="United States",Reelz Famous & Infamous (1080p)
 https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="United States",Reelz Famous & Infamous (1080p)
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" group-title="United States",Reelz Famous & Infamous (1080p)
 https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroTV.us@East" group-title="United States",Retro TV (720p) [Geo-blocked]
 https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
