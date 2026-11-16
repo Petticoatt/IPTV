@@ -4,7 +4,7 @@
   "group_count": 18,
   "source_count": 45,
   "channel_count": 6871,
-  "playlist_sha256": "88a448dc984254012338905879ddfb2940bbfee770a8ba562639bb43e663a16f",
+  "playlist_sha256": "db07dea9542e1062d2d6181a188e43f1dc1c04f7a2d1fccfc1ae5999784ccda8",
   "groups": [
     {
       "position": 1,
@@ -329,8 +329,8 @@
     {
       "group": "Italy",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/it.m3u",
-      "sha256": "263e98d6910821e3efb529a2ca9bcdb2cb7173b25a22627795cbd9fcbca839f6",
-      "bytes": 51450,
+      "sha256": "4c169153985133b7ce39cacad9a3b2c7ef432f0374284c78f0e2a75a7399c532",
+      "bytes": 51442,
       "channels": 353
     },
     {
