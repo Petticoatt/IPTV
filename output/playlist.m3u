@@ -1092,11 +1092,11 @@ https://cdn12.178.indevs.in/163189/dreamworks
 https://cdn-5.nxplay.com.br/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" group-title="United States",DreamWorks Channel Latin America (1080p)
 http://138.121.15.230:9002/DREAMWORKS/index.m3u8
-#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" group-title="United States",DreamWorks Channel Latin America (1080p)
-https://live.nxplay.com.br/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@Panregional" group-title="United States",DreamWorks Channel Latin America (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://barinaslive1.boldmss.com/DREAMWORKS/DREAMWORKS.isml/index.m3u8
+#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" group-title="United States",DreamWorks Channel Latin America (1080p)
+https://live.nxplay.com.br/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="DroneTV.us@SD" group-title="United States",DroneTV (1080p)
 https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DSports.us@Panregional" group-title="United States",DSports
@@ -1200,9 +1200,9 @@ https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" group-title="United States",ESPN Latin America Colombia (1080p)
-http://190.61.47.54:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" group-title="United States",ESPN Latin America Colombia (1080p)
 http://181.78.211.244:8005/play/a08q/index.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" group-title="United States",ESPN Latin America Colombia (1080p)
+http://190.61.47.54:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Mexico" group-title="United States",ESPN Latin America Mexico (1080p)
 http://168.228.44.241:9997/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us@HD" group-title="United States",ESPNU HD (720p)
@@ -2012,9 +2012,9 @@ https://ch8.littletongov.org/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" group-title="United States",LiveNOW from FOX
 https://vid.hls.protv.ro/liveibu5/liveibu5_highw/index.m3u8?1
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" group-title="United States",LiveNOW from FOX (720p)
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" group-title="United States",LiveNOW from FOX (720p)
 https://amg00488-foxdigital-livenowbyfox-lgus-y0a81.amagi.tv/playlist/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" group-title="United States",LiveNOW from FOX (720p)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" group-title="United States",LiveNOW from FOX (720p) [Geo-blocked]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" group-title="United States",LiveNOW from FOX (1080p)
@@ -2121,9 +2121,9 @@ http://168.228.44.241:9999/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaRomantica.us@SD" group-title="United States",Mi Musica Romantica (1080p)
 http://181.78.12.119:16123/play/ch54/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaSalsa.us@SD" group-title="United States",Mi Musica Salsa (1080p)
-http://181.78.12.119:16123/play/ch55/index.m3u8
-#EXTINF:-1 tvg-id="MiMusicaSalsa.us@SD" group-title="United States",Mi Musica Salsa (1080p)
 http://38.134.250.110:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaSalsa.us@SD" group-title="United States",Mi Musica Salsa (1080p)
+http://181.78.12.119:16123/play/ch55/index.m3u8
 #EXTINF:-1 tvg-id="MBTV.us@SD" group-title="United States",Miami Beach Tv (MBTV) (Miami Beach FL) (720p)
 https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="MidnightPulp.us@SD" group-title="United States",Midnight Pulp (1080p)
@@ -2260,11 +2260,11 @@ http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
 http://45.173.231.22:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
+http://181.78.12.119:16123/play/ch30
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
 http://190.93.224.42/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
 https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="United States",National Geographic Latin America (1080p)
-http://181.78.12.119:16123/play/ch30
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" group-title="United States",National Geographic Wild HD East (720p)
 http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Naturaleza Salvaje (1080p) [Geo-blocked]
@@ -2436,13 +2436,13 @@ https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (1080p)
 http://181.78.79.131:8000/play/a0qm
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (1080p)
+http://181.224.255.210:8001/play/a0fm
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (1080p)
 http://190.93.224.42/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (1080p)
 http://190.234.82.52:8000/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (1080p)
 https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="United States",Nickelodeon Latin America (1080p)
-http://181.224.255.210:8001/play/a0fm
 #EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="United States",Nicktoons (720p)
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="United States",Nicktoons (720p)
@@ -2515,7 +2515,7 @@ https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
 #EXTINF:-1 tvg-id="OANPlus.us@SD" group-title="United States",OAN Plus (720p)
 https://a-cdn.klowdtv.com/live1/oane/playlist.m3u8
-#EXTINF:-1 tvg-id="OANPlus.us@KPVMLD" group-title="United States",OAN Plus KPVM-LD
+#EXTINF:-1 tvg-id="OANPlus.us@KPVMLD" group-title="United States",OAN Plus KPVM-LD (1080p)
 https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
 #EXTINF:-1 tvg-id="KOCTChannel18.us@SD" group-title="United States",Oceanside Community Television (KOCT) Community Channel 18 (720p)
 https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8
@@ -2535,7 +2535,7 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Omstars (1080p)
 https://d1too6m5v9oyet.cloudfront.net/scheduler/scheduleMaster/281.m3u8
-#EXTINF:-1 tvg-id="OnPatrolLive.us" group-title="United States",On Patrol: Live (720p)
+#EXTINF:-1 tvg-id="OnPatrolLive.us@HD" group-title="United States",On Patrol: Live (720p)
 https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD" group-title="United States",One America News Network
 #EXTVLCOPT:http-referrer=https://usnewson.com/
@@ -2766,11 +2766,11 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Reelz.us@SD" group-title="United States",Reelz (720p)
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
-#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" group-title="United States",Reelz Famous & Infamous (720p)
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us@HD" group-title="United States",Reelz Famous & Infamous (720p)
 https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" group-title="United States",Reelz Famous & Infamous (1080p)
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us@HD" group-title="United States",Reelz Famous & Infamous (1080p)
 https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
-#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" group-title="United States",Reelz Famous & Infamous (1080p)
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us@HD" group-title="United States",Reelz Famous & Infamous (1080p)
 https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroTV.us@East" group-title="United States",Retro TV (720p) [Geo-blocked]
 https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
@@ -2855,13 +2855,13 @@ https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8
 #EXTINF:-1 tvg-id="SCCurrents.us@SD" group-title="United States",SC Currents (1080p)
 https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="ScaresbyShudder.us@SD" group-title="United States",Scares by Shudder (1080p)
-https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8
+https://aka-live1050.delivery.roku.com/bf4fff9b-e81f-4dcb-baaf-71b75e091599/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="ScaresbyShudder.us@SD" group-title="United States",Scares by Shudder (1080p)
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349
 #EXTINF:-1 tvg-id="ScaresbyShudder.us@SD" group-title="United States",Scares by Shudder (1080p)
 https://e9ee87fcc9f2409f998e7aa106f64672.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_ScaresbyShudder/playlist.m3u8
 #EXTINF:-1 tvg-id="ScaresbyShudder.us@SD" group-title="United States",Scares by Shudder (1080p)
-https://aka-live1050.delivery.roku.com/bf4fff9b-e81f-4dcb-baaf-71b75e091599/t2-origin/out/v1/live.m3u8
+https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Scares by Shudder (1080p)
 https://amc-scaresbyshudder-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SchwabNetwork.us@SD" group-title="United States",Schwab Network (1080p)
@@ -3086,7 +3086,7 @@ https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/pl
 http://212.5.144.156:8080/tbn/index.m3u8
 #EXTINF:-1 tvg-id="TBN.us@East" group-title="United States",TBN (1080p)
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
-#EXTINF:-1 tvg-id="TBNArmenia.us@SD" group-title="United States",TBN Armenia
+#EXTINF:-1 tvg-id="TBNArmenia.us@SD" group-title="United States",TBN Armenia (1080p)
 https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="TBNInspire.us@SD" group-title="United States",TBN Inspire (1080p)
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
@@ -3151,11 +3151,11 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@West" group-title="United States",Telemundo West (720p)
 http://45.5.117.57:8900/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@WKAQTV" group-title="United States",Telemundo WKAQ-TV (1080p)
+http://38.107.110.140:61400/play/a07a/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@WKAQTV" group-title="United States",Telemundo WKAQ-TV (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@WKAQTV" group-title="United States",Telemundo WKAQ-TV (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us@WKAQTV" group-title="United States",Telemundo WKAQ-TV (1080p)
-http://38.107.110.140:61400/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionCaribe.us@HD" group-title="United States",Television Caribe (1080p)
 https://televisioncaribe.com/index.m3u8
 #EXTINF:-1 tvg-id="TemeculaTV.us@SD" group-title="United States",Temecula TV (Temecula CA) (1080p)
@@ -3310,9 +3310,6 @@ https://aegis-cloudfront-1.tubi.video/cb7f305d-049a-4feb-bc6e-028c43ad3c3e/maste
 https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
 #EXTINF:-1 tvg-id="TomSingsTV.us@HD" group-title="United States",Tom Sings TV (576p)
 https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
-#EXTINF:-1 tvg-id="TomSingsTV.us@HD" group-title="United States",Tom Sings TV (1080p)
-#EXTVLCOPT:http-referrer=https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4
-https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD" group-title="United States",Toon Goggles (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD" group-title="United States",Toon Goggles (720p) [Geo-blocked]
@@ -3664,9 +3661,9 @@ https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u
 #EXTINF:-1 tvg-id="WeTV.us@East" group-title="United States",We TV (1080p)
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us@SD" group-title="United States",WeatherNation (1080p)
-https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
-#EXTINF:-1 tvg-id="WeatherNation.us@SD" group-title="United States",WeatherNation (1080p)
 https://aka-live1050.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us@SD" group-title="United States",WeatherNation (1080p)
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us@SD" group-title="United States",WeatherNation (1080p)
 https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us@SD" group-title="United States",WeatherNation TV (720p)
@@ -7987,7 +7984,7 @@ http://170.83.16.50/AGRO_MAIS/index.m3u8
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazonSat.br@SD" group-title="Brazil",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="ArarunaTV.br@SD" group-title="Brazil",Araruna TV
+#EXTINF:-1 tvg-id="ArarunaTV.br@SD" group-title="Brazil",Araruna TV (614p)
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AratuOn.br@SD" group-title="Brazil",Aratu On (1080p)
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
@@ -8081,7 +8078,7 @@ http://186.219.52.187/canal_rural/index.m3u8
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br@SD" group-title="Brazil",Canal Saúde (720p) [Not 24/7]
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalSete.br@SD" group-title="Brazil",Canal Sete
+#EXTINF:-1 tvg-id="CanalSete.br@SD" group-title="Brazil",Canal Sete (1080p)
 http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSTART.br@SD" group-title="Brazil",Canal START (720p)
 https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8
@@ -8248,7 +8245,7 @@ https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ODiaTV.br@SD" group-title="Brazil",O Dia TV (450p)
 https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
-#EXTINF:-1 tvg-id="PetloversTV.br@SD" group-title="Brazil",Petlovers TV
+#EXTINF:-1 tvg-id="PetloversTV.br@SD" group-title="Brazil",Petlovers TV (720p)
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayTV.br@SD" group-title="Brazil",Play TV (720p)
 http://45.177.114.115/PLAY_TV/index.m3u8
@@ -8256,7 +8253,7 @@ http://45.177.114.115/PLAY_TV/index.m3u8
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 #EXTINF:-1 tvg-id="PlenaTV.br@SD" group-title="Brazil",Plena TV (720p)
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-id="PlenitudeTV.br@SD" group-title="Brazil",Plenitude TV
+#EXTINF:-1 tvg-id="PlenitudeTV.br@SD" group-title="Brazil",Plenitude TV (1080p)
 https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimerTV.br@SD" group-title="Brazil",Primer TV (1080p)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
@@ -8369,7 +8366,7 @@ http://46.151.196.223:14244
 http://170.84.165.204/REDEVIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br@SD" group-title="Brazil",Rede Vida (720p)
 http://186.219.52.187/rede_vida/index.m3u8
-#EXTINF:-1 tvg-id="RedeTVParana.br@SD" group-title="Brazil",RedeTV! Parana
+#EXTINF:-1 tvg-id="RedeTVParana.br@SD" group-title="Brazil",RedeTV! Parana (1080p)
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCartoon.br@SD" group-title="Brazil",Retro Cartoon (720p)
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
@@ -8429,7 +8426,7 @@ https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
 http://45.177.114.115/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="Brazil",Sony Movies (720p)
 http://170.83.16.50/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SOUTV.br@SD" group-title="Brazil",SOU TV
+#EXTINF:-1 tvg-id="SOUTV.br@SD" group-title="Brazil",SOU TV (720p)
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="SporTV2.br@SD" group-title="Brazil",SporTV 2 (1080p)
 http://195.178.110.110/sportv2/index.m3u8
@@ -9278,7 +9275,7 @@ https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-id="9laLomaTV.es@SD" group-title="Spain",9 la Loma TV (1080p) [Geo-blocked]
 https://9laloma.tv/live.m3u8
-#EXTINF:-1 tvg-id="12tv.es@SD" group-title="Spain",12tv
+#EXTINF:-1 tvg-id="12tv.es@SD" group-title="Spain",12tv (1080p)
 #EXTVLCOPT:http-referrer=https://www.12tv.es/
 https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 #EXTINF:-1 tvg-id="12tv.es@SD" group-title="Spain",12TV Alicante (720p)
@@ -9344,7 +9341,7 @@ http://88.212.15.50/live/test_axn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
-#EXTINF:-1 tvg-id="AXN.es@HD" group-title="Spain",AXN HD
+#EXTINF:-1 tvg-id="AXN.es@HD" group-title="Spain",AXN HD (1080p)
 http://90.170.214.40:9700/stream/avatel/axn/master.m3u8
 #EXTINF:-1 tvg-id="AXNMovies.es@SD" group-title="Spain",AXN Movies
 http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
@@ -9383,15 +9380,15 @@ https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Emporda.es@SD" group-title="Spain",Canal 10 Empordà (360p) [Not 24/7]
 https://ventdelnord.tv:8080/escala/directe.m3u8
-#EXTINF:-1 tvg-id="24Horas.es@SD" group-title="Spain",Canal 24 Horas
+#EXTINF:-1 tvg-id="24Horas.es@SD" group-title="Spain",Canal 24 Horas (720p)
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24Horas.es@SD" group-title="Spain",Canal 24 Horas (720p)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="24HorasCanarias.es@SD" group-title="Spain",Canal 24 Horas Canarias
+#EXTINF:-1 tvg-id="24HorasCanarias.es@SD" group-title="Spain",Canal 24 Horas Canarias (720p)
 https://rtvelivestream.rtve.es/rtvesec/can/24h_can_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24HorasCanarias.es@SD" group-title="Spain",Canal 24 Horas Canarias (720p)
 https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1 tvg-id="24HorasCatalunya.es@SD" group-title="Spain",Canal 24 Horas Catalunya
+#EXTINF:-1 tvg-id="24HorasCatalunya.es@SD" group-title="Spain",Canal 24 Horas Catalunya (720p)
 https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24HorasCatalunya.es@SD" group-title="Spain",Canal 24 Horas Catalunya (720p)
 https://ztnr.rtve.es/ztnr/4952053.m3u8
@@ -9413,7 +9410,7 @@ https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
 https://secure5.todostreaming.es/live/division-alm.m3u8
 #EXTINF:-1 tvg-id="CanalExtremadura.es@SD" group-title="Spain",Canal Extremadura (576p) [Not 24/7]
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="CanalLuzTelevision.es@SD" group-title="Spain",Canal Luz Television
+#EXTINF:-1 tvg-id="CanalLuzTelevision.es@SD" group-title="Spain",Canal Luz Television (720p)
 https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalLuzTelevision.es@SD" group-title="Spain",Canal Luz Televisión (1080p)
 https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
@@ -9455,10 +9452,10 @@ http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
 #EXTINF:-1 tvg-id="Clan.es@SD" group-title="Spain",Clan (720p) [Geo-blocked]
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
+#EXTINF:-1 tvg-id="Clan.es@SD" group-title="Spain",Clan (720p) [Geo-blocked]
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
 #EXTINF:-1 tvg-id="Clan.es@SD" group-title="Spain",Clan (1080p)
 https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
-#EXTINF:-1 tvg-id="Clan.es@SD" group-title="Spain",Clan [Geo-blocked]
-https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es@SD" group-title="Spain",Clan Internacional (1080p)
 http://168.228.44.241:9999/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es@SD" group-title="Spain",Clan Internacional Americas (1080p) [Geo-blocked]
@@ -9589,20 +9586,20 @@ https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
 https://ztnr.rtve.es/ztnr/5190066.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es@SD" group-title="Spain",La 1 Canarias (720p) [Geo-blocked]
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
-#EXTINF:-1 tvg-id="La1Canarias.es@SD" group-title="Spain",La 1 Canarias [Geo-blocked]
+#EXTINF:-1 tvg-id="La1Canarias.es@SD" group-title="Spain",La 1 Canarias (720p) [Geo-blocked]
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La1Catalunya.es@SD" group-title="Spain",La 1 Catalunya (720p)
 https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-id="La1Catalunya.es@SD" group-title="Spain",La 1 Catalunya (720p) [Geo-blocked]
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
-#EXTINF:-1 tvg-id="La1Catalunya.es@SD" group-title="Spain",La 1 Catalunya [Geo-blocked]
+#EXTINF:-1 tvg-id="La1Catalunya.es@SD" group-title="Spain",La 1 Catalunya (720p) [Geo-blocked]
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La1.es@UHD" group-title="Spain",La 1 UHD (2160p)
 http://185.47.212.25:8080/tdp_HD/index.m3u8
-#EXTINF:-1 tvg-id="La2.es@SD" group-title="Spain",La 2
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.es@SD" group-title="Spain",La 2 (720p)
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 tvg-id="La2.es@SD" group-title="Spain",La 2 (720p)
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.es@SD" group-title="Spain",La 2 (1080p)
 https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u8
 #EXTINF:-1 tvg-id="La2Canarias.es@SD" group-title="Spain",La 2 Canarias (720p)
@@ -9665,7 +9662,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd
 #EXTINF:-1 tvg-id="Neox.es@HD" group-title="Spain",Neox HD (1080p)
 https://ignac16.github.io/voxel-tv-streams/neox.mpd
-#EXTINF:-1 tvg-id="Nickelodeon.es@HD" group-title="Spain",Nickelodeon HD
+#EXTINF:-1 tvg-id="Nickelodeon.es@HD" group-title="Spain",Nickelodeon HD (1080p)
 http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
 #EXTINF:-1 tvg-id="Nortevision.es@SD" group-title="Spain",NORTEvisión (1080p)
 http://amaru.dyndns.org:8870/0.m3u8
@@ -10194,7 +10191,7 @@ https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="20.it@SD" group-title="Italy",20 Mediaset [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
-#EXTINF:-1 tvg-id="50Canale.it@SD" group-title="Italy",50 Canale
+#EXTINF:-1 tvg-id="50Canale.it@SD" group-title="Italy",50 Canale (720p)
 https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 #EXTINF:-1 tvg-id="51RadioTV.it@SD" group-title="Italy",51 Radio TV (480p) [Geo-blocked]
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
@@ -10264,10 +10261,10 @@ https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale5.it@SD" group-title="Italy",Canale 5 [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 #EXTINF:-1 tvg-id="Canale5.it@HD" group-title="Italy",Canale 5 HD
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Canale5.it@HD" group-title="Italy",Canale 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://185.227.34.62/stream/17/index.m3u8
+#EXTINF:-1 tvg-id="Canale5.it@HD" group-title="Italy",Canale 5 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Canale5.it@HD" group-title="Italy",Canale 5 HD (1080p)
 https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale7.it@SD" group-title="Italy",Canale 7 (480p)
@@ -10615,9 +10612,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 #EXTINF:-1 tvg-id="Rai3.it@HD" group-title="Italy",Rai 3 (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_tre/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai3.it@HD" group-title="Italy",Rai 3 (1080p)
-https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
-#EXTINF:-1 tvg-id="Rai3.it@HD" group-title="Italy",Rai 3 (1080p)
 http://team-tv.co:81/rai3/index.m3u8
+#EXTINF:-1 tvg-id="Rai3.it@HD" group-title="Italy",Rai 3 (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
 #EXTINF:-1 tvg-id="Rai3.it@BISFJK" group-title="Italy",Rai 3 BIS FJK (408p)
 https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai3.it@FriuliVeneziaGiulia" group-title="Italy",Rai 3 Friuli Venezia Giulia (408p)
@@ -10670,11 +10667,11 @@ http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it@SD" group-title="Italy",Rai Storia (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 #EXTINF:-1 tvg-id="RaiStoria.it@SD" group-title="Italy",Rai Storia (1080p)
+http://team-tv.co:81/raistoria/index.m3u8
+#EXTINF:-1 tvg-id="RaiStoria.it@SD" group-title="Italy",Rai Storia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
-#EXTINF:-1 tvg-id="RaiStoria.it@SD" group-title="Italy",Rai Storia (1080p)
-http://team-tv.co:81/raistoria/index.m3u8
-#EXTINF:-1 tvg-id="RaiSudtirol.it@SD" group-title="Italy",Rai Sudtirol
+#EXTINF:-1 tvg-id="RaiSudtirol.it@SD" group-title="Italy",Rai Sudtirol (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
 #EXTINF:-1 tvg-id="RaiWorldPremium.it@SD" group-title="Italy",Rai World Premium (1080p)
@@ -10820,7 +10817,7 @@ https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 #EXTINF:-1 tvg-id="SuperTVOristano.it@SD" group-title="Italy",Super TV Oristano (720p) [Not 24/7]
 http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8
-#EXTINF:-1 tvg-id="Super.it@SD" group-title="Italy",Super!
+#EXTINF:-1 tvg-id="Super.it@SD" group-title="Italy",Super! (720p)
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperSix.it@SD" group-title="Italy",SuperSix Lombardia (720p)
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
@@ -11338,6 +11335,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&sta
 #EXTINF:-1 tvg-id="BFMTV.fr@SD" group-title="France",BFM TV (576p)
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr@SD" group-title="France",BFM TV (1080p)
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr@SD" group-title="France",BFM TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="Boomerang.fr@HD" group-title="France",Boomerang HD (720p)
@@ -11364,6 +11363,8 @@ http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr@SD" group-title="France",Cine+ Frisson (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/CineFrisson/index.m3u8
+#EXTINF:-1 tvg-id="CNews.fr@SD" group-title="France",CNews (720p)
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/cnews/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CNews.fr@SD" group-title="France",CNews (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:-1 tvg-id="CNews.fr@SD" group-title="France",CNews (1080p) [Geo-blocked]
@@ -11428,9 +11429,9 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" group-title="France",Euronews Spanish (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" group-title="France",Euronews Spanish (1080p)
-https://iptv.bitred.cl/euronews/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" group-title="France",Euronews Spanish (1080p)
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" group-title="France",Euronews Spanish (1080p)
+https://iptv.bitred.cl/euronews/index.m3u8
 #EXTINF:-1 tvg-id="Europe1TV.fr@HD" group-title="France",Europe 1 TV (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
 #EXTINF:-1 tvg-id="Eurosport.fr@Asia" group-title="France",Eurosport
@@ -11461,8 +11462,8 @@ http://87.238.211.217:2209/stream/99/index.m3u8
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Turkiye" group-title="France",Eurosport 1 Turkiye
 https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@UK" group-title="France",Eurosport 1 UK (1080p)
-http://85.117.37.43/eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@UK" group-title="France",Eurosport 1 UK (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@France" group-title="France",Eurosport 2 (1080p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria" group-title="France",Eurosport 2 Bulgaria
@@ -11619,6 +11620,8 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="France",Grjngo Films de Western (1080p)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fc1b02-5945-11ef-a2df-87241c204d22/0/master.m3u8?country=fr&vendor=rakuten
+#EXTINF:-1 tvg-id="Gulli.fr@SD" group-title="France",Gulli (720p)
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/gulli/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr@SD" group-title="France",Gulli (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/Gulli/index.m3u8
@@ -11652,6 +11655,8 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 tvg-id="LCP.fr@SD" group-title="France",LCP (477p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+#EXTINF:-1 tvg-id="LCP.fr@SD" group-title="France",LCP (720p)
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/lcp/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD" group-title="France",Le Figaro IDF (720p)
 https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD" group-title="France",Le Figaro IDF (1080p)
@@ -11673,6 +11678,8 @@ http://99.27.51.147:8080/M6/index.m3u8
 https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
 #EXTINF:-1 tvg-id="M6Music.fr@SD" group-title="France",M6 Music (1080p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="M6.fr@SD" group-title="France",M6 SD (1080p)
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Mangas.fr@SD" group-title="France",Mangas (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MCMPop.fr@SD" group-title="France",MCM Pop
@@ -11759,8 +11766,14 @@ https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/
 https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/playlist.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr@SD" group-title="France",RMC Decouverte (1080p)
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:-1 tvg-id="RMCDecouverte.fr@SD" group-title="France",RMC Decouverte (1080p)
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/rmc_decouverte/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="RMCLife.fr@SD" group-title="France",RMC Life (1080p)
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:-1 tvg-id="RMCLife.fr@SD" group-title="France",RMC Life (1080p)
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/cherie_25/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="RMCStory.fr@SD" group-title="France",RMC Story (720p)
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/rmc_story/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr@SD" group-title="France",RMC Story (1080p)
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:-1 tvg-id="ScienceVieTV.fr@SD" group-title="France",Science & Vie TV (720p)
@@ -11789,6 +11802,8 @@ https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Syfy.fr@SD" group-title="France",Syfy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="T18.fr@HD" group-title="France",T18 (720p)
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/t18/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="T18.fr@HD" group-title="France",T18 (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 tvg-id="TebeoTV.fr@SD" group-title="France",Tebeo TV (576i)
@@ -11799,7 +11814,7 @@ https://videas.agglo-lenslievin.fr/index.m3u8
 https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teva.fr@SD" group-title="France",Teva (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="TF1.fr@SD" group-title="France",TF1
+#EXTINF:-1 tvg-id="TF1.fr@SD" group-title="France",TF1 (1080p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD" group-title="France",TF1 Series Films (1080p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
@@ -12253,9 +12268,9 @@ https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="365daysTV.ru@SD" group-title="Russia",365 Дней (576p)
 http://31.148.48.15/365_dney/index.m3u8
 #EXTINF:-1 tvg-id="black.ru@SD" group-title="Russia",.black (576p)
-http://stream.mcquack.net/263/index.m3u8
-#EXTINF:-1 tvg-id="black.ru@SD" group-title="Russia",.black (576p)
 http://s1.merlive.am/black/index.m3u8
+#EXTINF:-1 tvg-id="black.ru@SD" group-title="Russia",.black (576p)
+http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 tvg-id="red.ru@SD" group-title="Russia",.red (576p)
 http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-id="red.ru@SD" group-title="Russia",.red (576p)
@@ -12524,9 +12539,9 @@ https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="Russia",FON Music (1080p)
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="FONTV.ru@HD" group-title="Russia",FON TV (1080p)
-https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
-#EXTINF:-1 tvg-id="FONTV.ru@HD" group-title="Russia",FON TV (1080p)
 https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
+#EXTINF:-1 tvg-id="FONTV.ru@HD" group-title="Russia",FON TV (1080p)
+https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.ru@SD" group-title="Russia",Food Network (1080p)
 http://stream.mcquack.net/298/index.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru@SD" group-title="Russia",FoodTime (1080p)
@@ -12709,9 +12724,9 @@ http://stream.mcquack.net/112/index.m3u8
 #EXTINF:-1 tvg-id="MatchIgra.ru@SD" group-title="Russia",Match! Igra (576p)
 http://stream.mcquack.net/188/index.m3u8
 #EXTINF:-1 tvg-id="MatchPlaneta.ru@SD" group-title="Russia",Match! Planeta (576p)
-https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="MatchPlaneta.ru@SD" group-title="Russia",Match! Planeta (576p)
 http://s1.merlive.am/matchplaneta/index.m3u8
+#EXTINF:-1 tvg-id="MatchPlaneta.ru@SD" group-title="Russia",Match! Planeta (576p)
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="MatchPremier.ru@SD" group-title="Russia",Match! Premier (576p)
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="MatchStrana.ru@SD" group-title="Russia",Match! Strana (576p)
@@ -13235,13 +13250,13 @@ https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772a
 #EXTINF:-1 tvg-id="TiJi.ru@SD" group-title="Russia",TiJi (576p)
 http://flussonic.linkintel.ru/tiji/index.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru@SD" group-title="Russia",TiJi (576p)
+http://s1.merlive.am/TiJi/index.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru@SD" group-title="Russia",TiJi (576p)
 http://stream.mcquack.net/111/index.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru@SD" group-title="Russia",TiJi (576p)
 https://live-3.otcnet.ru/Tiji/index.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru@SD" group-title="Russia",TiJi (576p)
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TiJi.ru@SD" group-title="Russia",TiJi (576p)
-http://s1.merlive.am/TiJi/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ru@SD" group-title="Russia",TLC (1080p)
 http://stream.mcquack.net/168/index.m3u8
 #EXTINF:-1 tvg-id="TNT4.ru@SD" group-title="Russia",TNT4 (576p)
@@ -13491,9 +13506,9 @@ https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zhivayapriroda.ru@SD" group-title="Russia",Zhivaya priroda (1080p)
 http://stream.mcquack.net/83/index.m3u8
 #EXTINF:-1 tvg-id="Zhivayapriroda.ru@HD" group-title="Russia",Zhivaya priroda HD (1080p)
-http://stream.mcquack.net/225/index.m3u8
-#EXTINF:-1 tvg-id="Zhivayapriroda.ru@HD" group-title="Russia",Zhivaya priroda HD (1080p)
 http://s1.merlive.am/Jivaiapriroda/index.m3u8
+#EXTINF:-1 tvg-id="Zhivayapriroda.ru@HD" group-title="Russia",Zhivaya priroda HD (1080p)
+http://stream.mcquack.net/225/index.m3u8
 #EXTINF:-1 tvg-id="Zhivi.ru@SD" group-title="Russia",Zhivi! (576p)
 https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Zoopark.ru@SD" group-title="Russia",Zoopark (576i)
@@ -13738,7 +13753,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/20.m3u8
-#EXTINF:-1 tvg-id="MuzTV.ru@SD" group-title="Russia",МузТВ
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" group-title="Russia",МузТВ (576p)
 https://streaming.televizor-24-tochka.ru/live/618.m3u8
 #EXTINF:-1 tvg-id="Muzyka1.ru@International" group-title="Russia",Музыка 1 International [Not 24/7]
 https://kino-1.catcast.tv/content/37745/index.m3u8
@@ -13777,13 +13792,13 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru@SD" group-title="Russia",Ностальгия (576p)
 http://31.148.48.15/Nostalgiya/index.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="Russia",НТВ
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://streaming.televizor-24-tochka.ru/live/7.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@SD" group-title="Russia",НТВ (540p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="Russia",НТВ (576p)
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/7.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@SD" group-title="Russia",НТВ (+4) (576p)
 http://31.148.48.15/NTV/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@Plus1" group-title="Russia",НТВ +1 (576p)
@@ -13826,20 +13841,20 @@ https://v4.proofix.ru/0mir/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-id="OTR.ru@SD" group-title="Russia",ОТР (576p)
 http://31.148.48.15/OTR/index.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru@SD" group-title="Russia",Первый канал
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://streaming.televizor-24-tochka.ru/live/4.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru@SD" group-title="Russia",Первый канал (450p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD" group-title="Russia",Первый канал (576p)
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/4.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru@SD" group-title="Russia",Первый канал (1080p)
 http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru@Europe" group-title="Russia",Первый канал Европа (576p)
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-id="PerviyKrymskiy.ru@SD" group-title="Russia",Первый Крымский (720p)
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
-#EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru@SD" group-title="Russia",Первый Республиканский
+#EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru@SD" group-title="Russia",Первый Республиканский (576p)
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1 tvg-id="YaPervyy.ru@HD" group-title="Russia",Первый Ярославский (1080p)
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
@@ -13893,13 +13908,13 @@ http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru@SD" group-title="Russia",Родное Кино (576p)
 http://31.148.48.15/Rodnoe_kino/index.m3u8
-#EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="Russia",Россия 1
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://streaming.televizor-24-tochka.ru/live/5.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="Russia",Россия 1 (450p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="Russia",Россия 1 (576p)
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/5.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru@Plus6" group-title="Russia",Россия 1 (+6) (576p)
 http://31.148.48.15/Rossiya_1/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="Russia",Россия 24 (450p) [Geo-blocked]
