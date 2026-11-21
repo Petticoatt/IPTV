@@ -1552,8 +1552,6 @@ https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="GritXtra.us@SD" group-title="United States",Grit Xtra (1080p)
 https://aegis-cloudfront-1.tubi.video/3bda1ff3-ae32-45ab-ad49-f5e206511a70/playlist.m3u8
-#EXTINF:-1 tvg-id="GunAzTV.us@SD" group-title="United States",GunAz TV
-https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="GustoTV.ca@SD" group-title="United States",Gusto (1080p)
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GustoTV.ca@SD" group-title="United States",GustoTV (1080p)
