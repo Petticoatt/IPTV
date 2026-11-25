@@ -3,26 +3,26 @@
   "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
   "group_count": 18,
   "source_count": 45,
-  "channel_count": 6886,
-  "playlist_sha256": "7ebf3891dc5dcb24ce6b8430977bf5740d9e7bf9458872cd13ed5a94d3e6e026",
+  "channel_count": 6867,
+  "playlist_sha256": "a2df14df549725ece9985011497c4ad5b9b63579a367fd25def3c893664983cc",
   "groups": [
     {
       "position": 1,
       "name": "United States",
       "source_count": 14,
-      "channel_count": 1869
+      "channel_count": 1866
     },
     {
       "position": 2,
       "name": "United States (Pluto TV)",
       "source_count": 1,
-      "channel_count": 400
+      "channel_count": 397
     },
     {
       "position": 3,
       "name": "United States (Samsung TV)",
       "source_count": 1,
-      "channel_count": 407
+      "channel_count": 394
     },
     {
       "position": 4,
@@ -119,9 +119,9 @@
     {
       "group": "United States",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us.m3u",
-      "sha256": "902d88529aaa2044a650f93c4c797a564d7648b7af0d95900eee192dab308311",
-      "bytes": 152332,
-      "channels": 1058
+      "sha256": "408296d123dd8ea8b16123483bb9323f401dcf4f9146d443c019f177c05d9e0a",
+      "bytes": 151725,
+      "channels": 1055
     },
     {
       "group": "United States",
@@ -217,16 +217,16 @@
     {
       "group": "United States (Pluto TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_pluto.m3u",
-      "sha256": "42a747c4c6842d1944d869ed1c26af6958e6f2fd0677af488d8eaf1919fece18",
-      "bytes": 42423,
-      "channels": 400
+      "sha256": "69ed6399487be49522d77e1e71334bb57ce0378b70faf3d0aa0abe936e0ccbcc",
+      "bytes": 42088,
+      "channels": 397
     },
     {
       "group": "United States (Samsung TV)",
       "url": "https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_samsung.m3u",
-      "sha256": "2b5c14884dbb458e285d482eb6ffcb270c4638197e9310f823b79f3bfc3cac75",
-      "bytes": 49960,
-      "channels": 407
+      "sha256": "f78f3fe943e49c15ef14bb357336ea3e3a255e12c6f25b741098f34d85ef6408",
+      "bytes": 48392,
+      "channels": 394
     },
     {
       "group": "Canada",
