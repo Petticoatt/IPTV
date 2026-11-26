@@ -1213,6 +1213,10 @@ https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@English" group-title="United States",EWTN (720p) [Geo-blocked]
 https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN.us@AfricaAsia" group-title="United States",EWTN Africa-Asia (576p)
+https://mumt05.tangotv.in/87NeALx2EWTN/index.m3u8
+#EXTINF:-1 tvg-id="EWTN.us@AfricaAsia" group-title="United States",EWTN Africa-Asia (576p)
+https://samitaorigin.tangotv.in/EWTN/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@AfricaAsia" group-title="United States",EWTN Africa-Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@AsiaPacific" group-title="United States",EWTN Asia-Pacific (720p)
@@ -11305,8 +11309,6 @@ http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@UK" group-title="France",Eurosport 2 UK (540p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport4K.fr@Romania" group-title="France",Eurosport 4K Romania (2160p) [Geo-blocked]
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="EvandisGospelTV.fr@SD" group-title="France",Evandis Gospel TV (1080p)
 https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr@SD" group-title="France",FashionTV Europe (1080p)
@@ -12223,6 +12225,8 @@ https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/120/index.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.ru@SD" group-title="Russia",Cartoon Classics
 http://88.218.242.237:8001/Cartoon_Classics
+#EXTINF:-1 tvg-id="Channel4.ru@SD" group-title="Russia",Channel 4 (576p)
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel4.ru@SD" group-title="Russia",Channel 4 (1080p)
 https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru@SD" group-title="Russia",Channel 5 (576p)
