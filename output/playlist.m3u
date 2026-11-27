@@ -1211,6 +1211,8 @@ https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8
 https://jmp2.uk/rok-b484db42f3d31b6dc2f604d453c694a0.m3u8
 #EXTINF:-1 tvg-id="FaithTV.us@SD" group-title="United States",Faith TV (1080p)
 https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="United States",FaithNFreedomTV (720p)
+https://a-cdn.klowdtv.com/live3/fnf_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Family Feud (720p)
 https://aegis-cloudfront-1.tubi.video/e1638fe1-8df0-470a-9fa9-b515ca7ca18e/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="United States",Family Feud Classic (1080p)
@@ -2602,6 +2604,8 @@ https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFirstTV.us@SD" group-title="United States",Redseat The First (720p)
 https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Reelz.us@SD" group-title="United States",Reelz (720p)
+https://a-cdn.klowdtv.com/live2/reelz_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ReelzFamousInfamous.us@HD" group-title="United States",Reelz Famous & Infamous (720p)
 https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ReelzFamousInfamous.us@HD" group-title="United States",Reelz Famous & Infamous (1080p)
@@ -9196,6 +9200,8 @@ https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTerrassa.es@SD" group-title="Spain",Canal Terrassa (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCosta.es@SD" group-title="Spain",CanalCosta (1080p)
+https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="CancioneroTV.es@SD" group-title="Spain",Cancionero TV (360p)
 http://89.140.229.5/hls1/cancionero.m3u8
 #EXTINF:-1 tvg-id="CetelmonTV.es@SD" group-title="Spain",Cetelmón TV (404p)
@@ -9218,6 +9224,8 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.es@SD" group-title="Spain",Comedy Central (1080p)
 http://90.170.214.40:9700/stream/avatel/comedycentral/master.m3u8
+#EXTINF:-1 tvg-id="Condavision.es@SD" group-title="Spain",Condavision (1080p)
+https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="CongresodelosDiputados1.es@SD" group-title="Spain",Congreso de los Diputados 1 (360p) [Not 24/7]
 https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
 #EXTINF:-1 tvg-id="CongresodelosDiputados2.es@SD" group-title="Spain",Congreso de los Diputados 2 (360p) [Not 24/7]
@@ -9493,6 +9501,8 @@ https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.es@HD" group-title="Spain",Telemadrid HD (1080p)
 https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="Teleonuba.es@SD" group-title="Spain",Teleonuba (1080p)
+https://5f71743aa95e4.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleRibera.es@SD" group-title="Spain",TeleRibera (720p) [Not 24/7]
 https://video1.lhdserver.es/teleribera/live.m3u8
 #EXTINF:-1 tvg-id="TeleVigo.es@SD" group-title="Spain",TeleVigo (1080p) [Not 24/7]
